@@ -1,3 +1,5 @@
 parse_journal.py is launching from command line.
 It reads input and launching new_journal_parser.py and old_journal_parser.py depends on wether journal is new or old.
 After scraping - writes results in .txt file in csv-like way with name as journal and puts results file in "Results" directory.
+
+Wrote this program for teacher from university and yes, I'm study at logistics speciality
