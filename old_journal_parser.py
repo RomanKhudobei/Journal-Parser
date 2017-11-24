@@ -5,7 +5,6 @@ import os.path
 import shutil
 import time
 import re
-from itertools import repeat
 import multiprocessing as mp
 from multiprocessing import Pool
 
