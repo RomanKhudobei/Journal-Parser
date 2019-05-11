@@ -37,8 +37,8 @@ def main():
     if new_journals:
         new_journal_parser = subprocess.run(['python', 'new_journal_parser.py'], input=new_journals, encoding='utf-8')
 
-    if old_journals:
-        old_journal_parser = subprocess.run(['python', 'old_journal_parser.py'], input=old_journals, encoding='utf-8')
+    # if old_journals:
+    #     old_journal_parser = subprocess.run(['python', 'old_journal_parser.py'], input=old_journals, encoding='utf-8')
 
 
 if __name__ == '__main__':

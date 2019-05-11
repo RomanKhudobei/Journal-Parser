@@ -1,0 +1,3002 @@
+Francis Marleau Donais; francis.marleau-donais.1@ulaval.ca
+Tianqi Gu; tianqi.gu@monash.edu
+Inhi Kim; inhikim@uq.edu.au
+Graham Currie; graham.currie@monash.edu
+Sefa Awaworyi Churchill; sefa.churchill@rmit.edu.au
+Russell Smyth; russell.smyth@monash.edu
+Mingyue Sheng; m.sheng@auckland.ac.nz
+Benjamin K. Sovacool; BenjaminSo@hih.au.dk
+Aliaksandr Malokin; amalokin@gatech.edu
+Giovanni Circella; gcircella@gatech.edu
+Patricia L. Mokhtarian; plmokhtarian@ucdavis.edu
+Mohammad Sadra Sharifi; sadra.sharifi@aggiemail.usu.edu
+Keith Christensen; keith.christensen@usu.edu
+Anthony Chen; achen@cc.usu.edu
+Ziqi Song; ziqi.song@usu.edu
+Nicholas N. Ferenchak; Ferenchak@unm.edu
+Wesley E. Marshall; Wesley.Marshall@ucdenver.edu
+Jeppe Rich; jr@transport.dtu.dk
+Ali Akbari Ahmadabadi; ali.akbari@ut.ac.ir
+Gholamreza Heravi; heravi@ut.ac.ir
+Florence Boillot; florence.boillot@ifsttar.fr
+Pierre Vinant; pierre.vinant@ifsttar.fr
+Jong Hae Choi; 91219039@inha.edu
+Rui Mu; muruimarie@hotmail.com
+Toshiyuki Yamamoto; yamamoto@term.kuciv.kyoto-u.ac.jp
+Patrícia S. Lavieri; lavieri@utexas.edu
+Chandra R. Bhat; bhat@mail.utexas.edu
+Basil Schmid; basil.schmid@ivt.baug.ethz.ch
+Simona Jokubauskaite; simona.jokubauskaite@boku.ac.at
+Florian Aschauer; florian.aschauer@boku.ac.at
+Stefanie Peer; s.peer@vu.nl
+Reinhard Hössinger; reinhard.hoessinger@boku.ac.at
+Regine Gerike; regine.gerike@boku.ac.at
+Sergio R. Jara-Diaz; jaradiaz@ing.uchile.cl
+Kay W. Axhausen; axhausen@ivt.baug.ethz.ch
+Zhengyu Duan; d_zy@163.com
+Jaime Allen; jallen@uc.cl
+Juan Carlos Muñoz; jcm@ing.puc.cl
+Jordi Rosell; jrosell@ub.edu
+Joanna Moody; jcmoody@mit.edu
+Jinhua Zhao; jinhua@mit.edu
+Peng Liu; pengliu@tju.edu.cn
+Zhigang Xu; xuzhigang@chd.edu.cn
+Hélène Bouscasse; helene.bouscasse@inra.fr
+Matthieu de Lapparent; matthieu.delapparent@heig-vd.ch
+Martin Baresch; baresch@energieinstitut-linz.at
+Simon Moser; moser@energieinstitut-linz.at
+Jeremy J. Michalek; jmichalek@cmu.edu
+Yaoming Zhou; u3003580@connect.hku.hk
+Fabio Hirschhorn; f.hirschhorn@tudelft.nl
+Peng Cheng; mekcheng@nufe.edu.cn
+Zhe OuYang; zhezhe@nufe.edu.cn
+Yang Liu; liuy4895@mail.ustc.edu.cn
+M. Mahdi Tavalaei; m.tavalaei@surrey.ac.uk
+Juan Santalo; juan.santalo@ie.edu
+Chenhui Liu; chenhui.liu.ctr@dot.gov
+Alexandros Nikitas; a.nikitas@hud.ac.uk
+Danique Ton; d.ton@tudelft.nl
+Dorine C. Duives; d.c.duives@tudelft.nl
+Oded Cats; o.cats@tudelft.nl
+Sascha Hoogendoorn-Lanser; sascha.hoogendoorn@minienm.nl
+Serge P. Hoogendoorn; s.p.hoogendoorn@tudelft.nl
+Ipek N. Sener; i-sener@ttimail.tamu.edu
+Richard J. Lee; leerich@wsdot.wa.gov
+Raghu Sidharthan; r.sidharthan@wsp.com
+Dillon T. Fitch; dtfitch@ucdavis.edu
+Mijke Rhemtulla; mrhemtulla@ucdavis.edu
+Susan L. Handy; slhandy@ucdavis.edu
+Abraham Leung; abraham.leung@griffith.edu.au
+Calvin Thigpen; cgthigpen@ucdavis.edu
+B. de Geus; bas.de.geus@vub.be
+Patrick Rérat; Patrick.rerat@unil.ch
+Ralph Buehler; ralphbu@vt.edu, Ralph.Buehler@gmail.com
+Tobias Kuhnimhof; Tobias.Kuhnimhof@dlr.de
+Adrian Bauman; Adrian.bauman@sydney.edu.au
+Christine Eisenmann; christine.eisenmann@dlr.edu
+Angela Curl; angela.curl@canterbury.ac.nz
+Phil Mason; phil.mason@glasgow.ac.uk
+Andre Neves; andre.neves@tfl.gov.uk
+Christian Brand; christian.brand@ouce.ox.ac.uk
+Rachel Aldred; r.aldred@westminster.ac.uk
+Stephanie Sersli; sersli@sfu.ca
+Suji Kim; suji3114@kaist.ac.kr
+Kitae Jang; kitae_jang@berkeley.edu
+Anna Bornioli; anna.bornioli@uwe.ac.uk
+Graham Parkhurst; graham.parkhurst@uwe.ac.uk
+Phillip L. Morgan; morganphil@cardiff.ac.uk
+Joris Klingen; j.j.klingen@vu.nl
+Michael Branion-Calles; michael_branion-calles@sfu.ca
+Jennifer L. Dean; jennifer.dean@uwaterloo.ca
+Christopher Standen; christopher.standen@sydney.edu.au
+Stephen Greaves; stephen.greaves@sydney.edu.au
+Andrew T. Collins; Andrew.Collins@sydney.edu.au
+Melanie Crane; melanie.crane@sydney.edu.au
+Chris Rissel; chris.rissel@sydney.edu.au
+Amanda Stathopoulos; amanda.stathopoulos@epfl.ch
+Marie-Ève Assunçao-Denis; marie-eve.assuncao-denis@mail.mcgill.ca
+Ray Tomalty; ray.tomalty@mcgill.ca
+Peter E.D. Love; plove@iinet.net.au
+Michael C.P. Sing; Michael.sing@polyu.edu
+Lavagnon A. Ika; Ika@telfer.uottawa.ca
+Sidney Newton; sidney.newton@uts.edu.au
+Kunbo Shi; kunbo.shi@ugent.be
+Jonas De Vos; jonas.devos@ugent.be
+Yongchun Yang; yangych@lzu.edu.cn
+Frank Witlox; frank.witlox@ugent.be
+Roberto F. Abenoza; rfa@kth.se
+Chengxi Liu; chengxi@abe.kth.se
+Yusak O. Susilo; yusak@term.kuciv.kyoto-u.ac.jp
+Milad Haghani; milad.haghani@unimelb.edu.au
+Lixian Qian; lixian.qian@xjtlu.edu.cn
+Jose M. Grisolía; jose.grisolia@nottingham.edu.cn
+Didier Soopramanien; D.G.Soopramanien@lboro.ac.uk
+Oscar Oviedo-Trespalacios; oscar.oviedotrespalacios@qut.edu.au
+Elizabeth J. Traut; etraut@psu.edu
+Aaron Steinfeld; as7s@andrew.cmu.edu
+Thomas Vanoutrive; thomas.vanoutrive@ua.ac.be
+V. Marchau; v.marchau@fm.ru.nl
+Steven E. Shladover; steve@path.berkeley.edu
+Yuche Chen; yuche.chen@vanderbilt.edu
+Lars Kröger; Lars.Kroeger@dlr.de
+Eva Fraedrich; eva.fraedrich@gmail.com
+Dirk Heinrichs; dirk.heinrichs@dlr.de
+Francisco J. Bahamonde-Birke; bahamondebirke@gmail.com
+Rita Cyganski; rita.cyganski@dlr.de
+Edward R. Straub; edward.straub@acmwillowrun.org
+Kristin E. Schaefer; kristin.e.schaefer-lay.civ@mail.mil
+Jueyu Wang; wang5931@umn.edu
+Greg Lindsey; linds301@umn.edu
+Hua Fu; hfu@fudan.edu.cn
+Glenn Lyons; glenn.lyons@uwe.ac.uk
+Paul Hammond; paul.hammond@mottmac.com
+Kate Mackay; kate.mackay@mottmac.com
+S.P. Sarmah; spsarmah@iem.iitkgp.ernet.in
+V.N.A. Naikan; naikan@hijli.iitkgp.ernet.in
+Sarat Kumar Jena; saratjena@gim.ac.in
+José J. Ramasco; jramasco@ifisc.uib-csic.es
+Hongmou Zhang; hongmou@mit.edu
+Ping Wang; wangp@tamug.edu
+Joan Mileski; Mileskij@tamug.edu
+Qingcheng Zeng; qzeng@dlmu.edu.cn
+Muhammad Shahbaz; muhdshahbaz77@gmail.com
+Bhargab Maitra; bhargab@civil.iitkgp.ernet.in
+Seolyoung Lee; lsy0717@hanyang.ac.kr
+Eunbi Jeong; jeb0120@krri.re.kr
+Minsoo Oh; dnf6541@hanyang.ac.kr
+Cheol Oh; noble0401@hanyang.ac.kr, cheolo@hanyang.ac.kr
+Isaac Levi Henderson; i.l.henderson@massey.ac.nz
+Kan Wai Hong Tsui; w.h.k.tsui@massey.ac.nz
+Thanh Ngo; t.ngo@massey.ac.nz
+Andrew Gilbey; a.p.gilbey@massey.ac.nz
+Mark Avis; m.avis@massey.ac.nz
+John Hudson; J.R.Hudson@bath.ac.uk
+Stephan Lehner; stlehner@wu.ac.at
+Terence Ping Ching Fan; terencefan@smu.edu.sg
+Hélène Reigner; helene.reigner@univ-amu.fr
+Zhi-Chun Li; smzcli@hust.edu.cn
+Saeed Asadi Bagloee; saeed.bagloee@monash.edu
+Avishai (Avi) Ceder; a.ceder@auckland.ac.nz
+Majid Sarvi; majid.sarvi@unimelb.edu.au
+Mohsen Asadi; mohsen.asadi@tmu.ac.ir
+Beatriz Tovar; btovar@daea.ulpgc.es
+Alan Wall; awall@uniovi.es
+Ioulia Ossokina; i.v.ossokina@tue.nl
+Jason Monios; j.monios@napier.ac.uk
+Jiangping Zhou; zjp@iastate.edu
+Min Zhang; m.zhang7@uq.edu.au
+Pengyu Zhu; brianzhu@hku.hk
+Eleni Bardaka; ebardak@ncsu.edu
+Michael S. Delgado; delgado2@purdue.edu
+Clemens Raffler; clemens.raffler@gmx.at
+Tadej Brezina; tadej.brezina@ivv.tuwien.ac.at
+Benjamin Loeb; benloeb1@utexas.edu
+Kara M. Kockelman; kkockelm@mail.utexas.edu
+John P. Pritchard; j.p.pritchard@utwente.nl
+Cyrille Médard de Chardon; cyrille.mdc@gmail.com
+Qiang Cui; cuiqiang1011@hotmail.com
+Jenny McArthur; jenny.mcarthur@ucl.ac.uk
+Volodymyr Bilotkach; volodymyr.bilotkach@northumbria.ac.uk
+Kai Hüschelrath; hueschel@hs-sm.de
+Richard Mounce; r.mounce@abdn.ac.uk
+Eran Ben-Elia; e.benelia@geo.uu.nl
+Itzhak Benenson; bennya@post.tau.ac.il
+Peter J. Stavroulakis; pjstav@unipi.gr
+Kenneth A. Perrine; kperrine@utexas.edu
+Michael W. Levin; michaellevin@utexas.edu
+Cesar N. Yahia; cesaryahia@utexas.edu
+Stephen D. Boyles; sboyles@uwyo.edu
+Sandip Chakrabarti; sandipc@iima.ac.in
+Gary Painter; gpainter@price.usc.edu
+Dalmo Marchetti; dalmo.marchetti@coppead.ufrj.br
+Peter F. Wanke; peter@coppead.ufrj.br
+Kenneth Joh; kjoh@mwcog.org
+Joachim Scheiner; joachim.scheiner@tu-dortmund.de
+Oliver Huber; oliver.huber@tu-dortmund.de
+Stefan Lohmüller; stefan.lohmueller@tu-dortmund.de
+Víctor Cantillo; victor.cantillo@uninorte.edu.co
+Chunqin Zhang; cqzhang@zstu.edu.cn
+Yong Liu; jhly1007@sjtu.edu.cn
+Guangnian Xiao; gnxiao@shmtu.edu.cn
+Shiwei He; shwhe@bjtu.edu.cn
+Wangtu (Ato) Xu; ato1981@163.com, ato1981@xmu.edu.cn
+José M. Merigó; jmerigo@fen.uchile.cl
+Richard Weber; rweber@dii.uchile.cl
+Juan de Dios Ortúzar; jos@ing.puc.cl
+Paulo Anciaes; p.anciaes@ucl.ac.uk
+Paul Metcalfe; paul@pjmeconomics.co.uk
+Chris Heywood; chris.heywood@accent-mr.com
+Rob Sheldon; Rob.Sheldon@accent-mr.com
+Lucia Rotaris; lucia.rotaris@econ.univ.trieste.it
+Romeo Danielis; danielis@units.it
+Ila Maltese; ila.maltese@polimi.it
+Michal Bíl; m.bil@seznam.cz
+Anming Zhang; anming.zhang@sauder.ubc.ca
+James Odeck; James.odeck@vegvesen.no
+Crystal Legacy; crystal.legacy@unimelb.edu.au
+John Stone; stoneja@unimelb.edu.au
+Giulio Mattioli; g.mattioli@leeds.ac.uk, giulio.mattioli@gmail.com
+Zia Wadud; ziawadud@ce.buet.ac.bd, ziawadud@yahoo.com
+Karen Lucas; lucask1@wmin.ac.uk
+Scott Hardman; SXH993@bham.ac.uk
+Stephan Herminghaus; stephan.herminghaus@ds.mpg.de
+Chengpeng Wan; cpwan@whut.edu.cn
+Xinping Yan; xpyan@whut.edu.cn
+Di Zhang; zhangdi@whut.edu.cn
+Zaili Yang; z.yang@ljmu.ac.uk
+Shohel Amin; Shohel.Amin@coventry.ac.uk
+Umma Tamima; Umma.Tamima@jacobs.com
+Luis E. Amador-Jiménez; luis.amador@concordia.ca
+N. Saxena; n.saxena@unsw.edu.au
+Ayça Berfu Ünal; a.b.unal@rug.nl
+Linda Steg; l.steg@ppsw.rug.nl
+Juliana Granskaya; j.granskaya@spbu.ru
+Thalis P.V. Zis; tzis@dtu.dk
+M. Pilar Socorro; psocorro@daea.ulpgc.es
+Iman Mohammadian; iman.mohammadian@rmit.edu.au
+Ahmad Abareshi; ahmad.abareshi@rmit.edu.au
+Babak Abbasi; babak.abbasi@rmit.edu.au
+Mark Goh; mark_goh@nus.edu.sg
+Rong-Chang Jou; cjou@fcu.edu.twr
+Douglas M. King; dmking@illinois.edu
+Yaoli Wang; wang.yaoli@yahoo.com
+Ronny Kutadinata; ronny.kutadinata@arrb.com.au
+Stephan Winter; winter@unimelb.edu.au
+Mark Wardman; M.R.Wardman@its.leeds.ac.uk
+Henrik Becker; henrik.becker@ivt.baug.ethz.ch
+Anne Lange; anne.lange@uni.lu
+Hua Wang; ceewh@nus.edu.sg
+De Zhao; ceezde@nus.edu.sg
+Qiang Meng; ceemq@nus.edu.sg
+Ghim Ping Ong; ceeongr@nus.edu.sg
+Der-Horng Lee; dhl@nus.edu.sg
+Domingo Penyalver; domingo.penalver@upc.edu
+Mateu Turró; mateu@turro.cat, m.turro@upc.edu
+John B. Williamson; john.williamson@bc.edu
+Merika Anna; merikas@acg.edu
+Triantafyllou Anna; atriant@acg.edu
+Zombanakis George; gzombanakis@acg.edu
+Yanfei Lan; lanyf@tju.edu.cn
+Heike Link; hlink@diw.de
+Muhammad Rizwan Yaseen; rizwany2001@yahoo.com
+Kati Orru; kati.orru@ut.ee
+Qiang Yang; southwestyq@163.com
+Yan-lai Li; lyl_2001@163.com
+Qunwei Wang; wqw0305@126.com
+Gonçalo Homem de Almeida Correia; G.Correia@tudelft.nl
+Sander van Cranenburgh; s.vancranenburgh@tudelft.nl
+Maaike Snelder; maaike.snelder@tno.nl
+Bart van Arem; B.vanArem@TUDelft.nl
+Mischa Young; mischa.young@mail.utoronto.ca
+Steven Farber; steven.farber@geog.utah.edu
+Rocio de Oña; rociodona@ugr.es
+Liang Ma; maliang1010@126.com
+Xiaonian Shan; shanxiaonian@126.com
+Peng Hao; haop@cert.ucr.edu
+Kanok Boriboonsomsin; kanok@cert.ucr.edu
+Guoyuan Wu; gywu@cert.ucr.edu
+Matthew Barth; barth@ece.ucr.edu
+Xiaohong Chen; chenxh@tongji.edu.cn
+Arpita Saha; arpitasaha2904@gmail.com
+Souvik Chakraborty; schakrab@nd.edu
+Satish Chandra; satisfce@gmail.com
+Indrajit Ghosh; indrafce@iitr.ac.in
+Wael K.M. Alhajyaseen; wyaseen@qu.edu.qa
+Hideki Nakamura; nakamura@genv.nagoya-u.ac.jp
+Xin Zhang; zhang@genv.nagoya-u.ac.jp
+Kasper Kerkman; k.kerkman@fm.ru.nl
+Ruimin Li; lrmin@tsinghua.edu.cn
+Xinyu Cao; cao@umn.edu
+Michela Le Pira; michela.lepira@uniroma3.it, mlepira@dica.unict.it
+Mikio Takebayashi; takebaya@kobe-u.ac.jp
+Masamitsu Onishi; onishi.masamitsu.7e@kyoto-u.ac.jp
+Patrick Rigot-Müller; patrick.rigotmuller@mu.ie
+Bent Flyvbjerg; flyvbjerg@plan.aau.dk
+Daniel J. Graham; d.j.graham@imperial.ac.uk
+Christin Hoffmann; c.hoffmann@exeter.ac.uk
+Anjum Naweed; anjum.naweed@cqu.edu.au
+Elton Fernandes; elton@pep.ufrj.br
+Ricardo Rodrigues Pacheco; rpacheco48@gmail.com
+David Greene; dgreen32@utk.edu
+Anushah Hossain; anushah.h@berkeley.edu
+Julia Hofmann; jhofmann@rti.org
+Gloria Helfand; helfand.gloria@epa.gov
+Robert Beach; rbeach@rti.org
+El Miloudi El Koursi; el-miloudi.el-koursi@ifsttar.fr
+Jean-Luc Bruyelle; jean-luc.bruyelle@free.fr
+Richard Seddon; richard.seddon@tecnalia.es
+Conor O'Neill; conor.oneill@ncl.ac.uk
+Pavithra Parthasarathi; pparthasarathi@psrc.org
+David Levinson; levin031@tc.umn.edu
+Petter Christiansen; pch@toi.no
+Byoung-Wook Ko; valiance@kmi.re.kr
+Patrick Plötz; patrick.ploetz@isi.fraunhofer.de
+Demi Chung; Demi.chung@unsw.edu.au
+David A. Hensher; davidh@its.usyd.edu.au
+Yingling Fan; yingling@umn.edu
+Khandker Nurul Habib; khandker.nurulhabib@utoronto.ca
+Kristina M. Currans; curransk@email.arizona.edu
+Kelly J. Clifton; kclifton@pdx.edu
+Maria Xylia; maria.xylia@energy.kth.se
+Patrik Tornberg; patrik.tornberg@abe.kth.se
+Vincent A.C. van den Berg; v.a.c.vanden.berg@vu.nl
+Steve Melia; Steve.Melia@uwe.ac.uk
+Ryo Itoh; itoh@se.is.tohoku.ac.jp
+Paul van de Coevering; coevering.p@buas.nl
+Jae Young Choi; boogalooaz@gmail.com
+Zohora Sultana; zsultan@memphis.edu
+Sabyasachee Mishra; hisabya@wayne.edu
+Christopher R. Cherry; cherry@utk.edu
+Mihalis M. Golias; mgkolias@memphis.edu
+Saman Tabrizizadeh Jeffers; stabrizi@vols.utk.edu
+Zheng Wan; mrwan@ucdavis.edu
+Qichun Dai; qichun.dai@utexas.edu
+Jiahai Yuan; yuanjh126@126.com, yuanjiahai@ncepu.edu.cn
+Marina Efthymiou; marina.efthymiou@dcu.ie
+Michael Manville; mmanvill@ucla.edu
+Adam Seth Levine; asl22@cornell.edu
+W.Y. Szeto; ceszeto@yahoo.com.hk
+M. Ohidul Haque; international.ibass@gmail.com
+Tariq H. Haque; tariq.haque@adelaide.edu.au
+Sylvia Y. He; sylviahe@cuhk.edu.hk
+Yannie H.Y. Cheung; yanniecheung@cuhk.edu.hk
+Sui Tao; s.tao@cuhk.edu.hk
+Hangjun Yang; hangjunyang@gmail.com
+Changmin Jiang; changmin.jiang@umanitoba.ca
+Patricia A. Collins; patricia.collins@queensu.ca
+Robert MacFarlane; r.macfarlane@queensu.ca
+Atiyeh Vaezipour; a.vaezipour@qut.edu.au
+Andry Rakotonirainy; r.andry@qut.edu.au
+Narelle Haworth; n.haworth@qut.edu.au
+Patricia Delhomme; patricia.delhomme@ifsttar.fr
+Ying Kou; maggiekou@sjtu.edu.cn
+Meifeng Luo; meifeng.luo@polyu.edu.hk
+Paolo Ferrari; pferrarister@gmail.com
+Yanan Gao; gaoyanan@chd.edu.cn
+Soora Rasouli; s.rasouli@tue.nl
+Harry Timmermans; h.j.p.timmermans@bwk.tue.nl
+Yuanqing Wang; wyq21@vip.sina.com
+Xiao Chen; chenx.09@sem.tsinghua.edu.cn
+Tian Wu; wutian@amss.ac.cn
+Rui Zheng; zhengrui@psych.ac.cn
+Xiaoxian Guo; guoxx@cptdc.cnpc.com.cn
+Feng Yu; pokfulam@zstu.edu.cn
+David Z.W. Wang; wangzhiwei@ntu.edu.sg
+Nadia Adnan; nadia.adnan233@gmail.com
+Shahrina Md Nordin; shahrina_mnordin@petronas.com.my
+Mohamad Ariff bin Bahruddin; ariffbahruddin@gmail.com
+Murad Ali; mali3@kau.edu.sa
+Yu Yang; yangyu@igsnrr.ac.cn
+Feng Lu; luf@lreis.ac.cn
+Duy Q. Nguyen-Phuoc; nguyen.duy@monash.edu, npqduy@dut.udn.vn
+Chris De Gruyter; chris.degruyter@monash.edu
+William Young; bill.young@monash.edu
+A. Aziz; dr.ameraziz@gmail.com
+Graham Clarke; g.p.clarke@leeds.ac.uk
+Bismark Agbelie; agbelie@cua.edu
+Shih-Liang Chao; alexchao@ntou.edu.tw
+Ming-Miin Yu; yumm@mail.ntou.edu.tw
+Jun Li; laj2336@mail.ustc.edu.cn
+Rohit Sharma; rohitsharma16@gmail.com
+Peter Newman; p.newman@curtin.edu.au
+Umesh S. Mahtani; umesh@gim.ac.in
+Chandra Prakash Garg; cpgarg86@gmail.com
+Huan Hoang Ngo; hhngo@memphis.edu
+Rohan Shah; shahrj@cdmsmith.com
+Jennifer Bonham; jennifer.bonham@adelaide.edu.au
+Yasmine Rashed; yasmine.rashed@uantwerp.be, yasmine.rashed@aast.edu
+Hilde Meersman; hilde.meersman@uantwerp.be
+Christa Sys; christa.sys@uantwerp.be
+Eddy Van de Voorde; eddy.vandevoorde@uantwerp.be
+Thierry Vanelslander; thierry.vanelslander@uantwerp.be
+Aisling Reynolds-Feighan; aisling.reynolds@ucd.ie
+Jinbo Song; songjinbo@dlut.edu.cn
+Yunpeng Zhao; 18340816415@163.com
+Lulu Jin; jinlulu1226@126.com
+Yan Sun; sunyan@dlut.edu.cn
+John D. Bitzan; John.Bitzan@ndsu.edu
+Dong Yang; dong.yang@polyu.edu.hk
+Liping Jiang; lji.om@cbs.dk
+Adolf K.Y. Ng; adolf.ng@umanitoba.ca
+A. Nordlund; annika.nordlund@psy.umu.se
+Ming Wang; wangming@bnu.edu.cn
+Qing-Chang Lu; qclu@sjtu.edu.cn
+Joerg Koenigstorfer; joerg.koenigstorfer@tum.de
+Erik Jenelius; jenelius@infra.kth.se
+Choy Peng Ng; cpng@upnm.edu.my
+Teik Hua Law; lawteik@upm.edu.my
+Fauzan Mohd Jakarni; fauzan.mj@upm.edu.my
+S. Kulanthayan; kulan@upm.edu.my
+Chinh Q. Ho; quoc.ho@sydney.edu.au
+Corinne Mulley; corinne.mulley@sydney.edu.au
+Yale Z. Wong; yale.wong@sydney.edu.au
+Kailai Wang; wang.7684@osu.edu
+Gulsah Akar; akar.3@osu.edu
+Yu-Jen Chen; Yu-Jen.Chen@tn.gov
+Wen-Chin Li; wenchin.li@cranfield.ac.uk
+Edward N. Robson; e.robson@unsw.edu.au
+Kasun P. Wijayaratna; k.wijayaratna@unsw.edu.au
+Vinayak V. Dixit; v.dixit@unsw.edu.au
+Moataz Mohamed; mmohame@mcmaster.ca
+Chen Song; songchen@uibe.edu.cn
+Chao Wei; cdwei@gwu.edu
+Lucia Mejia-Dorantes; lucia.mejia-dorantes@isi.fraunhofer.de
+Joachim Globisch; joachim.globisch@isi.fraunhofer.de
+Sung Hoo Kim; skim3020@gatech.edu
+Monica Menendez; monica.menendez@nyu.edu
+Julia B. Griswold; juliagris@berkeley.edu
+Mengqiao Yu; mengqiao.yu@berkeley.edu
+Victoria Filingeri; v.filingeri@derby.ac.uk
+Offer Grembek; grembek@berkeley.edu
+Joan L. Walker; jwalker@alum.mit.edu
+Panos K. Pouliasis; p_pouliasis@city.ac.uk
+Alessandro V.M. Oliveira; A.V.M.Oliveira@gmail.com
+Wen Cheng; wcheng@cpp.edu
+Gurdiljot Singh Gill; gurdiljotg@cpp.edu
+Taha Sakrani; tsakrani@cpp.edu
+Dennis Ralls; dbralls@cpp.edu
+Xudong Jia; xjia@cpp.edu
+Paraskevas Nikolaou; nikolaou.paraskevas@ucy.ac.cy
+Loukas Dimitriou; lucdimit@ucy.ac.cy
+Anjali Awasthi; awasthi@ciise.concordia.ca
+Hichem Omrani; hichem.omrani@ceps.lu
+Philippe Gerber; philippe.gerber@liser.lu
+Robert G. Kent de Grey; Rob.Kent@psych.utah.edu, Rob@KentdeGrey.com
+Kum Fai Yuen; yuen0016@e.ntu.edu.sg
+Vinh V. Thai; vinh.thai@rmit.edu.au
+Yiik Diew Wong; cydwong@ntu.edu.sg
+Pengjun Zhao; pengjun.zhao@pku.edu.cn
+Linchuan Yang; u3003593@connect.hku.hk
+Robert Hrelja; robert.hrelja@vti.se
+Xenia Karekla; x.karekla@ucl.ac.uk
+Yushi Tsunoda; 143b012b@stu.kobe-u.ac.jp
+Amir Arjomandi; amira@uow.edu.au
+Tian-Liang Liu; liutianliang@buaa.edu.cn
+Ahmed El-Geneidy; ahmed.elgeneidy@mcgill.ca
+Jaime Soza-Parra; jaime.soza@uc.cl
+Arturo Didier; adidier@ing.puc.cl
+Constanza Silva; csilvadi@ing.uchile.cl
+Caroline Bayart; caroline.bayart@univ-lyon1.fr
+Patrick Bonnel; Patrick.bonnel@entpe.fr
+Nathalie Havet; havet@gate.cnrs.fr
+Alireza Ermagun; ermag001@umn.edu
+Mahmudur Rahman Fatmi; mahmudur.fatmi@dal.ca
+Muhammad Ahsanul Habib; ahsan.habib@dal.ca
+Jan Rouwendal; jrouwendal@feweb.vu.nl
+Fanchao Liao; f.liao@tudelft.nl
+Eric Molin; e.j.e.molin@tudelft.nl
+Bert van Wee; g.p.vanwee@tbm.tudelft.nl
+Stephane Hess; stephane.hess@imperial.ac.uk
+Greg Spitz; gspitz@rsginc.com
+Mark Bradley; mark.bradley@rsginc.com
+Matt Coogan; cooganmatt@aol.com
+Feyza Gürbüz; feyza@erciyes.edu.tr
+Joshua Schmid; schmij5@rpi.edu
+Xiaokun (Cara) Wang; wangx18@rpi.edu
+Alison Conway; aconway@ccny.cuny.edu
+Luca Urciuoli; urciuoli@kth.se, urciuoli@mit.edu
+Xiaofang Dong; xfdong@xmu.edu.cn
+Hiroyuki Iseki; hiseki@utnet.utoledo.edu
+Chao Liu; cliuh@umd.edu
+Gerrit Knaap; gknaap@umd.edu
+Adam Weiss; adam.weiss@utoronto.ca
+Sami Hasnine; sami.hasnine@mail.utoronto.ca
+Achille Fonzone; a.fonzone@napier.ac.uk
+Charisma F. Choudhury; cfc@alum.mit.edu
+Lang Yang; langyang@alum.mit.edu
+João de Abreu e Silva; joao.abreu@civil.ist.utl.pt
+Moshe Ben-Akiva; mba@mit.edu
+Guido Perboli; guido.perboli@polito.it
+Seth D. Contreras; Seth.Contreras@WRI.org
+Alexander Paz; apaz@UNLV.edu
+Michael Hyland; MichaelHyland2013@u.northwestern.edu
+Zihan Hong; ZihanHong2012@u.northwestern.edu
+Helen Karla Ramalho de Farias Pinto; HelenPinto2020@u.northwestern.edu
+Ying Chen; y-chen@northwestern.edu
+Tayo Fabusuyi; Fabusuyi@umich.edu
+S. Edwards; simon.edwards@ncl.ac.uk
+Iain Docherty; Iain.Docherty@glasgow.ac.uk
+Hani S. Mahmassani; masmah@mail.utexas.edu
+Jae Hyun Lee; lee@geog.ucsb.edu
+Konstadinos G. Goulias; goulias@geog.ucsb.edu
+Cinzia Cirillo; ccirillo@umd.edu
+Guido Cantelmo; guido.cantelmo@uni.lu
+Jee Eun Kang; jeeeunka@buffalo.edu
+Pablo L. Durango-Cohen; pdc@northwestern.edu
+He Haitao; haitao.he@ivt.baug.ethz.ch
+Xuegang (Jeff) Ban; banx@uw.edu
+Dario Pacciarelli; pacciarelli@ing.uniroma3.it
+David Gillen; david.gillen@sauder.ubc.ca
+Stephen Littlechild; sclittlechild@tanworth.mercianet.co.uk
+Dan Elliott; dan.elliott@frontier-economics.com
+Cathal Guiomard; cathal.guiomard@dcu.ie
+Ashish Lall; ashish.lall@nus.edu.sg
+Nicole Adler; nicolea@bgumail.bgu.ac.il
+Alexandre Jacquillat; alexjacq@mit.edu
+Amedeo R. Odoni; arodoni@mit.edu
+Michael O. Ball; mball@rhsmith.umd.edu
+Frank Berardino; frankb@gra-inc.com
+Mark Hansen; hansen@ce.berkeley.edu
+Konstantinos G. Zografos; translog@aueb.gr
+Konstantinos N. Androutsopoulos; kandro@aueb.gr
+Michael A. Madas; mmadas@uom.gr
+Yukihiro Kidokoro; kidokoro@grips.ac.jp
+Megan S. Ryerson; mryerson@design.upenn.edu
+Amy M. Kim; amy.kim@ualberta.ca
+Victor Valdes; vhvaldes@anahuac.mx
+Kibrom A. Abay; Kibrom.Araya.Abay@econ.ku.dk
+Goytom Abraha Kahsay; Goytom@ifro.ku.dk
+Consuelo R. Nava; c.nava@univda.it
+Linda Meleo; l.meleo@uninettunouniversity.net
+Ernesto Cassetta; ernesto.cassetta@uniud.it
+Giovanna Morelli; gmorelli@unite.it
+Mihály Fazekas; mf436@cam.ac.uk
+Bence Tóth; bence.toth.16@ucl.ac.uk
+F. Crawford; fiona.crawford@uwe.ac.uk
+Orly Linovski; orly.linovski@umanitoba.ca
+Ouassim Manout; ouassim.manout@entpe.fr
+Louafi Bouzouina; louafi.bouzouina@entpe.fr
+Uta Reichardt; utar@hi.is
+Gudmundur F. Ulfarsson; gfu@wustl.edu
+Guðrún Pétursdóttir; gudrun@hi.is
+Phill Wheat; p.e.wheat@its.leeds.ac.uk
+Juan Manuel Lorenzo Varela; jmlv@kth.se
+Virginie Lurkin; virginie.lurkin@epfl.ch
+Laurie A. Garrow; laurie.garrow@ce.gatech.edu
+Matthew J. Higgins; matt.higgins@scheller.gatech.edu
+Jeffrey P. Newman; jpn@gatech.edu
+Michael Schyns; M.Schyns@ulg.ac.be
+Justin Tyndall; justin.tyndall@sauder.ubc.ca
+Xinyi Wu; wuxx1088@umn.edu
+Jason Cao; cao@umn.edu
+Joel Huting; joel.huting@metrotransit.org
+Carlo G. Prato; c.prato@uq.edu.au
+Yu-Luen Ma; Yu-luen.Ma@unt.edu
+Xiaoyu Zhu; xiaoyu.zhu@metropia.com
+Xianbiao Hu; xbhu@mst.edu
+Yi-Chang Chiu; chiu@email.arizona.edu
+M. Hadi Amini; hadi.amini@ieee.org
+Naseebullah Langove; naseeb.lango@gmail.com
+Mi Diao; rstdm@nus.edu.sg
+Katarzyna Iwińska; kiwinska@collegium.edu.pl
+Malgorzata Blicharska; malgorzata.blicharska@geo.uu.se
+Zhijie Sasha Dong; sasha.dong@txstate.edu
+Tahir M. Nisar; t.m.nisar@soton.ac.uk
+Guru Prabhakar; Guru.Prabhakar@uwe.ac.uk
+Andy H.F. Chow; andychow@cityu.edu.hk
+Christos Evangelinos; c.evangelinos@iubh.de
+Stefan Tscharaktschiew; stefan.tscharaktschiew@tu-dresden.de
+Edoardo Marcucci; emarcucci@uniroma3.it
+Valerio Gatta; valerio.gatta@uniroma3.it
+Jen-Jia Lin; jenjia@ntu.edu.tw
+Xueqin Wang; wang1072@e.ntu.edu.sg
+Jianling Li; jjli@uta.edu
+Anna Fraszczyk; anna.fraszczyk@newcastle.ac.uk
+Behrang Assemi; b.assemi@uq.edu.au
+Mark Hickman; mhickman@engr.arizona.edu
+Alexandra Gheorghiu; gheorghiu.anda@yahoo.com
+Xue-mei Fu; xmfu@shmtu.edu.cn
+Jiang-hua Zhang; zhangjianghua@sdu.edu.cn
+Felix T.S. Chan; f.chan@polyu.edu.hk
+Yu Qiao; qiao14@purdue.edu
+Tariq Usman Saeed; tusaeed@purdue.edu
+Sikai Chen; chen1670@purdue.edu
+Roshanak Nateghi; rnateghi@purdue.edu
+Samuel Labi; labi@purdue.edu
+Trevor Thomas; tdthoma5@ucla.edu
+Andrew Mondschein; mondschein@virginia.edu
+Taner Osman; tanerosman@ucla.edu
+Brian D. Taylor; btaylor@ucla.edu
+Gianmaria Martini; gianmaria.martini@unibg.it
+Woohyun Cho; wcho@uno.edu
+Thijs Boonekamp; t.boonekamp@seo.nl
+Evy Onghena; evy.onghena@uantwerpen.be
+Yahua Zhang; yahua.zhang@usq.edu.au
+Breno Sampaio; sampaio2@illinois.edu
+Xiaowen Fu; xiaowen.fu@sydney.edu.au
+Zhibin Huang; xiaohoangau@gmail.com
+Mattia Cattaneo; mattia.cattaneo@unibg.it
+Paolo Malighetti; paolo.malighetti@unibg.it
+Renato Redondi; renato.redondi@unibg.it
+Andrea Salanti; andrea.salanti@unibg.it
+Chikage Miyoshi; cmiyoshi@mit.edu
+Hideki Fukui; fukui.hideki.mb@ehime-u.ac.jp
+Christian Hofer; chofer@walton.uark.edu
+Richard Klophaus; klophaus@hs-worms.de
+Oriol Lordan; oriol.lordan@upc.edu
+Zara Dempsey-Brench; zara.dempsey-brench@ba.com
+Nicola Volta; n.volta@cranfield.ac.uk
+Susan Handy; slhandy@ucdavis.edu
+Xiaobo Qu; drxiaoboqu@gmail.com
+Shuaian Wang; wangshuaian@gmail.com
+Tang-Hsien Chang; thchang@ntu.edu.tw, thchang@fjut.edu.cn
+Jose J. Soto; jsoto@utb.edu.co
+Luis Márquez; luis.marquez@uptc.edu.co
+Luis F. Macea; luis.macea@javerianacali.edu.co
+Samir Saidi; samir.saidi@fsegs.rnu.tn, samirsaidi05@yahoo.com
+Pervaiz Akhtar; Pervaiz.Akhtar@hull.ac.uk
+Shuai Ling; lingshuai@tju.edu.cn
+Jinbao Zhao; jinbao@sdut.edu.cn
+J. Pavlovic; jelica.pavlovic@ec.europa.eu
+B. Ciuffo; biagio.ciuffo@ec.europa.eu
+Deok-Joo Lee; leedj@snu.ac.kr
+Jinping Guan; jinpingg@mit.edu
+Laure Athias; laure.athias@unil.ch
+Farzad Alemi; falemi@ucdavis.edu
+Caroline Rodier; cjrodier@ucdavis.edu
+Christiana Drake; cmdrake@ucdavis.edu
+Francesco Parola; francesco.parola@uniparthenope.it
+Athanasios A. Pallis; apallis@aegean.gr
+Marcello Risitano; marcello.risitano@uniparthenope.it
+Marco Ferretti; marco.ferretti@uniparthenope.it
+Simon J. Berrebi; simon@berrebi.net
+Yanru Chen; chenyanru@swjtu.cn
+Bing Yi; 147298717@qq.com
+Yangsheng Jiang; jiangyangsheng@swjtu.cn
+Jidong Sun; sunjd503@163.com
+M.I.M. Wahab; wahab@ryerson.ca
+Tomás Rossetti; terosset@uc.cl
+Xavier Fageda; xfageda@ub.edu
+Weibo Li; weibo.li.10@ucl.ac.uk
+Maria Kamargianni; m.kamargianni@ucl.ac.uk
+Wencheng Huang; 1261992248@qq.com
+Haojie Li; h.li@seu.edu.cn
+Camila Balbontin; Camila.Balbontin@sydney.edu.au
+Maria Börjesson; maria.borjesson@abe.kth.se
+Roar Adland; roar.adland@nhh.no
+Pierre Cariou; pierre.cariou@kedgebs.com
+François-Charles Wolff; francois.wolff@univ-nantes.fr
+Donggen Wang; dgwang@hkbu.edu.hk
+Chin-Shan Lu; chin-shan.lu@polyu.edu.hk
+Ching-Chiao Yang; yangcc@mail.nkmu.edu.tw
+Tsz Leung Yip; t.l.yip@polyu.edu.hk
+Taih-Cherng Lirn; tedlirn@email.ntou.edu.tw
+Wei-Lin Hsu; amber514110@hotmail.com
+Jong-Kyun Woo; jkwoo@tu.ac.kr
+Daniel S.H. Moon; dm@wmu.se
+Jasmine Siu Lee Lam; SLLam@ntu.edu.sg
+Liquan Guo; guoliquan@dlmu.edu.cn
+Zhongzhen Yang; yangzz@dlmu.edu.cn
+Hsiang-Kai Weng; hsiangweng@gmail.com
+Fei Huang; fei.huang@connect.polyu.hk
+Lai-Han Leung; lianleung12@gmail.com
+Wen-Di Wang; windygame96@gmail.com
+Dong-Wook Song; stldsong@polyu.edu.hk
+Wayne Lei Dai; dailei1989@sjtu.edu.cn
+Hao Hu; hhu@sjtu.edu.cn
+Kun Wang; kun.wang@sauder.ubc.ca
+Hui Shan Loh; hsloh@suss.edu.sg
+Qingji Zhou; qjzhou@ntu.edu.sg
+Yanjie Ji; jiyanjie@seu.edu.cn
+Julio A. Soria-Lara; julio.soria-lara@ouce.ox.ac.uk
+David Banister; david.banister@ouce.ox.ac.uk
+Quande Qin; qinquande@gmail.com, qdqin@szu.edu.cn
+Jean Dubé; jean_dube@uqar.qc.ca
+Diègo Legros; diego.legros@u-bourgone.fr
+Nicolas Devaux; nicolas.devaux@ucs.inrs.ca
+Maxim A. Dulebenets; mdulebenets@eng.famu.fsu.edu
+Eren Erman Ozguven; eozguven@eng.famu.fsu.edu
+Ren Moses; moses@eng.famu.fsu.edu
+Chuan Ding; cding@buaa.edu.cn
+Xinyu (Jason) Cao; cao@umn.edu
+Petter Næss; petter.nass@nmbu.no
+Kibum Kim; kb.kim@snu.ac.kr
+Chulwoo Baek; chulwoo100@duksung.ac.kr
+Jeong-Dong Lee; leejd@snu.ac.kr
+Jun Guan Neoh; junguan.neoh@gmail.com
+Maxwell Chipulu; m.chipulu@soton.ac.uk
+Alasdair Marshall; A.Marshall@soton.ac.uk
+Adam Tewkesbury; A.J.Tewkesbury@soton.ac.uk
+Roberta Arbolino; rarbolino@unior.it
+Fabio Carlucci; fcarlucci@unisa.it
+Andrea Cirà; acira@unime.it
+Luisa De Simone; ldesimone@unior.it
+Giuseppe Ioppolo; giuseppe.ioppolo@unime.it
+Tan Yigitcanlar; tan.yigitcanlar@qut.edu.au
+Jingyang Zhou; j.zhou@curtin.edu.au
+Jane Matthews; jane.matthews@curtin.edu.au
+Matthew Lavender; matthew.lavender@curtin.edu.au
+Troy Morse; troy.morse@pta.wa.gov.au
+Vittorio Marzano; vmarzano@unina.it
+Mehmet Efe Biresselioglu; efe.biresselioglu@ieu.edu.tr
+Melike Demirbag Kaplan; melike.demirbag@ieu.edu.tr
+Barbara Katharina Yilmaz; katharina.yilmaz@ieu.edu.tr
+Ed Manley; Ed.Manley@ucl.ac.uk
+Kathrin Kühne; kuehne@iwi.uni-hannover.de
+Suman K. Mitra; skmitra@uci.edu
+Jean-Daniel M. Saphores; saphores@uci.edu
+Tony Diana; Tony.Diana@faa.gov
+Bernard Kamsu-Foguem; bernard.kamsu-foguem@enit.fr
+John Stanley; jstanley@busvic.asn.au
+Richard Ellison; richard.ellison@sydney.edu.au
+Chris Loader; cloader@busvic.asn.au
+David Hensher; david.hensher@sydney.edu.au
+Ryan F. Allard; ryan.allard@tecnico.ulisboa.pt
+Filipe Moura; fmoura@ist.utl.pt
+Louis de Grange; louis.degrange@udp.cl
+Rodrigo Troncoso; rtroncoso@udd.cl
+Ignacio Briones; ignacio.briones@uai.cl
+Lishan Sun; hill310@sina.com
+Blake Angell; bangell@georgeinstitute.org.au
+Youhong Zhou; zhou9309@126.com
+Martin Henseler; martin.henseler@thuenen.de
+Chen Yang; yang0403@gmail.com
+Nico Dogterom; N.J.Dogterom@uu.nl
+Eran Feitelson; msfeitel@mail.huji.ac.il
+Galit Cohen-Blankshtain; msgalic@mscc.huji.ac.il
+Yiru Zhang; yiru.zhang@grab.com
+A. Spiliopoulou; natasa@dssl.tuc.gr
+M. Kontorinaki; mkontorinaki@dssl.tuc.gr
+I. Papamichail; ipapa@dssl.tuc.gr
+M. Papageorgiou; markos@dssl.tuc.gr
+Yiwen Zhang; zhangyiwen@tju.edu.cn
+Zhuo Feng; fengzhuo@tju.edu.cn
+Shuibo Zhang; zhangshuibo@tju.edu.cn
+Claudio Ferrari; ferrari@economia.unige.it
+M.C. de Haas; Mathijs.de.Haas@minienm.nl
+C.E. Scheepers; eline.scheepers@rivm.nl
+L.W.J. Harms; Lucas.Harms@minienm.nl
+M. Kroesen; M.Kroesen@tudelft.nl
+Lixian Fan; lixianfan@shu.edu.cn
+John Thøgersen; jbt@asb.dk
+Eric Tchouamou Njoya; E.Njoya@hud.ac.uk
+Sergio Oliete Josa; sergio.oliete-josa@ec.europa.eu
+Simon Darcy; Simon.Darcy@uts.edu.au
+Paul Francis Burke; Paul.Burke@uts.edu.au
+Xu-Hua Yang; xhyang@zjut.edu.cn
+Alessandro Marra; alessandro.marra@unich.it
+Cesare Pozzi; cpozzi@luiss.it
+Paola Antonelli; paola.antonelli@unich.it
+Bart Wiegmans; b.wiegmans@tudelft.nl
+Anne Zimmer; azimmer@pik-potsdam.de
+Nicolas Koch; Koch@mcc-berlin.net
+Lissy La Paix Puello; l.c.lapaixpuello@utwente.nl
+Marie-José Olde-Kalter; MOldeKalter@goudappel.nl
+Karst T. Geurs; k.t.geurs@utwente.nl
+Sergio Jara-Díaz; jaradiaz@cec.uchile.cl
+Rico Merkert; r.merkert@cranfield.ac.uk
+Anders Fjendbo Jensen; afjje@dtu.dk
+Stefan Lindhard Mabit; smab@dtu.dk
+Becky P.Y. Loo; bpyloo@hku.hk
+Tay T.R. Koo; t.koo@unsw.edu.au
+Taha Hossein Rashidi; taha.hosseinrashidi@utoronto.ca
+Jin-Woo Park; jwpark@kau.ac.kr
+Cheng-Lung Wu; c.l.wu@unsw.edu.au
+Wen-Chun Tseng; w.c.chun@unsw.edu.au
+Chenglin Qin; qinchlin@vip.sina.com
+Zhan Guo; zg11@nyu.edu
+Margareta Friman; Margareta.Friman@kau.se
+Annika Busch-Geertsema; busch-geertsema@geo.uni-frankfurt.de
+Martin Lanzendorf; lanzendorf@geo.uni-frankfurt.de
+Li-Hsueh Chen; yoannachen@gmail.com
+Hui Chiang; zooechiang@gmail.com
+Christian Soyk; christian.soyk@whu.edu
+Laura Di Pietro; laura.dipietro@uniroma3.it
+Roberta Guglielmetti Mugion; roberta.guglielmettimugion@uniroma3.it
+Flaminia Musella; f.musella@unilink.it
+Maria Francesca Renzi; mariafrancesca.renzi@uniroma3.it
+Paola Vicard; paola.vicard@uniroma3.it
+Lingqian Hu; hul@uwm.edu
+Ali Gholami; ali.gholami32@gmail.com
+Maysam Ziaee; ziaee@mashadtraffic.ir
+Jennifer L. Kent; jennifer.kent@mq.edu.au
+Juan Luis Jiménez; juanluis.jimenez@ulpgc.es
+Jorge Valido; jorge.valido@universidadeuropea.es
+Francesca Pagliara; fpagliar@unina.it
+Filomena Mauriello; filomena.mauriello@unina.it
+Antonio Garofalo; antoniogarofalo91@gmail.com
+Fariya Sharmeen; f.sharmeen@tue.nl
+Nigel Berkeley; n.berkeley@coventry.ac.uk
+David Bailey; d.jarvis@coventry.ac.uk
+Andrew Jones; andrew.jones3@coventry.ac.uk
+David Jarvis; d.bailey@aston.ac.uk
+Niek Mouter; n.mouter@tudelft.nl
+Charles Raux; charles.raux@laet.ish-lyon.cnrs.fr
+Michael Maness; manessm@usf.edu
+Persa Paflioti; p.paflioti@chios.aegean.gr
+Thomas K. Vitsounis; vitsounis@gmail.com
+Collins Teye; Collins.teye@sydney.edu.au
+Michael G.H. Bell; m.g.h.bell@imperial.ac.uk
+Ioannis Tsamourgelis; i.tsam@aegean.gr
+Linbo Li; llinbo@tongji.edu.cn
+Huan Ren; renhuan125@126.com
+Shanshan Zhao; shanshan.h.zhao@gmail.com
+M. Nassereddine; m.nassereddine@modares.ac.ir
+Brian Caulfield; brian.caulfield@tcd.ie
+Gunilla Björklund; gunilla.bjorklund@vti.se
+Jan-Erik Swärdh; jan-erik.swardh@vti.se
+Shenhao Wang; shenhao@mit.edu
+Zohreh Rashedi; zohreh.rashredi@mail.utoronto.ca
+Mohamed Mahmoud; moahmed.mahmoud@mail.utoronto.ca
+Elise Miller-Hooks; miller@gmu.edu
+Diyi Liu; liudiyi@tju.edu.cn
+Huibin Du; duhuibin@tju.edu.cn
+Frank Southworth; frank.southworth@ce.gatech.edu
+Shoufeng Ma; sfma@tju.edu.cn
+Rengkui Liu; 12114225@bjtu.edu.cn, rkliu@bjtu.edu.cn
+Sabreena Anowar; Sabreena.Anowar@ucf.edu
+Naveen Eluru; naveen.eluru@ucf.edu
+Marianne Hatzopoulou; marianne.hatzopoulou@utoronto.ca
+Drazenko Glavic; drazen@sf.bg.ac.rs
+Milos Mladenovic; milos.mladenovic@aalto.fi
+Tapio Luttinen; tapio.luttinen.@aalto.fi
+Svetlana Cicevic; s.cicevic@sf.bg.ac.rs
+Aleksandar Trifunovic; a.trifunovic@sf.bg.ac.rs
+Julien Nègre; julien.negre@ifsttar.fr
+Zheng Chang; zchang@cityu.edu.hk
+Sock-Yong Phang; syphang@smu.edu.sg
+Huijun Sun; hjsun1@bjtu.edu.cn
+Milad Ghasri; milad.ghasri@gmail.com
+So Young Sohn; sohns@yonsei.ac.kr
+Paul J. Burke; paul.j.burke@anu.edu.au
+Wanjing Ma; mawanjing@tongji.edu.cn
+Ye Liu; 2014liuye@tongji.edu.cn
+Jing Zhao; jing_zhao_traffic@163.com
+Ning Wu; ning.wu@ruhr-uni-bochum.de
+Wenjin Hu; hwj@zju.edu.cn
+Ning Wang; wangning@tongji.edu.cn
+Linhao Tang; tanglinhao228@outlook.com
+Huizhong Pan; huizhong_pan@hotmail.com
+Wei Zhang; wzhang.vera@ntu.edu.sg
+I. Gurrutxaga; itziar.gurruchaga@ehu.eus
+M. Iturrate; mikel.iturrate@ehu.eus
+U. Oses; usue.oses@ehu.eus
+H. Garcia; arkaitz.garcia@ehu.eus
+Cecília Silva; ccsilva@fe.up.pt
+Stan Geertman; s.c.m.geertman@uu.nl
+Marco te Brömmelstroet; brommelstroet@uva.nl
+Peter Pelzer; p.pelzer@uu.nl
+Enrica Papa; e.papa@westminster.ac.uk
+Pierluigi Coppola; coppola@ing.uniroma2.it
+Gennaro Angiello; gennaro.angiello@unina.it
+Gerardo Carpentieri; gerardo.carpentieri@unina.it
+Gebhard Wulfhorst; gebhard.wulfhorst@tum.de
+Benjamin Büttner; benjamin.buettner@tum.de
+Chenyi Ji; chenyi.ji@tum.de
+Tiago Patatas; tpatatas@fe.up.pt, tiagopatatas@gmail.com
+Ana Amante; ana.amante@fe.up.pt
+Anson F. Stewart; ansons@mit.edu
+Junyi Zhang; zjy@hiroshima-u.ac.jp
+Veronique Van Acker; veronique.vanacker@liser.lu, veronique.vanacker@ugent.be
+Sigrun Beige; sigrun.beige@dlr.de
+Ruut Veenhoven; veenhoven@ese.eur.nl
+Yasunori Muromachi; muromachi.y.aa@m.titech.ac.jp
+Thomas Klinger; klinger@geo.uni-frankfurt.de
+Tai-Yu Ma; tai-yu.ma@liser.lu
+Olivier Klein; olivier.klein@liser.lu
+Julien Schiebel; julien.schiebel@liser.lu
+Samuel Carpentier-Postel; samuel.carpentier@univ-amu.fr
+Bobin Wang; bobinwang@bjtu.edu.cn
+Chunfu Shao; cfshao@bjtu.edu.cn
+Xun Ji; 13114241@bjtu.edu.cn
+Biying Yu; yubiying_bj@bit.edu.cn
+Xia Li; xiali@bit.edu.cn
+Subeh Chowdhury; s.chowdhury@auckland.ac.nz
+Janna Albrecht; janna.albrecht@tu-dortmund.de
+Alexa Delbosc; Alexa.delbosc@monash.edu
+Hitomi Nakanishi; hitomi.nakanishi@csiro.au
+Colin Vance; vance@rwi-essen.de
+Shahrooz Shahparvari; Shahrooz.shahparvari@rmit.edu.au
+Marisela Mainegra Hing; mariselah@tirf.ca
+Herrie Schalekamp; herrie.schalekamp@uct.ac.za
+Ian Douglas; ian.douglas@unsw.edu.au
+Sveinn Vidar Gudmundsson; s.gudmundsson@tbs-education.fr
+Ruowei Chen; chenruowei@comac.cc
+Zheng Lei; zheng.lei@surrey.ac.uk
+Mattia Grampella; gianmaria.martini@unibg.it
+Patrícia C. Melo; patricia.melo@hutton.ac.uk
+Sugiarto Sugiarto; sugiarto@unsyiah.ac.id
+Tomio Miwa; miwa@nagoya-u.jp
+Takayuki Morikawa; morikawa@civil.nagoya-u.jp
+Ashley Dhanani; ashley.dhanani@ucl.ac.uk
+Lusine Tarkhanyan; lusine.tarkhanyan@ucl.ac.uk
+Laura Vaughan; l.vaughan@ucl.ac.uk
+Xuemei Fu; shuiyeyuzi@sjtu.edu.cn
+Zhicai Juan; zcjuan@sjtu.edu.cn
+Hugo Badia; hugo.badia@upc.edu
+Juan Argote-Cabanero; juan.argote@aimsun.com
+Carlos F. Daganzo; daganzo@berkeley.edu
+Moez Kilani; m.kilani@planet.tn
+Mehmet Ali Dereli; madereli@gmail.com
+Víctor Chang; victor.changr@urp.pe
+Giovanni Satta; giovanni.satta@economia.unige.it
+Theo Notteboom; theo.notteboom@gmail.com
+Luca Persico; luca.persico@unige.it
+Christoph Link; christoph.link@boku.ac.at
+Axel Sonntag; axel.sonntag@univie.ac.at
+Juliane Stark; juliane.stark@boku.ac.at
+Dorien Simons; dorien.simons@ugent.be
+Ilse De Bourdeaudhuij; ilse.debourdeaudhuij@ugent.be
+Peter Clarys; pclarys@vub.ac.be
+Bas de Geus; bas.de.geus@vub.ac.be
+Corneel Vandelanotte; c.vandelanotte@cqu.edu.au
+Jelle Van Cauwenberg; jelle.van.cauwenberg@vub.ac.be
+Benedicte Deforche; benedicte.deforche@vub.ac.be
+Shanyong Wang; wsy1988@ustc.edu.cn
+Diego Escobari; diego.escobari@utrgv.edu
+Ruth Woods; r.woods3@rgu.ac.uk
+Judith Masthoff; j.masthoff@abdn.ac.uk
+Xiao Lin; xiaolin@btech.au.dk
+Peter Wells; wellspe@cardiff.ac.uk
+Shaopeng Zhong; szsp001@163.com
+Max Bushell; maxbushell@gmail.com
+Hao Li; haolitj@tongji.edu.cn
+Kun Gao; 93gaokun@tongji.edu.cn
+Huizhao Tu; huizhaotu@tongji.edu.cn
+Imran Rahman; imran.iutoic@gmail.com
+Amran Md Rasli; m-amran@utm.my
+Marlon G. Boarnet; mgboarne@uci.edu
+Genevieve Giuliano; giuliano@rcf.usc.edu
+Yuting Hou; houyuting86@gmail.com
+Eun Jin Shin; eunjinsh@usc.edu
+Alejandro Tirachini; alejandro.tirachini@sydney.edu.au
+Ricardo Hurtubia; rhurtubia@fau.uchile.cl
+Thijs Dekker; t.dekker@leeds.ac.uk
+Ricardo A. Daziano; daziano@cornell.edu
+S. Cairns; scairns@trl.co.uk
+Nathan Berg; Nathan.Berg@otago.ac.nz
+Kate L. Preston; preka531@student.otago.ac.nz
+Sisi Jian; s.jian@unsw.edu.au
+Changju Lee; cl8ax@virginia.edu
+John S. Miller; john.miller@vdot.virginia.gov
+Sebastian Hoffmann; Sebastian3.hoffmann@tu-dortmund.de
+Johannes Weyer; Johannes.weyer@tu-dortmund.de
+Jessica Longen; Jessica.longen@uni-due.de
+Hongmin Zhou; h-zhou@tti.tamu.edu
+H. Gene Hawkins; gene.hawkins@tamu.edu
+Yunlong Zhang; yzhang@civil.tamu.edu
+Jose Holguín-Veras; jhv@rpi.edu
+Iván Sánchez-Díaz; ivan.sanchez@chalmers.se
+André Romano Alho; andre.romano@smart.mit.edu
+Mehdi Nourinejad; mehdi.nourinejad@mail.utoronto.ca
+Matthew J. Roorda; roordam@ecf.utoronto.ca
+Joseph Y.J. Chow; ychow@uci.edu
+Mubassira Khan; mubassira.khan@hdrinc.com
+Randy Machemehl; rbm@mail.utexas.edu
+Milena Janjevic; milena.janjevic@ulb.ac.be
+Liliana Lyons; llyonsb@unal.edu.co
+Angélica Lozano; alozanoc@iingen.unam.mx
+Francisco Granados; fgranadosv@iingen.unam.mx
+Alejandro Guzmán; lguzmanc@iingen.unam.mx
+Ruben Cordera; corderar@unican.es
+José Holguín-Veras; jhv@rpi.edu
+Shama Campbell; campbs4@rpi.edu
+Lokesh Kalahasthi; kalahl@rpi.edu
+Cara Wang; wangx18@rpi.edu
+Stacey D. Hodge; shodge@dot.nyc.gov
+Miguel Jaller; jallem@rpi.edu
+Jeffrey Wojtowicz; wojtoj@rpi.edu
+Raphael Piendl; raphael.piendl@dlr.de
+Gernot Liedtke; gernot.liedtke@dlr.de
+Tilman Matteis; tilman.matteis@dlr.de
+Ana Margarita Larranaga; analarra@producao.ufrgs.br
+Julian Arellana; jarellana@uninorte.edu.co
+Luiz Afonso Senna; lsenna@producao.ufrgs.br
+Concepción Román; croman@empresariales.ulpgc.es
+Ana Isabel Arencibia; aarencibia@acciones.ulpgc.es
+María Feo-Valero; maria.feo@eco.uji.es
+Kollol Shams; ksham004@fiu.edu
+Hamidreza Asgari; hasga001@fiu.edu
+Xia Jin; xjin1@fiu.edu
+Rodrigo A. Garrido; rodrigo.garrido@udp.cl
+Mike G. Tsionas; m.tsionas@lancaster.ac.uk
+Zhongfei Chen; hongyeczf@163.com
+Peter Wanke; peter@coppead.ufrj.br
+Ahmadreza Faghih-Imani; seyed.faghihimani@mail.mcgill.ca
+Eric J. Miller; miller@ecf.utoronto.ca
+Dapeng Zhang; zhangd9@rpi.edu
+Joost Zuidberg; j.zuidberg@seo.nl
+Daniel Albalate; albalate@ub.edu
+Albert Gragera; albert.gragera@ub.edu
+Manuel Llorca; manuel.llorca@durham.ac.uk
+Riccardo Scarinci; riccardo.scarinci@epfl.ch
+Frédéric Rast; frederic.rast@epfl.ch
+Michel Bierlaire; michel.bierlaire@epfl.ch
+Simon Dale; simon.dale@nottinghamcity.gov.uk
+Maarten Kroesen; m.kroesen@tudelft.nl
+Caspar Chorus; c.g.chorus@tudelft.nl
+Lu Bai; xinyuesther@126.com
+Pan Liu; pan_liu@hotmail.com
+Ching-Yao Chan; cychan@berkeley.edu
+Zhibin Li; lizhibin@seu.edu.cn
+Marc Prieto; marc.prieto@essca.fr
+George Baltas; gb@aueb.gr
+Valentina Stan; valentina.stan@essca.fr
+Paul K. Gorecki; pkgorecki@gmail.com
+Greg Marsden; G.R.Marsden@leeds.ac.uk
+Louise Reardon; l.reardon@leeds.ac.uk
+Johann Weber; johannchristianweber@gmail.com
+Rafael Aigner; belt@rafaelaigner.de
+Katharina Weber; katharina.weber@drozak.com
+Jonas Rees; jonas.rees@uni-bielefeld.de
+Dominic Ahiaga-Dagbui; Dominic.Ahiaga-Dagbui@deakin.edu.au
+Morten Welde; morten.welde@ntnu.no
+Jette Bredahl Jacobsen; jbj@ifro.ku.dk
+Yi Zhang; ZHANG.YI@ntu.edu.sg
+Jiawen Yang; yangjw@pkusz.edu.cn
+Qinghui Suo; suo@swu.edu.cn
+Elisabetta Cherchi; echerchi@unica.it
+Wenyi Xia; wenyi.xia@sauder.ubc.ca
+Lijun Sun; lijun.sun@ivt.baug.ethz.ch
+David Emanuel Andersson; davidemanuelandersson@gmail.com
+Eleftheria Kontou; Ria.Kontou@nrel.gov
+Pamela Murray-Tuite; murraytu@vt.edu
+Kris Wernstedt; krisw@vt.edu
+Christopher D. Higgins; higgicd@mcmaster.ca
+Mark R. Ferguson; fergumr@mcmaster.ca
+Guillaume Monchambert; g.monchambert@univ-lyon2.fr
+Kayleigh B. Campbell; krc2104@columbia.edu
+Candace Brakewood; cbrakewood@ccny.cuny.edu
+Kelcie Ralph; kelcie.ralph@ejb.rutgers.edu
+Tuhin Subhra Maparu; tuhin.maparu@gmail.com
+Tarak Nath Mazumder; taraknm@arp.iitkgp.ernet.in
+Annie Chang; annie.chang@mail.mcgill.ca
+Luis Miranda-Moreno; luis.miranda-moreno@mcgill.ca
+Ben Welle; bwelle@wri.org
+Armando Cartenì; armando.carteni@unina.it
+Paola Carolina Bueno; pbueno@caminos.upm.es
+Juan Gomez; juan.gomez.sanchez@upm.es
+Jonathan R. Peters; Jonathan.Peters@csi.cuny.edu
+Jose Manuel Vassallo; jvassallo@caminos.upm.es
+Shengxiao Li; lishengxiao@pku.edu.cn
+Petr Matous; petr.matous@sydney.edu.au
+Richard B. Ellison; richard.ellison@sydney.edu.au
+Lee V. White; leewhite@usc.edu
+Ivan Iankov; ianii001@mymail.unisa.edu.au
+Esra Suel; esra.suel@imperial.ac.uk
+John W. Polak; j.polak@imperial.ac.uk
+Shi Qiu; sheldon.qiu@bjut.edu.cn
+Ralph S. Luijt; ralph.luijt@ns.nl
+Maarten P.F. van den Berge; maarten.vandenberge@ns.nl
+Helen Y. Willeboordse; helen.willeboordse@spoorgloren.nl
+Jan H. Hoogenraad; jan.hoogenraad@spoorgloren.nl
+Chao-Fu Yeh; cfyeh@fcu.edu.tw
+Giorgio Locatelli; g.locatelli@leeds.ac.uk
+Diletta Colette Invernizzi; cndci@leeds.ac.uk
+Naomi J. Brookes; N.J.Brookes@leeds.ac.uk
+Luis Ignacio Rizzi; lir@ing.puc.cl
+Cristobal De La Maza; cdelamaz@andrew.cmu.edu
+Zhongxiang Feng; fzx@hfut.edu.cn
+Rosa Marina González; rmglzmar@ull.es
+Ángel Simón Marrero; amarrerl@ull.edu.es
+Wafic El-Assi; wafic.el.assi@mail.utoronto.ca
+Md. Sami Hasnine; sami.hasnine@mail.utoronto.ca
+James Lamers; james.lamers@mail.utoronto.ca
+Sylvain Bourjade; s.bourjade@tbs-education.fr
+Johan Håkansson; jhk@du.se
+Aysenur Budak; abudak@itu.edu.tr
+Alp Ustundag; ustundaga@itu.edu.tr
+Bulent Guloglu; guloglub@itu.edu.tr
+Adrian E. Coronado Mondragon; adrian.coronado@rhul.ac.uk
+Christian E. Coronado Mondragon; christian.coronado@mi.mun.ca
+Etienne S. Coronado; etienne.coronado@gmail.com
+Rebecca J. Hafner; rebecca.hafner@wbs.ac.uk
+Fang He; fanghe@tsinghua.edu.cn
+Celine Cluzel; celine.cluzel@element-energy.co.uk
+Jillian Anable; j.anable@rgu.ac.uk
+Mark Asbridge; mark.asbridge@dal.ca
+Ziyou Gao; zygao@bjtu.edu.cn
+Robert Hampshire; hamp@umich.edu
+Lavanya Marla; lavanyam@illinois.edu
+Luke A. Munford; luke.munford@manchester.ac.uk
+Raj Shah; r.shah@ljmu.ac.uk
+Samuel Borges Barbosa; osamuelbarbosa@gmail.com
+Marcelo Gitirana Gomes Ferreira; marcelogitirana@gmail.com
+Elton Moura Nickel; eltonnickel@gmail.com
+Jorge Alcides Cruz; jalcluz@bol.com.br
+Fernando Antônio Forcellini; forcellini@deps.ufsc.br
+Jéssica Garcia; jessica.sgarcia@outlook.com
+José Baltazar Salgueirinho Osório de Andrade Guerra; baltazar.guerra@unisul.br
+Ahmed Osama; ahmed.osama@eng.asu.edu.eg
+Tarek Sayed; tsayed@civil.ubc.ca
+Alexander Y. Bigazzi; abigazzi@pdx.edu
+David Verbich; david.verbich@mail.mcgill.ca
+Ugo Lachapelle; lachapelle.ugo@uqam.ca
+Marie-Soleil Cloutier; marie-soleil.cloutier@ucs.inrs.ca
+Uzi Freund-Feinstein; uzi.feinstein@gmail.com
+Shlomo Bekhor; sbekhor@technion.ac.il
+Ali Soltani; soltani@shirazu.ac.ir
+Matts Andersson; matts.andersson@wspgroup.se
+Augusto Voltes-Dorta; avoltes@becarios.ulpgc.es
+Héctor Rodríguez-Déniz; hectorrd@kth.se
+Pere Suau-Sanchez; p.suausanchez@cranfield.ac.uk
+Esther Chiew; wc437@cornell.edu
+Lasse Fridstrøm; lef@toi.no
+Jinhee Kim; j.kim@bwk.tue.nl
+Sigal Kaplan; sigal.kaplan@mail.huji.ac.il, siga@dtu.dk
+Prateek Bansal; prateekbansal@utexas.edu
+Chih-Wen Yang; cwyang@nutc.edu.tw
+Gang Chen; gc@m-tech.aau.dk
+Chialin Chen; cchen026@ntu.edu.tw
+Nikola Ivanov; n.ivanov@sf.bg.ac.rs
+Fedja Netjasov; f.netjasov@sf.bg.ac.rs
+Radosav Jovanović; r.jovanovic@sf.bg.ac.rs
+Stefano Starita; stefano.starita@wbs.ac.uk
+Arne Strauss; arne.strauss@wbs.ac.uk
+Zhenhua Chen; chen.7172@osu.edu
+Deo Chimba; dchimba@tnstate.edu
+Akshay Vij; a.vij@berkeley.edu
+Sreeta Gorripaty; gorripaty@berkeley.edu
+Emre Korsu; emre.korsu@enpc.fr
+Bismark R.D.K. Agbelie; agbelie@cua.edu
+Yi-Shih Chung; yschung@nctu.edu.tw
+Yena Song; Y.Song@chonnam.ac.kr
+John Preston; J.M.Preston@soton.ac.uk
+David Ogilvie; david.ogilvie@mrc-epid.cam.ac.uk
+C. Llano; carlos.llano@uam.es
+T. De la Mata; tamara.delamata@uam.es
+J. Díaz-Lanchas; jorge.diaz@uam.es
+N. Gallego; nuria.gallego@uam.es
+Szu-Yu Kuo; tykuo@pie.com.tw
+Pei-Chun Lin; peichunl@ncku.edu.tw
+Weibin Kou; 13120787@bjtu.edu.cn
+Xumei Chen; chenxumei@jtys.bjtu.edu.cn
+Lei Yu; yu_lx@tsu.edu
+Yi Qi; qiy@tsu.edu
+Ying Wang; wy10198910@163.com
+Anne Bastian; anne.bastian@abe.kth.se
+Menno D. Yap; MYap@Goudappel.nl
+Gonçalo Correia; gcorreia@dec.uc.pt
+Qing Shen; qs@uw.edu
+Jenhung Wang; jenhung@nkfust.edu.tw
+Ching-Hui Tsai; cathernie25@gmail.com
+Jianjun Wu; jjwu1@bjtu.edu.cn
+V. Phani K. Chintakayala; P.Chintakayala@leeds.ac.uk
+Gerard de Jong; dejong@significance.nl
+Michael D. Wittman; wittman@mit.edu
+Florian Allroggen; fallrogg@mit.edu
+Robert Malina; rmalina@mit.edu
+Debbie Hopkins; debbie.hopkins@ouce.ox.ac.uk
+Robert B. Noland; r.noland@imperial.ac.uk
+Michael J. Smart; mike.smart@rutgers.edu
+Nidhi Kalra; nidhi_kalra@rand.org
+Susan M. Paddock; susan_paddock@rand.org
+Galit Toledo; tgalit@hotmail.com
+Jianhong(Cecilia) Xia; c.xia@curtin.edu.au
+T. Donna Chen; tdchen@virginia.edu
+Josiah P. Hanna; jphanna@cs.utexas.edu
+Patrick A. Singleton; patrick.singleton@pdx.edu
+Christopher D. Muhs; cdm@dksassociates.com
+Robert J. Schneider; rjschnei@uwm.edu
+Jens West; jens.west@abe.kth.se
+Chijioke Dike Uba; Chijioke.uba@northampton.ac.uk
+Andreas Chatzidakis; andreas.chatzidakis@rhul.ac.uk
+Iderlina Mateo-Babiano; i.mateobabiano@uq.edu.au
+Kurt Heutschi; kurt.heutschi@empa.ch
+Eren Özceylan; erenozceylan@gmail.com
+Ashley Nunes; nunesashley1@gmail.com
+Daniel (Jian) Sun; danielsun@sjtu.edu.cn
+Shituo Guan; guantt@sjtu.edu.cn
+Lars Böcker; lars.bocker@sosgeo.uio.no
+Christoph Hohenberger; c.hohenberger@tum.de
+Nan Qin; nqin@fsec.ucf.edu
+Aya Aboudina; aya.aboudina@mail.utoronto.ca
+Hossam Abdelgawad; hossam.abdelgawad@alumni.utoronto.ca
+Baher Abdulhai; baher.abdulhai@utoronto.ca
+Xabiel G. Pañeda; xabiel@uniovi.es
+Roberto Garcia; garciaroberto@uniovi.es
+Gabriel Diaz; gdiaz@ieec.uned.es
+Alejandro G. Tuero; garciaalejandro.uo@uniovi.es
+Laura Pozueco; pozuecolaura@uniovi.es
+Maria Mitre; mitremaria@uniovi.es
+David Melendi; melendi@uniovi.es
+Alejandro G. Pañeda; alejandro.garcia@adnmobilesolutions.com
+Maxwell J. Roberts; mjr@essex.ac.uk
+Olivier Faury; ofaury@em-normandie.fr
+Scott Le Vine; slevine@imperial.ac.uk
+John Polak; j.polak@imperial.ac.uk
+Ramachandran Kannan; Kannan.ramachandran@psi.ch, r.kannan@email.com
+Yulai Wan; sarah.wan@polyu.edu.hk
+Hun-Koo Ha; hkha@inha.ac.kr
+Yuichiro Yoshida; yuichiro@hiroshima-u.ac.jp
+Marin Marinov; marin.marinov@newcastle.ac.uk
+Zidan Mao; z.mao@uu.nl
+Dick Ettema; d.ettema@geog.uu.nl
+Martin Dijst; m.dijst@geog.uu.nl
+Wen Liu; Wen.Liu@sydney.edu.au
+Bryan Epstein; bryaneps@mail.tau.ac.il
+Md Sakoat Hossan; mhoss009@fiu.edu
+Bat-hen Nahmias–Biran; bathen@smart.mit.edu
+Yoram Shiftan; shiftan@technion.ac.il
+Nuo Wang; wangnuo@dlmu.edu.cn
+Frederic Lasserre; Frederic.lasserre@ggr.ulaval.ca
+Debdatta Pal; debdatta@iima.ac.in
+Min-Kyu Lee; minkyu@kmi.re.kr
+Seung-Hoon Yoo; shyoo@seoultech.ac.kr
+Farzana Rahman; farzana-ce@uap-bd.edu
+Tanmay Das; dastanmay84@yahoo.com
+Md Hadiuzzaman; mhadiuzzaman@ce.buet.ac.bd
+Sanjana Hossain; sanjana@ce.buet.ac.bd
+Evelyn Blumenberg; eblumenb@g.ucla.edu
+Michael Smart; mike.smart@rutgers.edu
+Fatemeh Baratian-Ghorghi; baratian@auburn.edu
+Huaguo Zhou; zhouhugo@auburn.edu
+Wesley C. Zech; zechwes@auburn.edu
+Inmaculada C. Álvarez; inmaculada.alvarez@uam.es
+Javier Barbero; javier.barbero@uam.es
+José L. Zofío; jose.zofio@uam.es
+Thomas Clauss; thomas.clauss@wiwi.uni-marburg.de
+Sebastian Döppe; sdoeppe@gmx.de
+Chunyan Yu; yuc@erau.edu
+Seock-Jin Hong; seockjin.hong@kedgebs.com
+Tiziana D’Alfonso; dalfonso@dis.uniroma.it
+Megersa Abate; megersa.abate@vti.se
+Chung-Hsing Yeh; ChungHsing.Yeh@monash.edu
+Leonard MacLean; l.c.maclean@dal.ca
+Anne Aguilera; aguilera@inrets.fr
+Virginie Lethiais; virginie.lethiais@telecom-bretagne.eu
+Alain Rallet; alain.rallet@u-psud.fr
+Laurent Proulhac; laurent.proulhac@enpc.fr
+Linglin Ni; nllzjyk@163.com
+Stephen M. Skippon; sskippon@trl.co.uk
+Neale Kinnear; nkinnear@trl.co.uk
+Louise Lloyd; lklloyd@trl.co.uk
+Jenny Stannard; jstannard@trl.co.uk
+Shubhajit Sadhukhan; shubhajit.iitkgp@gmail.com, shubhajit.sadhukhan@idm.iitkgp.ernet.in
+Uttam K. Banerjee; ukb@arp.iitkgp.ernet.in
+Ruggiero Lovreglio; ruggiero.lovreglio@poliba.it
+Luigi dell’Olio; delloliol@unican.es
+Kate Foreman; kate.foreman@nera.com
+Nicholas Janusch; njanusch@stlawu.edu, nicholas.janusch@colostate.edu
+Stephen D. Parkes; stephen.parkes@nottingham.ac.uk
+Zbigniew Burski; zbigniew.burski@up.lublin.pl
+Izabela Mijalska-Szewczak; izabela.mijalskaszewczak@up.lublin.pl
+Jacek Wasilewski; jacek.wasilewski@up.lublin.pl
+Małgorzata Szczepanik; malgorzata.szczepanik@up.lublin.pl
+Andy Hong; andyhong@gmail.com
+Douglas Houston; houston@uci.edu
+Sunil Patil; spatil@rand.org
+Marco Guerrieri; marco.guerrieri@tin.it
+Dominic D. Ahiaga-Dagbui; d.d.ahiaga-dagbui@rgu.ac.uk
+Zahir Irani; Zahir.irani@brunel.ac.uk
+Disa Asplund; disa.thureson@vti.se
+Siqi Song; siqi.song@u.nus.edu
+Chen-Chieh Feng; chenchieh.feng@nus.edu.sg
+Julie Hatfield; j.hatfield@unsw.edu.au
+Matthew J. Beck; matthew.beck@sydney.edu.au
+Yichuan Ding; daniel.ding@sauder.ubc.ca
+Robin Lindsey; rlindsey@ualberta.ca
+Cong Shi; shicong@umich.edu
+M. Anil Yazici; Anil.Yazici@stonybrook.edu
+Camille Kamga; ckamga@utrc2.org
+Abhishek Singhal; singhal@utrc2.org
+Tessa T. Taefi; research@taefi.de
+Dirk Inghels; Dirk.Inghels@vu.nl
+Wout Dullaert; Wout.Dullaert@vu.nl
+Birger Raa; Birger.Raa@ugent.be
+Grit Walther; walther@om.rwth-aachen.de
+R. Holden; R.Holden@hw.ac.uk
+Rebecca L. Sanders; rsanders@tooledesign.com
+Jichao Geng; gjcjsj@126.com
+Ruyin Long; longruyin@163.com
+Hong Chen; hongchenxz@163.com
+Kiron Chatterjee; Kiron.Chatterjee@uwe.ac.uk
+Eva Heinen; e.heinen@tudelft.nl
+Zuduo Zheng; zuduo.zheng@qut.edu.au
+Alan Tapp; Alan.Tapp@uwe.ac.uk
+Khaled Al-Sahili; alsahili@najah.edu
+Jamil Hamadneh; jameelhamadneh@yahoo.com
+Tao Xu; xutaowhu@126.com
+Ming Zhang; zhangm@austin.utexas.edu
+Paulus T. Aditjandra; paulus.aditjandra@ncl.ac.uk
+Yanshuo Sun; yssun@umd.edu
+Qianwen Guo; guoqw3@mail.sysu.edu.cn
+Paul Schonfeld; pschon@eng.umd.edu
+Zhongfei Li; lnslzf@mail.sysu.edu.cn
+Steven Lannoo; Steven.Lannoo@icb-institute.be
+Elsy Verhofstadt; Elsy.Verhofstadt@UGent.be
+Achim I. Czerny; a.i.czerny@vu.nl
+Zijun Shi; zijuns@andrew.cmu.edu
+Liya Yang; yangliya@ruc.edu.cn
+Zhao Yang; yangzhao@nuaa.edu.cn
+Yuanyuan Zhang; yuanyuanzhang@berkeley.edu
+Ehab Diab; ehab.diab@utoronto.ca
+Genevieve Boisjoly; genevieve.boisjoly@mail.mcgill.ca
+Charis Loong; charis.loong@mail.mcgill.ca
+Francisco Aguilera-Benavente; f.aguilera@uah.es
+Aldo Arranz-López; arranz@unizar.es
+Mohammad Reza Elyasi; mohamadreza.elyasi@modares.ac.ir
+Mahmoud Saffarzade; saffar_m@modares.ac.ir
+Amin Mirza Boroujerdian; Boroujerdian@modares.ac.ir
+Marco Batarce; mbatarce@ing.puc.cl
+Nicholas J. Klein; nick.klein@temple.edu
+Wolfgang Drobetz; wolfgang.drobetz@uni-hamburg.de
+Gabriel J. Power; Gabriel.power@fsa.ulaval.ca
+Mark Burris; mburris@tamu.edu
+Sharada Vadali; s-vadali@ttimail.tamu.edu
+Dmitry Vedenov; vedenov@tamu.edu
+Junwook Chi; jwchi@hawaii.edu
+Meghna Verma; meghna@msrim.org
+T.M. Rahul; rahul@civil.iisc.ernet.in
+Peesari Vamshidhar Reddy; vamshi.peesari@gmail.com
+Ashish Verma; ashishv@civil.iisc.ernet.in
+Nikola Marković; nikola@umd.edu
+Jihua Zhang; zhangjihua6811@gmail.com
+Ben Clark; Ben4.Clark@uwe.ac.uk
+Ruoyun Chen; rc632@cornell.edu
+Linda Nozick; lkn3@cornell.edu
+Lindsay M. Braun; maurerbraun@unc.edu
+Serafín Corral Quintana; scorral@ull.edu.es
+O. Cats; o.cats@tudelft.nl
+Simon Harding; sharding13@gmail.com
+Milind Kandlikar; mkandlikar@ires.ubc.ca
+Sumeet Gulati; sumeet.gulati@ubc.ca
+Neema Nassir; neeman@mit.edu
+Ali Malekzadeh; ali.malekzadeh@student.qut.edu.au
+Elnaz Irannezhad; e.irannezhad@uq.edu.au
+Eric Shiu; E.C.Shiu@bham.ac.uk
+Robert Steinberger-Wilckens; R.SteinbergerWilckens@bham.ac.uk
+Shang-Yu Chen; csy4_23@yahoo.com.tw
+Daniel Baldwin Hess; dbhess@buffalo.edu
+J. Travis Norton; jtnorton@abdn.ac.uk
+JiYoung Park; jp292@buffalo.edu
+Debra A. Street; dastreet@buffalo.edu
+Omid M. Rouhani; om67@cornell.edu
+R. Richard Geddes; rrg24@cornell.edu
+H. Oliver Gao; hg55@cornell.edu
+Germà Bel; gbel@ub.edu
+Cody Davidson; c.davidson@transport.govt.nz
+Abdul Rawoof Pinjari; apinjari@usf.edu
+Bertho Augustin; bertho@mail.usf.edu
+Vijayaraghavan Sivaraman; vsivaraman@airsage.com
+Ahmadreza Faghih Imani; seyed.faghihimani@mail.mcgill.ca
+Ram M. Pendyala; ram.pendyala@ce.gatech.edu
+Dana Rowangould; dana@sustainablesystemsresearch.net
+Alex Karner; alex.karner@coa.gatech.edu
+Jonathan London; jklondon@ucdavis.edu
+Michelle Oswald Beiler; mro003@bucknell.edu
+Leylin Marroquin; leylin.marroquin@aecom.com
+Sue McNeil; smcneil@udel.edu
+Hooi Ling Khoo; khoohl@utar.edu.my
+Eduardo Leal de Oliveira; eduardo.dau@gmail.com
+Khaled Shaaban; kshaaban@qu.edu.qa
+Maya Abou-Zeid; ma202@aub.edu.lb
+Jonas Westin; jonas.westin@cerum.umu.se
+Tomás Ruiz; truizsa@tra.upv.es
+Michael Grimm; michael.grimm@uni-passau.de, grimm@iss.nl
+Carole Treibich; carole.treibich@univ-amu.fr
+Mohamed Mouloud Haddak; mouloud.haddak@ifsttar.fr
+Marie Lefèvre; marie.lefevre@ifsttar.fr
+Margarita Bernal; margarita.bernalg@gmail.com
+Eric W. Welch; EricWelch@asu.edu
+P.S. Sriraj; sriraj@uic.edu
+Ranjit Prasad Godavarthy; ranjit228@gmail.com
+Eugene Russell; geno@ksu.edu
+Dean Landman; dlandman@ksu.edu
+Can-Zhong Yao; ycz20120911@gmail.com
+Hao Geng; genghao8807@163.com
+Arnoud Mouwen; a.m.t.mouwen@vu.nl
+Jos van Ommeren; jos.van.ommeren@vu.nl
+Kecheng Xu; kx46@cornell.edu
+Rachel A. Davidson; rdavidso@udel.edu
+Linda K. Nozick; LKN3@cornell.edu
+Tricia Wachtendorf; twachten@udel.edu
+Sarah E. DeYoung; sedeyoun@udel.edu
+Mark Wallace; mark.wallace@monash.edu
+Don MacKenzie; dwhm@uw.edu
+Paul Leiby; leibypn@ornl.gov
+Amy Miyoung Kim; amy.kim@ualberta.ca
+Gerasimos Loutos; loutos@kth.se
+Ancor Suárez-Alemán; ancorsuarez@gmail.com
+Javier Morales Sarriera; javierms@mit.edu
+Tomás Serebrisky; tserebrisky@iadb.org
+Lourdes Trujillo; ltrujillo@daea.ulpgc.es
+Nursitihazlin Ahmad Termida; nuat@kth.se
+Joel P. Franklin; joelpf@u.washington.edu
+John M. Rose; johnr@itls.usyd.edu.au
+Michael B. Lowry; mlowry@uidaho.edu
+Yang Li; li18@ualberta.ca
+Karim El-Basyouny; karim.el-basyouny@ualberta.ca
+Ran Li; ran.li@edmonton.ca
+Ahmed Abdelghany; ahmed.abdelghany@erau.edu
+Khaled Abdelghany; khaled@lyle.smu.edu
+Hani Mahmassani; masmah@umd.edu
+Mikkel Thorhauge; mt@transport.dtu.dk
+Sheng-Xue He; lovellhe@126.com
+William E. Bendinelli; wbendinelli@gmail.com
+Humberto F.A.J. Bettini; humberto@sc.usp.br
+Soyoung Jung; jung2@hanyang.ac.kr
+Xiao Qin; qinx@uwm.edu
+Giovanni Savino; giovanni.savino@unifi.it
+Mark Stevenson; mark.stevenson@unimelb.edu.au
+Eulalia Peris; E.Peris@salford.ac.uk
+Reinhard Madlener; RMadlener@eonerc.rwth-aachen.de
+Sander Dekker; sander.dekker@vanoord.com
+Hajime Seya; hseya@hiroshima-u.ac.jp
+Kumiko Nakamichi; nakamichi@ide.titech.ac.jp
+Yoshiki Yamagata; yamagata@nies.go.jp
+Bruno De Borger; bruno.deborger@ua.ac.be
+Ismir Mulalic; imu@transport.dtu.dk
+Na Wu; w15184016801@126.com
+Shengchuan Zhao; szhao@dlut.edu.cn
+Qi Zhang; zhangqidllg@163.com
+Roya Etminani-Ghasrodashti; roya.etminani@gmail.com
+Mahyar Ardeshiri; mahyarardeshiri@yahoo.com
+R. Kager; r.m.kager@uva.nl
+L. Bertolini; l.bertolini@uva.nl
+M. Te Brömmelstroet; m.c.g.tebrommelstroet@uva.nl
+Yapa Mahinda Bandara; ybandara@utas.edu.au
+Hong-Oanh Nguyen; o.nguyen@utas.edu.au
+Johannes Asamer; johannes.asamer@ait.ac.at
+Martin Reinthaler; martin.reinthaler@ait.ac.at
+Mario Ruthmair; mario.ruthmair@univie.ac.at
+Markus Straub; markus.straub@ait.ac.at
+Jakob Puchinger; jakob.puchinger@centralesupelec.fr
+Lu Ma; lma@bjtu.edu.cn
+Sivaramakrishnan Srinivasan; siva@ce.ufl.edu
+Angel Ibeas; ibeasa@unican.es
+José Luis Moura; mourajl@unican.es
+Begoña Muñoz; b.mlopez@upm.es
+Andres Monzon; andres.monzon@upm.es
+Elena López; elena.lopez@upm.es
+Juan de Oña; jdona@ugr.es
+Rocío de Oña; rociodona@ugr.es
+Laura Eboli; laura.eboli@unical.it
+Gabriella Mazzulla; gabriella.mazzulla@unical.it
+Sara Hernandez; sara.hernandez@upm.es
+Sebastián Tamblay; sjtambla@uc.cl
+Patricia Galilea; pga@ing.puc.cl
+Paula Iglesias; piglesias@dictuc.cl
+Sebastián Raveau; sraveau@puc.cl
+Pablo Guarda; paguarda@uc.cl
+Laurel Paget-Seekins; lpaget@uc.cl
+Marcela A. Munizaga; mamuniza@ing.uchile.cl
+Francisco A. Ortega Riejos; ortegariejos@gmail.com
+Pelayo Arbués; gonzalezpelayo@gmail.com
+Patricia Mokhtarian; patmokh@gatech.edu
+Tibor Hanappi; hanappi@ihs.ac.at, tibor.hanappi@oecd.org
+Chiwei Yan; chiwei@mit.edu
+Henry A. Bonges; henrybonges@g.harvard.edu
+Anne C. Lusk; annelusk@hsph.harvard.edu
+Susan L. Hotle; shotle3@gatech.edu
+Marco Castillo; mcastil8@gmu.edu
+Stefan L. Mabit; smab@transport.dtu.dk
+Jørgen Jordal-Jørgensen; jjd@cowi.dk
+Joseph Bailey; hbailey@sfu.ca
+Jonn Axsen; jaxsen@sfu.ca
+Anders Karlström; andersk@infra.kth.se
+Matthew Alexander; matthew.j.alexander@strath.ac.uk
+Kathy Hamilton; kathy.hamilton@strath.ac.uk
+Theo Lieven; theo.lieven@unisg.ch
+Y.S. Cheng; ycheng@hkbu.edu.hk
+María Henar Salas-Olmedo; mariahenar.salas@pdi.ucm.es
+Patricia García; patgar11@ucm.es
+Javier Gutiérrez; javiergutierrez@ghis.ucm.es
+Jian Zhao; jzhao@bjtu.edu.cn
+Ana Alises; ana.alises@upm.es
+José Manuel Vassallo; josemanuel.vassallo@upm.es, jvassallo@caminos.upm.es
+G. Masiero; giuliano.masiero@usi.ch
+Luisa Scaccia; scaccia@unimc.it
+Wen-Hsien Huang; whh@nchu.edu.tw
+Yi-Ching Cheng; shn821@hotmail.com
+Ines Frade; ines.frade@uc.pt
+Anabela Ribeiro; anabela@dec.uc.pt
+Emmanouil Chaniotakis; chaniotakis@certh.gr
+C. Angelo Guevara; caguevara@miuandes.cl
+Peter Morfeld; Peter.Morfeld@evonik.com
+Christiane Malina; malinac@uni-muenster.de
+Frauke Scheffler; scheffler.fr@gmail.com
+Simone Caschili; simone.caschili@lasalle.com
+Aura Reggiani; aura.reggiani@unibo.it
+Peter Nijkamp; pnijkamp@econ.vu.nl
+Diego Lanzi; diego.lanzi88@gmail.com
+Lars-Göran Mattsson; Igm@infra.kth.se
+Minette D’Lima; m.dlima@ucl.ac.uk
+Francesca Medda; f.medda@ucl.ac.uk
+Milan Janić; M.Janic@tudelft.nl
+Junghyun Yoon; jyoon071121@naver.com, jyoon071121@postech.ac.kr
+Hee Yong Lee; ilugit@ynu.ac.kr
+John Dinwoodie; jdinwoodie@plymouth.ac.uk
+Rami C. Harb; Rami.harb@atkinsglobal.com
+Jimmy Martínez-Correa; jima.eco@cbs.dk
+Elisabet E. Rutström; erutstrom@gsu.edu
+Jens Kandt; j.kandt@lse.ac.uk
+Philipp Rode; p.rode@lse.ac.uk
+Christian Hoffmann; christian.hoffmann@innoz.de
+Andreas Graff; andreas.graff@innoz.de
+Michael Seelhorst; seelhorst@gmail.com
+A. Lili Lu; lulili_seu@163.com
+B. Gang Ren; rengang@seu.edu.cn
+Rui Wang; ruiwang@ucla.edu
+Myungseob (Edward) Kim; edward.kim@parsons.com
+Paulos Ashebir Lakew; plakew@uci.edu
+Torbjörn Falkmer; torbjorn.falkmer@inr.liu.se
+Benedetto Barabino; bbarabino@unica.it
+Sara Salis; sara.salis@technomobility.it
+Bruno Useli; bruno.useli@ctmcagliari.it
+Seung-Nam Kim; snkim@auri.re.kr
+Sangho Choo; cshchoo@ucdavis.edu
+Feng Qiu; qfyouxiang@hotmail.com
+Dimas B.E. Dharmowijoyo; dbedh@kth.se
+Lili Somantri Adiredja; lili.somantri@gmail.com
+Claudio S. Seitz; claudio.seitz@partner.kit.edu
+Achim Voss; achim.voss@wiso.uni-hamburg.de
+Gregory J. Kwoka; gkwoka2@gmail.com
+E. Eric Boschmann; eric.boschmann@du.edu
+Andrew R. Goetz; andrew.goetz@du.edu
+Kaveh Jahanshahi; kj299@cam.ac.uk
+Weihua Gu; weihua.gu@polyu.edu.hk
+Paul Hooper; p.hooper@unsw.edu.au
+Sveinn Gudmundsson; s.gudmundsson@esc-toulouse.fr
+Stefano Paleari; stefano.paleari@unibg.it
+Jia Yan; jiay@wsu.edu
+Klemens Klein; klemens.klein@wiso.uni-koeln.de
+Sascha Albers; sascha@sam.sdu.dk
+Marco Alderighi; m.alderighi@univda.it
+Alberto A. Gaggero; alberto.gaggero@unipv.it
+Claudio A. Piga; c.piga@keele.ac.uk
+Laingo Manitra Randrianarisoa; manitra.randrianarisoa.1@ulaval.ca
+Stephen Vander Hoorn; vander@unimelb.edu.au
+Sabine Knapp; knapp@ese.eur.nl
+Claudia Hermeling; Claudia.hermeling@hs-heilbronn.de
+Jan Henrik Klement; janhenrik.klement@uni-saarland.de
+Simon Koesler; skoesler@gmx.net
+Jonathan Köhler; jonathan.koehler@isi.fraunhofer.de
+Dorothee Klement; dorothee.klement@yahoo.com
+Shui-Bo Zhang; zhangshuibo@tju.edu.cn
+Ying Gao; ygao@tju.edu.cn
+Patrick Jochem; jochem@kit.edu
+Misak Avetisyan; misak.avetisyan@ttu.edu
+Gabriel Figueiredo De Oliveira; figueire@univ-tln.fr
+J.C. Calvey; j.calvey@napier.ac.uk
+J.P. Shackleton; j.shackleton@napier.ac.uk
+M.D. Taylor; m.taylor@napier.ac.uk
+R. Llewellyn; r.llewellyn@napier.ac.uk
+Sebastian Seebauer; sebastian.seebauer@uni-graz.at
+Yu-Chiun Chiou; ycchiou@mail.nctu.edu.tw
+William Riggs; wriggs@calpoly.edu
+Jonathan A. Cook; JoCook@nexant.com
+Farhana Yasmin; farhana.yasmin@polymtl.ca
+Catherine Morency; cmorency@polymtl.ca
+Gregory S. Macfarlane; gregmacfarlane@gatech.edu
+Juan Moreno-Cruz; juan.moreno-cruz@econ.gatech.edu
+Florent Sari; florent.sari@univ-nantes.fr
+Dana Peck; dpeck88@gmail.com
+H. Scott Matthews; hsm@cmu.edu
+Paul Fischbeck; pf12@andrew.cmu.edu
+Chris T. Hendrickson; cth@cmu.edu
+Claudio A. Agostini; claudio.agostini@uai.cl
+Diego Inostroza; diego.inostroza@gmail.com
+Manuel Willington; manuel.willington@uai.cl
+Winnie Wai Ling Lo; wllowinnie@yahoo.com.hk
+Marcello Basili; marcello.basili@unisi.it
+Filippo Belloc; f.belloc@unich.it
+Antonio Nicita; antonio.nicita@uniroma1.it
+Cariou Pierre; Pierre.cariou@kedgebs.com
+Faury Olivier; olivier.faury@kedgebs.com
+Miluše Tichavska; mtichavska@acciones.ulpgc.es, miluse.tichavska@marinetraffic.com
+Jian Sheng Yeung; jsyeung1@e.ntu.edu.sg
+Julius Raditya Secadiningrat; juliusrs@ntu.edu.sg
+Özgül Ardıç; o.ardic@tudeft.nl
+Jan Anne Annema; J.A.Annema@tudelft.nl
+M. Manoj; manoj@civil.iisc.ernet.in
+Paul Downward; p.downward@lboro.ac.uk
+Simona Rasciute; s.rasciute@lboro.ac.uk
+Carl J. Hamilton; carl.hamilton@policytechnology.com
+Per Näsman; per.nasman@abe.kth.se
+Claire Papaix; clairepapaixpro@gmail.com
+William Phillips; wmphilli@puc.cl
+Andrés del Rio; aedelrio@miuandes.cl
+Felipe Delgado; fdb@ing.puc.cl
+Ricardo Giesen; giesen@ing.puc.cl
+Subodh Dubey; subbits@gmail.com
+Amalia Polydoropoulou; polydor@aegean.gr
+Chandra Bhat; bhat@mail.utexas.edu
+Eric A. Morris; emorri7@clemson.edu
+Carolyn McAndrews; carolyn.mcandrews@ucdenver.edu
+Justine Marcus; justine.marcus@gmail.com
+Ahmed Osman Idris; ahmed.idris@ubc.ca
+Khandker M. Nurul Habib; khandker.nurulhabib@ualberta.ca
+Amer Shalaby; amer@ecf.utoronto.ca
+Patrick Witte; P.A.Witte@uu.nl
+Tejo Spit; T.J.M.Spit@uu.nl
+Arnold Barnett; abarnett@mit.edu
+Michael Ball; MBall@rhsmith.umd.edu
+George Donohue; gdonohue@gmu.edu
+Amedeo Odoni; odoni@mit.edu
+Antonio Trani; vuela@vt.edu
+Erkan Celik; erkcelik@yildiz.edu.tr
+Younshik Chung; tpgist@koti.re.kr
+Hyun Kim; hyun_kim@koti.re.kr
+Till Gnann; till.gnann@isi.fraunhofer.de
+Gabriel Damant-Sirois; gabriel.damant-sirois@mail.mcgill.ca
+Ahmed M. El-Geneidy; ahmed.elgeneidy@mcgill.ca
+Lukasz Piwek; lukasz.piwek@uwe.ac.uk
+Robert Kok; r.kok@tudelft.nl
+Heather Klemick; klemick.heather@epa.gov
+Daniel J. Fagnant; danfagnant@hotmail.com
+Kara Kockelman; kkockelm@mail.utexas.edu
+Luke Haywood; LHaywood@diw.de
+Martin Koning; martin.koning@ifsttar.fr
+Antonio Laurino; antonio.laurino@polimi.it
+Francesco Ramella; francesco.ramella@brunoleoni.it
+Paolo Beria; paolo.beria@polimi.it
+Feng Chen; fengchen@bjtu.edu.cn
+Sheng Jin; jinsheng@zju.edu.cn
+Dongfang Ma; mdf2004@zju.edu.cn
+Kyeongsu Kim; kkim@gradcenter.cuny.edu
+Moschoula Pternea; moschoula.pternea@gmail.com
+Konstantinos Kepaptsoglou; kkepap@central.ntua.gr
+Matthew G. Karlaftis; mgk@central.ntua.gr
+Sung-Pil Hong; sphong@snu.ac.kr
+Alberto M. Zanni; a.m.zanni@lboro.ac.uk
+Tim J. Ryley; t.ryley@griffith.edu.au
+Miguel Mujica Mota; m.mujica.mota@hva.nl
+Jiamin Zhang; jmzhang@sdust.edu.cn
+Ruth Evers; ruth.evers@kuleuven.be
+Linda Nijland; L.Nijland@outlook.com
+Yung-Hsiang Cheng; yhcheng@mail.ncku.edu.tw
+Singfat Chu; fbachucl@nus.edu.sg
+Tina Gehlert; t.gehlert@gdv.de
+Friedrich Leisch; Friedrich.Leisch@boku.ac.at
+Theun Pieter van Tienoven; t.p.van.tienoven@vub.ac.be
+Christina Bernardo; chrissybernardo@gmail.com
+Rajesh Paleti; rpaleti@odu.edu
+Megan Hoklas; mhoklas@utexas.edu
+Jacek Pawlak; jacek.pawlak@imperial.ac.uk
+Marc Türnau; marc.tuernau@th-deg.de
+Ahmed Ayadi; ahmedayadifseg@gmail.com
+Yu Xiao; xiaoyu@plan.cv.titech.ac.jp
+Daisuke Fukuda; fukuda@plan.cv.titech.ac.jp
+Sushant Sharma; sharma57@purdue.edu
+Christina Diakaki; diac@dssl.tuc.gr
+Markos Papageorgiou; markos@dssl.tuc.gr
+Ioannis Papamichail; ipapa@dssl.tuc.gr
+Ioannis Nikolos; jnikolo@dpem.tuc.gr
+Jessica Coria; Jessica.Coria@economics.gu.se
+Jorge Bonilla; jobonill@uniandes.edu.co
+Maria Grundström; Maria.grundstrom@bioenv.gu.se
+Håkan Pleijel; Hakan.pleijel@bioenv.gu.se
+Yutaka Motoaki; ym323@cornell.edu
+Angela Stefania Bergantino; angelastefania.bergantino@uniba.it
+Leandro García-Menéndez; leandro.garcia@uv.es
+Sandra D. Ekşioğlu; sde47@msstate.edu
+Lieve Creemers; lieve.creemers@uhasselt.be
+Hans Tormans; hans.tormans@uhasselt.be
+Tom Bellemans; tom.bellemans@uhasselt.be
+Davy Janssens; davy.janssens@uhasselt.be
+Geert Wets; Geert.wets@uhasselt.be
+Mario Cools; mario.cools@uhasselt.be, marioc@telenet.be
+Shusheng Wang; wangss@jupchina.com
+Yao Jiang; will_1988@126.com
+Bo Yu; 815554334@qq.com
+Wenhao Zhang; 317336648@qq.com
+Kjersti Granås Bardal; kgb@uin.no
+Minoo Farhadi; minoo.farhadi@monash.edu
+Andrew Owen; aowen@umn.edu
+Tim Schwanen; t.schwanen@geog.uu.nl
+Patxi J. Lamíquiz; francisco.lamiquiz@upm.es
+Jorge López-Domínguez; jorge.lopez.dominguez@upm.es
+Nina Waara; nina.waara@tft.lth.se
+Karin Brundell-Freij; karin.brundell-freij@wspgroup.se
+Ralf Risser; ralf.risser@factum.at
+Agneta Ståhl; agneta.stahl@tft.lth.se
+L.T. Aarts; Letty.Aarts@SWOV.NL
+S. Houwing; Sjoerd.Houwing@SWOV.NL
+Yung-Ching Hsu; fenerton@gmail.com
+C.R. McIntosh; cmcintos@d.umn.edu
+Paul Murphy; paul.murphy2@aecom.com
+Jake Whitehead; jake.whitehead@abe.kth.se
+Simon Washington; simon.washington@asu.edu
+Giuliano Mingardo; mingardo@ese.eur.nl
+Eduardo A. Haddad; ehaddad@usp.br
+Brantley Liddle; btliddle@alum.mit.edu
+Sidney Lung; Sidney.Lung@vu.edu.au
+Guangquan Lu; lugq@buaa.edu.cn
+Stacey Mumbower; stacey.mumbower@gatech.edu
+Camille Morvant; camille.morvant@ifsttar.fr
+Gerard C. de Jong; dejong@significance.nl
+John Paul Helveston; john@cmu.edu
+Yimin Liu; yiminl@umich.edu
+Elea McDonnell Feit; emf75@drexel.edu
+Erica Fuchs; erhf@andrew.cmu.edu
+Erica Klampfl; eklampfl@ford.com
+B Raghuram Kadali; raghukadali@civil.iitb.ac.in
+Michael Bruhn Barfod; mbb@transport.dtu.dk
+Chinh Ho; Chinh.ho@sydney.edu.au
+Laura Márquez-Ramos; lmarquez@eco.uji.es
+Jack L. Nasar; nasar.1@osu.edu
+Jerome Dumortier; jdumorti@iupui.edu
+Elliot Fishman; E.Fishman@uu.nl, info@sensibletransport.org.au
+Angela Watson; angela.watson@qut.edu.au
+Tomislav Vukina; tom_vukina@ncsu.edu
+Stefano de Luca; sdeluca@unisa.it
+Photis M. Panayides; photis.panayides@cut.ac.cy
+Jyh-Fa Tsai; tsaij@scu.edu.tw
+Chih-Peng Chu; chpchu@mail.ndhu.edu.tw
+Shou-Ren Hu; shouren@mail.ncku.edu.tw
+Hannes Johnson; hannes.johnson@chalmers.se
+Linda Styhre; linda.styhre@ivl.se
+Yiwei Zhou; zhouy7@rpi.edu
+Ali Mostafavi; almostaf@fiu.edu
+Dulcy Abraham; dulcy@purdue.edu
+Antonio Vives; avives@stanford.edu
+L. dell’Olio; delloliol@unican.es
+Marco Percoco; Marco.percoco@unibocconi.it
+Hans Antonson; Hans.antonson@vti.se, Hans.antonson@keg.lu.se
+Jenessa Mann; Jenessa.man@mail.utoronto.ca
+Gamze Dane; g.z.dane@tue.nl
+Theo A. Arentze; t.a.arentze@tue.nl
+Harry J.P. Timmermans; h.j.p.timmermans@bwk.tue.nl
+Joan Calzada; calzada@ub.edu
+Florent Querini; florent.querini@tudor.lu
+Enrico Benetto; enrico.benetto@tudor.lu
+Negin Minaei; negin.minaei@rau.ac.uk, neginminaei@hotmail.com
+Devajyoti Deka; ddeka@ejb.rutgers.edu
+Eric J. Gonzales; gonzales@umass.edu
+Makoto Tanaka; mtanaka@grips.ac.jp
+Oriol Marquet; oriol.marquet@uab.cat
+Carme Miralles-Guasch; carme.miralles@uab.cat
+Zheng-Yun Zhuang; zhuangzy@zucc.edu.cn, waynemcgwire@yahoo.com
+Fangni Zhang; fzhangad@connect.ust.hk
+Hai Yang; cehyang@uxmail.ust.hk
+Wei Liu; wliuaa@connect.ust.hk
+J.F. Jennifer Lee; jfjlee@ucdavis.edu
+Peter K. Kwok; pkyk2001@yahoo.com
+Jeffrey Williams; williams@primal.ucdavis.edu
+Francesc Soriguera; francesc.soriguera@upc.edu
+Ben Wooliscroft; ben.wooliscroft@otago.ac.nz
+Alexandra Ganglmair-Wooliscroft; ganglmair@business.otago.ac.nz
+Helen Roby; helen.roby@open.ac.uk
+Hong Tan Van; vhtan@plan.cv.titech.ac.jp
+Chengcheng Xu; iamxcc1@163.com
+Wei Wang; wangwei@seu.edu.cn
+Eiichi Taniguchi; taniguchi@kiban.kuciv.kyoto-u.ac.jp
+Felipe Aros-Vera; arosvm@rpi.edu
+Frederico Ferreira; drfred.ferreira@gmail.com
+Russell G. Thompson; russell.thompson@monash.edu
+Kai Zhang; zkark@163.com
+Kan Zhou; xzero72@126.com
+Fangzhou Zhang; zhangfangzhou93@gmail.com
+Julie Cidell; jcidell@illinois.edu
+Gwen Shepherd DiPietro; gdipietr@andrew.cmu.edu
+Timothy Wong; tcwong1@uci.edu
+Finn Jørgensen; finn.joergensen@hibo.no
+Angelika Wolf; angelika.wolf@alumni.uni-graz.at
+Anne Aguiléra; aguilera@inrets.fr
+Marion Voisin; marion-voisin@hotmail.com
+Mariana Dodourova; m.dodourova@herts.ac.uk
+Keith Bevis; k.bevis@herts.ac.uk
+Tabitha S. Combs; tab.combs@gmail.com
+Daniel A. Rodríguez; danrod@email.unc.edu
+James Bonn; james.bonn@faa.gov
+Paul D. Larson; larson@cc.umanitoba.ca
+Jairo Viáfara; via_fara2@hotmail.com
+Robert V. Parsons; robert.parsons@gov.mb.ca
+Arne Elias; ael@telus.net
+Yangwen Liu; aliceliu@umd.edu
+Jean-Michel Tremblay; jeanmi.tremblay@gmail.com
+Jia Hao Wu; jiahao.wu@wu-song.com
+Omer Tatari; tatari@ucf.edu
+Anil Yazici; yazici@utrc2.org
+Juan Carlos Martín; jcmartin@daea.ulpgc.es
+Sean Barbeau; barbeau@cutr.usf.edu
+Kari Watkins; kari.watkins@ce.gatech.edu
+Alexandra Maria Rios Cabral; alexandra.cabral@feac.ufal.br
+Francisco de Sousa Ramos; fsr@ufpe.br
+Veerle Van Holle; veerle.vanholle@ugent.be
+Liesbet Goubert; liesbet.goubert@ugent.be
+Lea Maes; lea.maes@ugent.be
+Jack Nasar; nasar.1@osu.edu
+Nico Van de Weghe; nico.vandeweghe@ugent.be
+Jo Salmon; jo.salmon@deakin.edu.au
+Alexander Erath; erath@ivt.baug.ethz.ch
+Frédéric Dobruszkes; Frederic.Dobruszkes@ouce.ox.ac.uk
+Catherine Dehon; cdehon@ulb.ac.be
+Moshe Givoni; moshe.givoni@ouce.ox.ac.uk
+Seo Youn Yoon; syyoon@krihs.re.kr
+Srinath K. Ravulaparthy; srinath@geog.ucsb.edu
+Henrietta Sherwin; Henrietta.Sherwin@uwe.ac.uk
+Juliet Jain; Juliet.Jain@uwe.ac.uk
+Floridea Di Ciommo; fdiciommo@caminos.upm.es
+Julio Comendador; jcomendador@caminos.upm.es
+María Eugenia López-Lambas; mariaeugenia.lopez@upm.es
+Bayarma Alexander; Aleksandr@scag.ca.gov
+Christa Hubers; C.G.T.M.Hubers@tudelft.nl
+Guangmin Wang; wgm97@163.com
+Bingqing (Emily) Chen; chenbq6@gmail.com
+Patricia C. Melo; patricia.melo@hutton.ac.uk
+Ying Qu; quying@dlut.edu.cn
+Yakun Liu; 1004520087@qq.com
+Qinghua Zhu; zhuqh@dlut.edu.cn
+Yue Liu; liuyue92@mail.dlut.edu.cn
+Saravanan Gurupackiam; szg10@psu.edu
+Koohong Chung; koohong_chung@dot.ca.gov
+Hwasoo Yeo; hwasoo@kaist.ac.kr
+Jonas Eliasson; eliasson@infra.kth.se
+Joffre Swait; Joffre.Swait@uts.edu.au
+Sarah Salem; sarah.salem@mail.utoronto.ca
+J.W.G.M. van der Pas; J.v.d.pas@dtvconsultants.nl, J.W.G.M.vanderPas@tudelft.nl
+J. Kessels; Joris.Kessels@rws.nl
+S.H. Vlassenroot; svenvlassenroot@vim.be
+B. van Wee; G.p.vanwee@tudelft.nl
+Patricia Perennes; patricia.perennes@univ-paris1.fr, pperennes@hotmail.com
+José C. Bernabé; jobergas@upvnet.upv.es
+Noor Azina Ismail; nazina@um.edu.my
+Hashem Salarzadeh Jenatabadi; hashem.salarzadeh@gmail.com
+James J.H. Liou; jamesjhliou@gmail.com
+Erik Nesset; en@hials.no
+Lanlan Wang; lanlanwa@gmail.com
+Jintao Xu; xujt@pku.edu.cn
+Ping Qin; pingqin2009@gmail.com
+Keith Bartholomew; bartholomew@arch.utah.edu
+Xiao Li; xiao.li@geog.utah.edu
+Antonio Páez; paezha@mcmaster.ca
+Sharon Shewmake; sharon.shewmake@wwu.edu
+Emmanuel Yujuico; yujuico@gmail.com
+Fei Li; fei.li@nyu.edu
+Phillip R. Reeder; preeder@utexas.edu
+Shaokuan Chen; shkchen@bjtu.edu.cn
+Ehab I. Diab; ehab.diab@mail.mcgill.ca
+Rania A. Wasfi; rania.wasfi@mail.mcgill.ca
+Sjoerd Bakker; s.bakker-1@tudelft.nl
+Michael Duncan; mdduncan@fsu.edu
+David Cook; David.Cook@VDOT.virginia.gov
+Jingbo Yin; Jingboyin@sjtu.edu.cn
+Adam J. Pel; a.j.pel@tudelft.nl
+Nick H. Bel; nhbel@hotmail.com
+Marits Pieters; pieters@significance.nl
+Frédéric Lasserre; Frederic.lasserre@ggr.ulaval.ca
+Daniel T. Kaffine; daniel.kaffine@colorado.edu
+Paolo Agnolucci; p.agnolucci@ucl.ac.uk
+Nigel H.M. Wilson; nhmw@mit.edu
+Thomas Nosal; thomas.nosal@mail.mcgill.ca
+Luis F. Miranda-Moreno; luis.miranda-moreno@mcgill.ca
+Henry Backman; henry.backman@gmail.com
+Adrian B. Ellison; adrian.ellison@sydney.edu.au
+Hamsa Balakrishnan; hamsa@mit.edu
+B. Adenso-Díaz; adenso@epsig.uniovi.es
+Lei Zhang; lei.zhang@oregonstate.edu
+Maya Guest; maya.guest@newcastle.edu.au
+Bhuvanachithra Chidambaram; bhuvanachithra.chidambaram@hu-berlin.de
+Marco A. Janssen; marco.janssen@asu.edu
+Jens Rommel; jens.rommel@hu-berlin.de
+Dimitrios Zikos; dimitrios.zikos@hu-berlin.de
+Rodrigo Arnaldo Scarpel; rodrigo@ita.br
+Soledad Nogués; soledad.nogues@unican.es
+Esther González-González; esther.glezglez@hotmail.com, gonzalezme@unican.es
+Qiong Zhang; qiongzhang9@126.com
+Qiang Wang; qwang@uibe.edu.cn
+Joseph S. Krupa; joseph.krupa@gmail.com
+Jagat K. Shrestha; jagatshrestha@ioe.edu.np
+Adam Wenneman; adam.wenneman@mail.utoronto.ca
+Adel W. Sadek; asadek@buffalo.edu
+Vanessa Liebert; v.liebert@jacobs-university.de
+Patrícia C. Baptista; patricia.baptista@tecnico.ulisboa.pt
+ManWo Ng; mng@odu.edu
+Frank Meisel; frank.meisel@wiwi.uni-halle.de
+Betty Krier; Betty.Krier@oig.dot.gov
+Chia-Mei Liu; Chia-Mei.Liu@oig.dot.gov
+Brian McNamara; Brian.McNamara@oig.dot.gov
+Jerrod Sharpe; Jerrod.Sharpe@oig.dot.gov
+Álvaro Fernández-Heredia; alvaro.fernandez@uem.es
+Andrés Monzón; amonzon@caminos.upm.es
+Yinhai Wang; yinhai@u.washington.edu
+Christian Thiel; christian.thiel@ec.europa.eu
+Mehmet Aldonat Beyzatlar; mehmet.beyzatlar@deu.edu.tr
+Yongjae Kwon; yjkwon@kookmin.ac.kr
+Jaimin Lee; jm064@knu.ac.kr
+Adam Millard-Ball; adammb@ucsc.edu
+Tânia Fontes; trfontes@ua.pt
+Sally Cairns; scairns@trl.co.uk
+Tae Hoon Oum; tae.oum@ubc.ca
+Joel Zhengyi Shon; joelshon@ms4.hinet.net
+Davide Scotti; davide.scotti@unibg.it
+Yap Yin Choo; yapyin.choo@sauder.ubc.ca
+Chieh-Hua Wen; chwen@fcu.edu.tw
+Alicia A. Israel Schwarzlose; alicia.schwarzlose@gmail.com
+James W. Mjelde; j-mjelde@tamu.edu
+Rebekka M. Dudensing; rmdudensing@tamu.edu
+Yanhong Jin; yjin@aesop.rutgers.edu
+Linda K. Cherrington; l-cherrington@tamu.edu
+Junyi Chen; junyichen23@gmail.com
+Mikhail V. Chester; mchester@asu.edu
+Johannes Paefgen; johannes.paefgen@outlook.com
+Vasco Sanchez Rodrigues; sanchezrodriguesva1@cardiff.ac.uk
+Martin Petschnig; martin.petschnig@ebs.edu
+Sven Heidenreich; sven.heidenreich@ebs.edu
+Patrick Spieth; patrick.spieth@ebs.edu, spieth@uni-kassel.de
+Vasco Reis; vascoreis@tecnico.ulisboa.pt
+Marco Boeri; m.boeri@qub.ac.uk
+David Philip McArthur; d.p.mcarthur@medisin.uio.no
+Liv Osland; liv.osland@hsh.no
+Yuhong Wang; y.wang2@napier.ac.uk
+Kevin Cullinane; stlkcull@polyu.edu.hk
+Simon Fifer; simon.fifer@unisa.edu.au
+John Rose; john.rose@sydney.edu.au
+Anco Hoen; anco.hoen@pbl.nl
+Michiel C.J. Bliemer; m.c.j.bliemer@tudelft.nl
+Caroline Mullen; c.a.mullen@leeds.ac.uk
+Miles Tight; M.R.Tight@its.leeds.ac.uk
+Anthony Whiteing; A.E.Whiteing@its.leeds.ac.uk
+Ann Jopson; A.F.Jopson@its.leeds.ac.uk
+Hyunmi Kim; aadt@hanmail.net
+Sohee Kwon; emsjxnal@naver.com
+Seung Kook Wu; wsk115@koti.re.kr
+Keemin Sohn; kmsohn@sdi.re.kr
+Andreas Justen; andreas.justen@are.admin.ch
+Jens Schippl; jens.schippl@kit.edu
+Barbara Lenz; Barbara.Lenz@dlr.de
+Torsten Fleischer; torsten.fleischer@kit.edu
+Farideh Ramjerdi; fra@toi.no
+Claus Hedegaard Sørensen; chs@transport.dtu.dk
+Karolina Isaksson; karolina.isaksson@vti.se
+James Macmillen; james.macmillen@ouce.ox.ac.uk
+Jonas Åkerman; jonas.akerman@abe.kth.se
+Florian Kressler; Florian.Kressler@austriatech.at
+René Bañares-Alcántara; rene.banares@eng.ox.ac.uk
+P. Arana; pilar.arana@ehu.es
+Juita-Elena (Wie) Yusuf; jyusuf@odu.edu
+Christina Blumentrath; chbl@umb.no
+Mari Sundli Tveit; mari.tveit@umb.no
+Frank P. van den Heuvel; FPvandenHeuvel@gmail.com
+Liliana Rivera; MLRivera@mit.edu
+Karel H. van Donselaar; K.H.v.Donselaar@tue.nl
+Ad de Jong; A.d.Jong@tue.nl
+Yossi Sheffi; Sheffi@mit.edu
+Peter W. de Langen; P.W.d.Langen@tue.nl
+Jan C. Fransoo; J.C.Fransoo@tue.nl
+Marije Hamersma; m.hamersma@rug.nl
+Taede Tillema; t.tillema@rug.nl
+Joseph Sussman; sussman@mit.edu
+Jos Arts; e.j.m.m.arts@rug.nl
+Stefan Binder; s.binder@epfl.ch
+Theo Arentze; t.a.arentze@bwk.tue.nl
+Diana Vonk Noordegraaf; diana.vonknoordegraaf@tno.nl
+Eric Calderwood; eric.calderwood@stir.ac.uk
+Paul Freathy; j.p.freathy@stir.ac.uk
+Karthik Sivakumaran; ksivakum@berkeley.edu
+Roy Welsch; RWelsch@mit.edu
+Florian Drevs; florian.drevs@vwl.uni-freiburg.de
+Dieter K. Tscheulin; dieter.tscheulin@vwl.uni-freiburg.de
+Jörg Lindenmeier; joerg.lindenmeier@vwl.uni-freiburg.de
+Simone Renner; simone.renner@vwl.uni-freiburg.de
+Louise Bunce; l.bunce2803@gmail.com
+Bo Zou; bzou@berkeley.edu
+Matthew Elke; matthew.elke@berkeley.edu
+Nabin Kafle; nkafle89@gmail.com
+Marc Ivaldi; ivaldi@tse-fr.edu
+Simsoo Park; spark@korea.ac.kr
+Nasim S. Sabounchi; sabounchi@vt.edu
+Konstantinos P. Triantis; triantis@vt.edu
+Sudipta Sarangi; sarangi@lsu.edu
+Shiyong Liu; shiyongliu2006@gmail.com
+Akram Khaleghei Ghosheh Balagh; akhalegh@mie.utoronto.ca
+Farnoosh Naderkhani; farnoosh@mie.utoronto.ca
+Viliam Makis; makis@mie.utoronto.ca
+Eric J.E. Molin; E.J.E.Molin@tudelft.nl
+Steven Spears; steven.spears@uci.edu
+Steffen Kallbekken; steffen.kallbekken@cicero.uio.no
+Tsung-Chen Lee; tclee@mail.ntpu.edu.tw
+Niven Winchester; niven@mit.edu
+Michael A. Niedzielski; michael.niedzielski@und.edu
+Luke R. Jones; lukjones@valdosta.edu
+Tuan A. Vu; drtuan@vgtrc.vgu.edu.vn
+Quang N. Nguyen; nnquang_gtvt@yahoo.com
+Miguel A. Figliozzi; figliozzi@pdx.edu
+Gregory Rowangould; rowangould@unm.edu
+A. Páez; paezha@mcmaster.ca
+Paola Pellegrini; paola.pellegrini@ifsttar.fr
+Joaquin Rodriguez; joaquin.rodriguez@ifsttar.fr
+Oskar Fröidh; oskar.froidh@abe.kth.se
+Camilla Byström; camilla.bystrom@wspgroup.se
+Siu Hing Lo; s.lo@ucl.ac.uk
+Eric Nitzsche; eric.nitzsche@tu-dresden.de
+Sofia Grahn-Voorneveld; sofia.grahn-voorneveld@vti.se
+Bin Yu; minlfish@yahoo.com.cn
+Qing Lu; qlu@usf.edu14
+Jian Xu; xujianseutc@seu.edu.cn
+Brandon Allen; brand.m.allen@gmail.com
+Alexandros Dimitropoulos; a.dimitropoulos@vu.nl
+Laurent Van Malderen; laurent.vanmalderen@uclouvain-mons.be
+Bart Jourquin; bart.jourquin@uclouvain-mons.be
+Claude Pecheux; claude.pecheux@uclouvain-mons.be
+Isabelle Thomas; isabelle.thomas@uclouvain.be
+Elien Van De Vijver; elien.vandevijver@ugent.be
+Ann Verhetsel; ann.verhetsel@ua.ac.be
+Yan Li; liyan@uwec.edu
+Richard Arnott; richard.arnott@ucr.edu
+John Rowse; rowse@ucalgary.ca
+Lucy Budd; L.C.S.Budd@lboro.ac.uk
+Stephen Ison; S.G.Ison@lboro.ac.uk
+Thomas Budd; T.Budd@lboro.ac.uk
+António Pais Antunes; antunes@dec.uc.pt
+Marius Thériault; marius.theriault@crad.ulaval.ca
+François Des Rosiers; francois.desrosiers@fsa.ulaval.ca
+Erling Holden; erling.holden@ntnu.no
+Kristin Linnerud; kristin.linnerud@cicero.uio.no
+Viachaslau Filimonau; filimov@hope.ac.uk
+Janet Dickinson; jdickinson@bournemouth.ac.uk
+Derek Robbins; drobbins@bournemouth.ac.uk
+Maharaj Vijay Reddy; mvreddy@bournemouth.ac.uk
+Charalampos Saridakis; b.saridakis@leeds.ac.uk
+A. van der Vooren; a.vandervooren@uu.nl
+F. Alkemade; f.alkemade@uu.nl
+M.P. Hekkert; m.p.hekkert@uu.nl
+Seth Gershenson; gershens@american.edu
+Nicolette Caperello; ncaperello@ucdavis.edu
+Kenneth S. Kurani; knkurani@ucdavis.edu
+Jennifer TyreeHageman; jthageman@ucdavis.edu
+André Carrel; acarrel@berkeley.edu
+Felipe González; felipe.gonzalezr@udp.cl
+Ignacio Vargas; ignacio.vargaso@udp.cl
+Lei Kang; lkang119@gmail.com
+Yingge Xiong; xiong0@purdue.edu
+Fred L. Mannering; flm@ecn.purdue.edu
+David Boyce; d-boyce@northwestern.edu
+Jun Xie; jonasxie@gmail.com
+Dongquan He; dqhe@efchina.org
+Huan Liu; liu_env@tsinghua.edu.cn
+Kieran Broome; KBroome@usc.edu.au
+Linda Worrall; l.worrall@uq.edu.au
+Jennifer Fleming; j.fleming@uq.edu.au
+Duncan Boldy; d.boldy@curtin.edu.au
+D. Efthymiou; defthym@mail.ntua.gr
+C. Antoniou; antoniou@central.ntua.gr
+Scott C. Himes; sch175@psu.edu
+Eric T. Donnell; edonnell@engr.psu.edu
+Richard J. Porter; richard.jon.porter@utah.edu
+Shailesh Chandra; chandrashailesh@gmail.com
+Wendy Weijermars; wendy.weijermars@swov.nl
+Paul Wesemann; pw@roadsafetyforall.org
+Li Li; li-li@mail.tsinghua.edu.cn
+Julien Surprenant-Legault; jslegault@amt.qc.ca
+Zachary Patterson; zachary.patterson@concordia.ca
+Niklas Arvidsson; niklas.arvidsson@handels.gu.se
+David Forsey; david.forsey@utoronto.ca
+Ana Sasic; ana.sasic@utoronto.ca
+Eliver Lin; cheuk@uaeu.ac.ae
+Barry Mak; hmbarry@polyu.edu.hk
+Kevin Wong; spkevinw@speed-polyu.edu.hk
+Mohammad Nurul Hassan; mnhassan@uaeu.ac.ae
+Yaser E. Hawas; y.hawas@uaeu.ac.ae
+Kamran Ahmed; ahmedka@uaeu.ac.ae
+E. Andrijcic; ea2r@virginia.edu, andrijcic@yahoo.com
+Y.Y. Haimes; haimes@virginia.edu
+T. Beatley; tb6d@virginia.edu
+Nolan Ritter; ritter@rwi-essen.de
+Charlotte Wahl; charlotte.wahl@tft.lth.se
+N. Barros; nelson@ufp.edu.pt
+T. Fontes; tania@ufp.edu.pt
+M.P. Silva; mpsilva@ufp.edu.pt
+M.C. Manso; cmanso@ufp.edu.pt
+Ahmed Al-Ghandoor; gandoor2002@yahoo.com
+Carlos P. Barros; cbarros@iseg.utl.pt
+Qi Bin Liang; qi-bin.liang@univ-perp.fr
+Nicolas Peypoch; peypoch@univ-perp.fr
+Mary O. Hearst; mohearst@stkate.edu
+John R. Sirard; jrs2wg@virginia.edu
+Ann Forsyth; aforsyth@gsd.harvard.edu
+Emily D. Parker; Emily.d.parker@healthpartners.com
+Elizabeth G. Klein; klein.232@osu.edu
+Christine G. Green; CGGreen@columbus.gov
+Leslie A. Lytle; llytle@email.unc.edu
+Bastien Girod; bgirod@ethz.ch
+Kevin Manaugh; kevin.manaugh@mail.mcgill.ca
+Johannes Paha; Johannes.Paha@wirtschaft.uni-giessen.de
+Dirk Rompf; Dirk.Rompf@ism.de
+Christiane Warnecke; Christiane.Warnecke@wirtschaft.uni-giessen.de, christianewarnecke@yahoo.de
+Juan Dols; jdols@mcm.upv.es
+Vicente Pons; viponsen@upvnet.upv.es
+Enrique Alcalá; enrique.alcala@upm.es
+Beatriz Valles; b.valles@upm.es
+Ángel Martín; angel.martin@upm.es
+Katarina Haugen; katarina.haugen@geography.umu.se
+Steven Jones; sjones@eng.ua.edu
+Moses Tefe; mtefe@norwich.edu
+Seth Appiah-Opoku; sappiah@bama.ua.edu
+Vaughan Reimers; vaughan.reimers@monash.edu
+Mohamed Abdel-Aty; m.aty@ucf.edu
+Keechoo Choi; keechoo@ajou.ac.kr
+Lauren M. Gardner; lmgardner@mail.utexas.edu
+Melissa Duell; m.duell@unsw.edu.au
+S. Travis Waller; stw@mail.utexas.edu
+Eugen Truschkin; truschkin@bwl.tu-darmstadt.de
+Ralf Elbert; elbert@bwl.tu-darmstadt.de
+Martino Tran; martino.tran@ouce.ox.ac.uk
+Vo Van Can; cankt34@yahoo.com, cankt34@gmail.com
+M. Fernanda Viecens; fviecens@udesa.edu.ar
+Patricia Kristine Sheridan; patricia.sheridan@utoronto.ca
+Erich Gluck; erich.gluck@utoronto.ca
+Qi Guan; aaron.guan@utoronto.ca
+Thomas Pickles; tom.pickles@utoronto.ca
+Barış Balcıog˜lu; balcioglu@sabanciuniv.edu
+Beno Benhabib; beno@mie.utoronto.ca
+Tim Richardson; tim@plan.aau.dk
+Andrew Chi-lok Yuen; andrewyuen@baf.cuhk.edu.hk
+Ronald Galiza; r.galiza@uq.edu.au
+Luis Ferreira; l.ferreira@uq.edu.au
+Dominique Lord; d-lord@tamu.edu
+Hui Zhao; zhaoh@bjtu.edu.cn
+Alvaro Fernandez-Heredia; alvaro.fernandez@uem.es
+Emma J. Bones; ejbones@gatech.edu
+Elise M. Barrella; barrelem@jmu.edu
+Adjo A. Amekudzi; adjo.amekudzi@ce.gatech.edu
+Astrid De Witte; adewitte@vub.ac.be
+Joachim Hollevoet; Joachim.Hollevoet@vub.ac.be
+Michel Hubert; Hubert@fusl.ac.be
+Cathy Macharis; Cathy.Macharis@vub.ac.be
+Claude Weis; claude.weis@ivt.baug.ethz.ch
+Kay Axhausen; axhausen@ivt.baug.ethz.ch
+Felix Caicedo; felix.caicedo@ucv.cl
+Alejandra Diaz; alita.diaz.cruz@gmail.com
+André Luís Policani Freitas; andrepolicani@yahoo.com, policani@uenf.br
+Katrin Dziekan; katrin@infra.kth.se
+Tommy Gärling; tommy.garling@psy.gu.se
+Angela Francke; angela.francke@tu-dresden.de
+Erel Avineri; Erel.Avineri@uwe.ac.uk, Avineri@Afeka.ac.il
+E. Owen D. Waygood; Owen.Waygood@esad.ulaval.ca
+Geertje Schuitema; g.schuitema@abdn.ac.uk
+Jan-Dirk Schmöcker; schmoecker@trans.kuciv.kyoto-u.ac.jp
+N.M.A. Huijts; N.M.A.Huijts@tudelft.nl
+Dimitrios Xenias; xeniasd@cardiff.ac.uk, dxenias@gmail.com
+Alim Nayum; Alim.Nayum@svt.ntnu.no
+Christian A. Klöckner; Christian.Klockner@svt.ntnu.no
+Sunita Prugsamatz; Sunita.Prugsamatz@svt.ntnu.no
+Thomas Franke; thomas.franke@psychologie.tu-chemnitz.de
+Ulf J.J. Hahnel; Ulf.Hahnel@psychologie.uni-freiburg.de
+Yuval Hadas; yuval.hadas@biu.ac.il
+Amir Laor; amir1607@bezeqint.net
+Joseph B. Sobieralski; joseph.sobieralski@swic.edu
+Adarsh Varma; adarsh.varma@aeat.co.uk
+Dan Newman; Dan.newman@aeat.co.uk
+Duncan Kay; Duncan.kay@aeat.co.uk
+Gena Gibson; Gena.gibson@aeat.co.uk
+Jamie Beevor; Jamie.beevor@aeat.co.uk
+Ian Skinner; Ian.skinner@aeat.co.uk
+Shishir Mathur; shishir.mathur@sjsu.edu
+David R. Ragland; davidr@berkeley.edu
+Tobias Schaefers; tobias.schaefers@ebs.edu
+Ilza Machado Kaiser; ilzakaiser@feb.unesp.br
+Barbara Stolte Bezerra; barbarabezerra@feb.unesp.br
+Leslie Ivana Serino Castro; liscastro.jau@terra.com.br
+Jolian McHardy; j.mchardy@sheffield.ac.uk
+Michael Reynolds; M.Reynolds2@bradford.ac.uk
+Stephen Trotter; S.D.Trotter@hull.ac.uk
+Snehamay Khasnabis; skhas@wayne.edu
+Tom V. Mathew; vmtom@civil.iitb.ac.in
+Paul Pao-Yen Wu; p.wu@qut.edu.au
+Andreas Andrikopoulos; apa@aegean.gr
+Anna A. Merika; merikas@otenet.gr
+Anna Triantafyllou; atriant@acg.edu
+Andreas G. Merikas; merikas@otenet.gr
+Todd Litman; litman@vtpi.org
+Christian Holz-Rau; christian.holz-rau@tu-dortmund.de
+Shepley Orr; s.orr@ucl.ac.uk
+Martin Trépanier; martin.trepanier@polymtl.ca
+Gordon Wilmsmeier; g.wilmsmeier@napier.ac.uk
+Tony H. Grubesic; grubesic@drexel.edu
+Sheldon H. Jacobson; shj@illinois.edu
+Tingting Wang; wangtt@uw.edu
+Cynthia Chen; chen@ce.ccny.cuny.edu
+Misuk Lee; mlee@gatech.edu
+Alexandre Khelifa; akhelifa3@gatech.edu
+David Post; davidpost@mac.com
+Jörg Firnkorn; joerg.firnkorn@uni-ulm.de
+Marta Rojo; mrarce@ubu.es
+Hernán Gonzalo-Orden; hgonzalo@ubu.es
+Ángel Ibeas; angel.ibeas@unican.es
+Joseph Broach; jbroach@pdx.edu
+Jennifer Dill; jdill@pdx.edu
+John Gliebe; john.gliebe@rsginc.com
+Niclas A. Krüger; niclas.kruger@vti.se
+Stephen Skippon; steve.skippon@shell.com
+Fedele Iannone; f.iannone@email.it
+Youngsun Kwon; yokwon@kaist.ac.kr
+Seung Hun Han; hansm8@kaist.ac.kr
+Changi Nam; cgnam@kaist.ac.kr
+Jarmila Zimmermannova; jarmila.zimmermannova@seznam.cz, jarmila.zimmermannova@mvso.cz
+Debasis Basu; basudebasis2k@gmail.com, dbasu@iitbbs.ac.in
+John Douglas Hunt; jdhunt@ucalgary.ca
+Alyona Zubaryeva; alyona.zubaryeva@ec.europa.eu, alyona.zubaryeva@gmail.com
+Shiquan Zhong; shiquantju@yahoo.com.cn
+Lizhen Zhou; zhoulizhentju@yahoo.com.cn
+Ning Jia; ghost9090@163.com
+Mireia Roca-Riu; mireia.roca-riu@upc.edu
+Miquel Estrada; miquel.estrada@upc.edu
+César Trapote; cesar.trapote@upc.edu
+Thais Rangel; trangel@caminos.upm.es
+Blanca Arenas; barenas@etsii.upm.es
+Gunwoo Lee; gunwoo@kmi.re.kr
+Soyoung (Iris) You; soyoungy@uci.edu
+Stephen G. Ritchie; sritchie@uci.edu
+Jean-Daniel Saphores; saphores@uci.edu
+R. Jayakrishnan; rjayakri@uci.edu
+Oladele Ogunseitan; oladele.ogunseitan@uci.edu
+Sean T. Doherty; sdoherty@wlu.ca
+Michael A. Silas; michaelsilas@yahoo.com
+Timon H. Stasko; ths9@cornell.edu
+Prem Chand Devarasetty; premc@tamu.edu
+W. Douglass Shaw; wdshaw@tamu.edu
+Wafa Elias; Wafae@tx.technion.ac.il
+Kirrilly Thompson; kirrilly.thompson@cqu.edu.au
+Nikolas Geroliminis; nikolas.geroliminis@epfl.ch
+Sergejs Gubins; s.gubins@vu.nl
+Erik T. Verhoef; everhoef@econ.vu.nl
+Thomas de Graaff; tgraaff@feweb.vu.nl
+Amy R. Campbell; A.R.Campbell@lboro.ac.uk
+Tim Ryley; T.J.Ryley@lboro.ac.uk
+Rob Thring; R.H.Thring@lboro.ac.uk
+Gian-Claudia Sciara; sciara@ucdavis.edu
+Andreas Ziegler; andreas.ziegler@uni-kassel.de
+Joshua Auld; auld@uic.edu
+Maria Attard; maria.attard@um.edu.mt
+Caspar G. Chorus; c.g.chorus@tudelft.nl
+Bilal Farooq; bilal.farooq@epfl.ch
+S. Dujardin; dujardin.sebastien@fundp.ac.be
+Timothy F. Welch; twelch@umd.edu
+Manoj K. Jha; mkjha@eng.morgan.edu
+Gokhan Egilmez; ge298307@ohio.edu
+Abolfazl (Kouros) Mohammadian; kouros@uic.edu
+Stéphanie Souche; stephanie.souche@let.ish-lyon.cnrs.fr
+Alex Anas; alexanas@buffalo.edu
+Tomoru Hiramatsu; th29@buffalo.edu
+Kenneth A. Small; ksmall@uci.edu
+Leonardo J. Basso; lbasso@ing.uchile.cl
+Sergio R. Jara-Díaz; jaradiaz@ing.uchile.cl
+W. Bowman Cutter; Bowman.Cutter@Pomona.edu
+Sofia F. Franco; sufmff@gmail.com
+Lars Hultkrantz; lars.hultkrantz@oru.se
+Nilopa Shah; nilopa.shah@uci.edu
+Andrew Smith; a.s.j.smith@its.leeds.ac.uk
+Michael A.P. Taylor; map.taylor@unisa.edu.au
+David Watling; d.p.watling@its.leeds.ac.uk
+Patrick Qiang; qzq10@gv.psu.edu
+Takeshi Nagae; nagae@is.uec.ac.jp
+Yasuo Asakura; asakura@kobe-u.ac.jp
+M. Snelder; maaike.snelder@tno.nl
+H.J. van Zuylen; h.j.vanzuylen@tudelft.nl
+L.H. Immers; b.immers@rstrail.nl
+Victor L. Knoop; v.l.knoop@tudelft.nl
+Matthias Ehrgott; m.ehrgott@auckland.ac.nz
+Judith Y.T. Wang; j.wang@auckland.ac.nz
+Andrea Raith; a.raith@auckland.ac.nz
+Chris van Houtte; chrisvanhoutte@gmail.com
+Caroline Guillot; caroline.guillot@enpc.fr
+Karel Martens; k.martens@fm.ru.nl
+Aaron Golub; Aaron.Golub@asu.edu
+Glenn Robinson; Glenn.Robinson@morgan.edu
+Wen-Hsiu Huang; michelle@teamail.ltu.edu.tw
+Alexandra Hyard; alexandra.hyard@univ-lille1.fr
+Carlos Carrion; carri149@umn.edu
+Cindy Costain; c.costain@utoronto.ca
+Carolyn Ardron; carolyn.ardron@utoronto.ca
+Jonas Nordström; Jonas.Nordstrom@nek.lu.se
+Aikaterini Rentziou; katerinarentziou@gmail.com
+Konstantina Gkritza; nadia@iastate.edu
+Reginald R. Souleyrette; souleyrette@uky.edu
+Bi Yu Chen; chen.biyu@gmail.com
+Parisa Bastani; pbastani@mit.edu, pb466@cam.ac.uk
+Robin Hickman; r.hickman@ucl.ac.uk
+Joyce M. Dargay; j.m.dargay@leeds.ac.uk
+Stephen Clark; gysc@leeds.ac.uk
+Rachael Nealer; rnealer@gmail.com
+Jason D. Lemp; jlemp@camsys.com
+Andrew Daly; daly@rand.org
+Mohammed Tazul Islam; mdtazul@ualberta.com
+Vincent Grasset; vincent.grasset@polymtl.ca
+Susan Hotle; shotle3@gatech.edu
+Álvaro Costa; afcosta@fe.up.pt
+Georg Hirte; georg.hirte@tu-dresden.de
+D.P. McArthur; david.mcarthur@hsh.no
+I. Thorsen; inge.thorsen@hsh.no
+J. Ubøe; jan.uboe@nhh.no
+Tsutomu Suzuki; tsutomu@risk.tsukuba.ac.jp
+Sohee Lee; shlee@csis.u-tokyo.ac.jp
+Susan Krumdieck; susan.krumdieck@canterbury.ac.nz
+Dimitrios Tsamboulas; dtsamb@central.ntua.gr
+Yu (Marco) Nie; y-nie@northwestern.edu
+Marco Diana; marco.diana@polito.it
+Pauline van den Berg; p.e.w.v.d.berg@tue.nl
+Paulus Teguh Aditjandra; paulus.aditjandra@ncl.ac.uk
+Sirui Liu; lius77@vt.edu
+Lisa Schweitzer; lschwei@vt.edu
+Els Beukers; e.beukers@uva.nl
+Carl C. Koopmans; c.c.koopmans@vu.nl
+Enda Murphy; enda.murphy@ucd.ie
+Marcelo E. Lascano Kezič; marcelo.lascano@fulbrightmail.org
+Jos N. van Ommeren; j.n.van.ommeren@vu.nl
+Karthikgeyan Sivakumaran; ksivakum@berkeley.edu
+Ella Graham-Rowe; E.J.Graham-Rowe@sussex.ac.uk
+Benjamin Gardner; b.gardner@ucl.ac.uk
+Charles Abraham; charles.abraham@pcmd.ac.uk
+Helga Dittmar; h.e.dittmar@sussex.ac.uk
+Rebecca Hutchins; rhutchins@trl.co.uk
+Erin M. Ferguson; eferguson@kittelson.com
+Jennifer Duthie; jduthie@mail.utexas.edu
+Avinash Unnikrishnan; Avinash.Unnikrishnan@mail.wvu.edu
+Konstantinos Perrakis; konstantinos.perrakis@uhasselt.be
+Olaf Jonkeren; ojonkeren@feweb.vu.nl
+John K. Stanley; j.stan@bigpond.net.au
+Ghislain Dubois; Ghislain.Dubois@yahoo.fr
+Manuel Frondel; frondel@rwi-essen.de
+Jan Vespermann; jan.vespermann@ebs.edu
+Andreas Wald; andreaswald@ebs-paris.com
+Sgouris Sgouridis; ssgouridis@masdar.ac.ae
+Philippe A. Bonnefoy; bonnefoy@mit.edu
+R. John Hansman; rjhans@mit.edu
+Michael J. Cassidy; cassidy@ce.berkeley.edu
+Zhen (Sean) Qian; zqian@ucdavis.edu
+Feng (Evan) Xiao; fxiao@ucdavis.edu
+H.M. Zhang; hmzhang@ucdavis.edu
+Xing Wu; xingw@northwestern.edu
+Song Gao; songgao@ecs.umass.edu
+Emma Frejinger; emma.frejinger@abe.kth.se
+M. Estrada; miquel.estrada@upc.edu
+M. Roca-Riu; mireia.roca-riu@upc.edu
+H. Badia; hugo.badia@upc.edu
+F. Robusté; f.robuste@upc.edu
+C.F. Daganzo; daganzo@ce.berkeley.edu
+Ronghui Liu; r.liu@its.leeds.ac.uk
+Benjamin Coifman; coifman.1@osu.edu
+Sashank Musti; smusti@camsys.com
+M. Salicrú; msalicru@ub.edu
+C. Fleurent; charles.fleurent@giro.ca
+J.M. Armengol; jmarmengol@tmb.cat
+Pablo Bass; laclote@gmail.com
+Pedro Donoso; pdonoso@labtus.cl
+Marcela Munizaga; mamuniza@ing.uchile.cl
+Amelia C. Regan; aregan@uci.edu
+Fatemeh Ranaiefar; franaief@uci.edu
+Dmitri I. Arkhipov; darkhipo@uci.edu
+Janet R. Stanley; Janet.Stanley@msi.monash.edu.au
+Dianne Vella-Brodrick; Dianne.Vella-Brodrick@med.monash.edu.au
+Kari Edison Watkins; kariewatkins@gmail.com
+Brian Ferris; bdferris@cs.washington.edu
+Alan Borning; borning@cs.washington.edu
+G. Scott Rutherford; scottrut@u.washington.edu
+David Layton; dflayton@u.washington.edu
+Brian P. Ó Gallachóir; b.ogallachoir@ucc.ie
+Coray Davis; cdavis@vsu.edu
+Ramón Núñez-Sánchez; nunezr@unican.es
+Pablo Coto-Millán; cotop@unican.es
+Su-Han Woo; shwoo74@paran.com
+Wen-Chyuan Chiang; wen-chiang@utulsa.edu
+John Pucher; pucher@rci.rutgers.edu
+Mark Seinen; markseinen@gmail.com
+Tamer Çetin; tcetin@yildiz.edu.tr
+Kadir Yasin Eryigit; kyeryigit@uludag.edu.tr
+Litian Xie; xielitian@gmail.com
+Piotr Olszewski; colsze@ntu.edu.sg
+S. Bretschneider; sarah.bretschneider@uni-due.de
+A. Kimms; alf.kimms@uni-due.de
+Hana Ševčíková; hanas@uw.edu
+Adrian E. Raftery; raftery@u.washington.edu
+Paul A. Waddell; waddell@berkeley.edu
+Haizhong Wang; wang@engin.umass.edu
+Jia Li; jli0@engin.umass.edu
+Qian-Yong Chen; qchen@math.umass.edu
+Daiheng Ni; ni@ecs.umass.edu
+David Bauner; dbauner@kth.se
+Gil Tal; gtal@ucdavis.edu
+Cristián E. Cortés; ccortes@ing.uchile.cl
+Pedro Cantos-Sánchez; Pedro.Cantos@uv.es
+Elenna R. Dugundji; e.r.dugundji@uva.nl
+Juan A. Carrasco; j.carrasco@udec.cl
+Fabrice Marchal; fabrice.marchal@let.ish-lyon.cnrs.fr
+Kristin Lovejoy; kelovejoy@ucdavis.edu
+Jonathon E. Mote; jmote@cba.siu.edu
+Yuko Whitestone; ykwhitestone@gmail.com
+Robert D. Wilton; wiltonr@mcmaster.ca
+Darren M. Scott; scottdm@mcmaster.ca
+Jeremy Hackney; ardent@mit.edu
+Qi Han; q.han@bwk.tue.nl
+Nebiyou Tilahun; tila0006@umn.edu
+Yos Sunitiyoso; yos.sunitiyoso@sbm-itb.ac.id
+Stef Proost; stef.proost@econ.kuleuven.be
+Doina Olaru; doina.olaru@uwa.edu.au
+Brett Smith; brett.smith@uwa.edu.au
+John H.E. Taplin; john.taplin@uwa.edu.au
+José Manuel Viegas; viegas@civil.ist.utl.pt
+Grégory Vandenbulcke; gregory.vandenbulcke@uclouvain.be
+Pedro A.L. Abrantes; pedro.abrantes@pteg.net
+Mathias Reymond; mathias.reymond@univ-evry.fr
+Sutapa Samanta; s_sutapa12@yahoo.com
+Shanjiang Zhu; zhuxx120@umn.edu
+Henry X. Liu; xliu@cc.usu.edu
+Kathleen Harder; harde015@umn.edu
+Ian Savage; ipsavage@northwestern.edu
+Hongmian Gong; gong@hunter.cuny.edu
+Catherine Lawson; lawsonc@albany.edu
+Evan Bialostozky; evanb1313@gmail.com
+Phuong Nguyen-Hoang; nguyenhphuong@gmail.com
+Ryan Yeung; ryyeung@maxwell.syr.edu
+Michael K. Adjemian; madjemian@ers.usda.gov
+C.-Y. Cynthia Lin; cclin@primal.ucdavis.edu
+Kimberly A. Gray; k-gray@northwestern.edu
+T.C. Matisziw; matisziwt@missouri.edu
+T.H. Grubesic; tony.grubesic@gmail.com
+Daehyun Kim; Daehyun1.kim@doosan.com
+M.F. Yáñez; mfyanezc@puc.cl
+S. Raveau; sraveau@puc.cl
+J. de D. Ortúzar; jos@ing.puc.cl
+G. Menghini; gianluca@menghini.biz
+N. Carrasco; nelsonc@ethz.ch
+N. Schüssler; schuessler@ethz.ch
+K.W. Axhausen; axhausen@ivt.baug.ethz.ch
+Deb Niemeier; dniemeier@ucdavis.edu
+Adrian T. Moore; Adrian.Moore@reason.org
+Samuel R. Staley; Sam.Staley@reason.org
+Robert W. Poole; Bob.Poole@reason.org
+Steve Winkelman; swinkelman@ccap.org
+C. Newson; carey@careynewson.org.uk
+A. Davis; adrian.davis@phonecoop.coop
+Jason G. Su; jasonsu@berkeley.edu
+Meghan Winters; mwinters@interchange.ubc.ca
+Melissa Nunes; nunes.melissa.m@gmail.com
+Michael Brauer; brauer@interchange.ubc.ca
+António P. Antunes; antunes@dec.uc.pt
+Kate Whalen; whalenk@mcmaster.ca
+Yousef Shafahi; shafahi@sharif.edu
+Alireza Khani; akhani@alum.sharif.edu
+Paul R. Tétreault; paul.tetreault@mail.mcgill.ca
+A. Silvestrini; alessandra.silvestrini@gmail.com
+S. Monni; suvi.monni@benviroc.fi
+M. Pregernig; michael.pregernig@ifp.uni-freiburg.de
+A. Barbato; anna.barbato@libero.it
+J.-F. Dallemand; Jean-Francois.dallemand@ec.europa.eu
+E. Croci; edoardo.croci@unibocconi.it
+F. Raes; frank.raes@jrc.it
+Erika Sandow; erika.sandow@geography.umu.se
+Kerstin Westin; kerstin.westin@geography.umu.se
+Anne Nolan; anne.nolan@esri.ie
+Fred Mannering; flm@u.washington.edu
+Shannon Page; shannon.page@canterbury.ac.nz
+André Dantas; andre.dantas@canterbury.ac.nz
+J.L. Sullivan; james.sullivan@uvm.edu
+D.C. Novak; dnovak@bsad.uvm.edu
+L. Aultman-Hall; lisa.aultman-hall@uvm.edu
+D.M. Scott; scottdm@mcmaster.ca
+Lorenzo Masiero; L.masiero@itls.usyd.edu.au, Lorenzo.masiero@usi.ch
+Jérôme Massiani; jmassiani@units.it
+Alan Collins; alan.collins@port.ac.uk
+Diwakar Gupta; guptad@me.umn.edu
+S. Reza Seyedshohadaie; sreza@tamu.edu
+Ivan Damnjanovic; idamnjanovic@civil.tamu.edu
+Sergiy Butenko; butenko@tamu.edu
+Piyapong Jiwattanakulpaisarn; piyapong.ji@doh.go.th
+Russell D. Meller; rmeller@uark.edu
+Panagiotis Ch. Anastasopoulos; panast@purdue.edu
+José María Grisolía; jmgrisolia@daea.ulpgc.es
+Dimitris Potoglou; dimitris@rand.org
+Celine Jacob; celine.jacob@utoronto.ca
+Richard G. Funderburg; richard-funderburg@uiowa.edu
+Hilary Nixon; hilary.nixon@sjsu.edu
+Gavin Ferguson; fergusog@uci.edu
+Qing Su; suq1@nku.edu
+Nakul Sathaye; nsathaye@berkeley.edu
+Zheng Li; z.li@itls.usyd.edu.au
+Jiaoe Wang; wangje.03s@igsnrr.ac.cn
+Mark Greer; greerm@dowling.edu
+David Lois; davidlois@psi.uned.es
+Mercedes López-Sáez; mlopez@psi.uned.es
+Kim Bang Salling; kbs@transport.dtu.dk
+Dipasis Bhadra; dipasis.bhadra@faa.gov
+Srinivas Peeta; peeta@purdue.edu
+Yushi Zhang; 06121383@bjtu.edu.cn
+Jifu Guo; guojf@bjtrc.org.cn
+Lynn Schooley Johnson; lms86@cornell.edu
+Nicholas Day; nday@ibigroup.com
+Kees Maat; c.maat@tudelft.nl
+Luis I. Rizzi; lir@ing.puc.cl
+Loon Ching Tang; isetlc@nus.edu.sg
+Anna Matas; anna.matas@uab.es
+José-Luis Raymond; josep.raymond@uab.cat
+José-Luis Roig; joseplluis.roig@uab.cat
+Hing-Po Lo; mshplo@cityu.edu.hk
+J. Enrique Fernández L.; jef@ing.puc.cl
+G. Germán Valverde; mailto.gvalverde@lanamme.ucr.ac.cr
+N.J.A. van Exel; n.vanExel@ErasmusMC.nl
+P. Rietveld; prietveld@feweb.vu.nl
+C. Adrián Saldarriaga-Isaza; casaldarriagai@unal.edu.co, saldarriaga.adrian@gmail.com
+Carlos Vergara; cavergarat@gmail.com
+Kobe Boussauw; kobe.boussauw@ugent.be
+M. Hatzopoulou; marianne.kazopoulo@utoronto.ca
+E.J. Miller; miller@ecf.utoronto.ca
+C. Jotin Khisty; khisty@iit.edu
+Meleckidzedeck Khayesi; khayesim@who.int
+Hans De Bruijn; j.a.debruijn@tudelft.nl
+Wijnand Veeneman; w.v.veeneman@tudelft.nl
+Yuhwa Lee; ylee@pagnet.org, petityh@gmail.com
+Lawrence D. Frank; ldfrank@interchange.ubc.ca
+N.J.A. Van Exel; n.vanExel@ErasmusMC.nl
+Amaya Vega; amaya.vega@nuigalway.ie
+Jongsu Lee; jxlee@snu.ac.kr
+Youngsang Cho; cho.youngsang@gmail.com
+Tudor D. Bodea; gtg757i@mail.gatech.edu
+Michael D. Meyer; michael.meyer@ce.gatech.edu
+Catherine L. Ross; catherine.ross@coa.gatech.edu
+Mecit Cetin; cetin@engr.sc.edu
+Henrik Gudmundsson; hgu@transport.dtu.dk
+Eva Ericsson; eva.ericsson@tft.lth.se
+Muriel Beser Hugosson; muriel@transek.se
+Lena Smidfelt Rosqvist; lena.smidfelt@trivector.se
+Lena Winslott-Hiselius; lena.hiselius@tft.lth.se
+Åsa Vagland; asa.vagland@vinnova.se
+Karl Kottenhoff; kotten@infra.kth.se
+Karin Brundell Freij; karin.brundell-freij@wspgroup.se
+Sven-Olov Daunfeldt; sod@hig.se
+Sean M. Puckett; seanp@itls.usyd.edu.au
+Peter Flynn; peter.flynn@ualberta.ca
+Neale L. Fulton; neale.fulton@csiro.au
+Ennio Cascetta; cascetta@unina.it
+Andrea Papola; papola@unina.it
+Deborah Salon; ddsalon@gmail.com
+Francisco J. Tapiador; francisco.tapiador@uclm.es
+Randi Hjorthol; rh@toi.no
+Aslak Fyhri; af@toi.no
+Michel Beuthe; Michel.beuthe@fucam.ac.be
+Wenbin Wei; wenbin.wei@sjsu.edu
+John K. Dagsvik; john.dagsvik@ssb.no
+Jorge Augusto Martins Gonçalves; goncalves@openlink.com.br
+Licinio da Silva Portugal; licinio@pet.coppe.ufrj.br
+Carlos David Nassi; nassi@pet.coppe.ufrj.br
+David T. Ory; david.ory@dot.gov
+Michiel de Bok; m.a.debok@citg.tudelft.nl, debok@significance.nl
+Erica French; e.french@qut.edu.au
+Glenda Strachan; g.strachan@griffith.edu.au
+Juan-Antonio Carrasco; j.carrasco@udec.cl
+Valérie Guihaire; vguihaire@perinfo.com
+Jin-Kao Hao; hao@info.univ-angers.fr
+Dimitrios A. Tsamboulas; dtsamb@central.ntua.gr
+Anastasios Nikoleris; nikoleris@berkeley.edu
+Gustavo Collantes; gustavo_collantes@ksg.harvard.edu
+Jodie Y.S. Lee; ccjodie@hkcc-polyu.edu.hk
+William H.K. Lam; cehklam@polyu.edu.hk
+Milan Janic; M.Janic@tudelft.nl
+Yibing Wang; Yibing.Wang@eng.monash.edu.au
+Albert Messmer; Albert.Messmer@t-online.de
+Didier van de Velde; d.m.vandevelde@tudelft.nl
+Lars Lutje Schipholt; LLS@inno-V.nl
+Jackie Walters; jwalters@uj.ac.za
+Roger Vickerman; r.w.vickerman@kent.ac.uk
+Ken Gwilliam; K.M.Gwilliam@its.leeds.ac.uk
+Javier J. Pérez; javier.perez@ecb.int
+Vincent Kitirattragarn; vek5@cornell.edu
+Samer M. Madanat; madanat@newton.berkeley.edu
+Javier Bilbao-Ubillos; javi.bilbao@ehu.es
+Louise Eriksson; louise.eriksson@psy.umu.se
+Dianhai Wang; wangdianhai@sohu.com
+R. Henry Malbran; hmalbran@sectra.cl
+Ekki D. Kreutzberger; e.kreutzberger@otb.tudelft.nl, sokreue@dso.denhaag.nl
+Benjamin Bureau; bureau@ensmp.fr
+Matthieu Glachant; glachant@ensmp.fr
+Daniel G. Chatman; chatman@rci.rutgers.edu
+Praprut Songchitruksa; praprut@tamu.edu
+Edwin N. Hard; e-hard@tamu.edu
+Michael J. Saunders; m.saunders@urbanstep.co.nz, michael_kiwi@hotmail.com
+Dilum Dissanayake; dilum.dissanayake@ncl.ac.uk
+Andrew P. Hills; a.hills@qut.edu.au
+Pascal Poudenx; poudenx@interchange.ubc.ca
+Gi-Tae Yeo; gi-tae.yeo@plymouth.ac.uk
+Michael Roe; mroe@plymouth.ac.uk
+Luís Santos; lsantos@dec.uc.pt
+João Coutinho-Rodrigues; coutinho@dec.uc.pt
+John R. Current; current.1@osu.edu
+Paresh Kumar Narayan; Paresh.Narayan@Deakin.edu.au
+Enzo Defilippi; enzodef@gmail.com
+Lincoln Flor; lflor@ositran.gob.pe
+Thomas Gorin; thomas_gorin@alum.mit.edu
+Peter Belobaba; belobaba@mit.edu
+S. Akhtar Ali Shah; shahg@gist.ac.kr
+Hojung Kim; snoopy@gist.ac.kr
+Seungkirl Baek; bsktrans@freeway.co.kr
+Hyunho Chang; nettrek@freeway.co.kr
+Byung Ha Ahn; bayhay@gist.ac.kr
+Kofi Obeng; obengk@ncat.edu
+Mark Burkey; mburkey@ncat.edu
+Carlos Pestana Barros; cbarros@iseg.utl.pt
+Thomas W. Sanchez; tom.sanchez@utah.edu
+Hong K. Lo; cehklo@ust.hk
+Kaan Ozbay; kaan@rci.rutgers.edu
+Ozlem Yanmaz-Tuzel; yanmaz@rci.rutgers.edu
+Indraswari Kusumaningtyas; i.kusumaningtyas@tudelft.nl
+Gabriel Lodewijks; g.lodewijks@tudelft.nl
+R. Koray Kıyıldı; rkoray@nigde.edu.tr
+M. Karasahin; mkara@sdu.edu.tr
+Timothy John Ryley; T.J.Ryley@lboro.ac.uk
+J. Lumbreras; jlumbreras@etsii.upm.es
+Juan Prieto-Rodriguez; jprietor@uniovi.es
+Ching-Fu Chen; cfchen99@mail.ncku.edu.tw
+Maged M. Dessouky; maged@usc.edu
+Takeshi Takama; takeshi.takama@sei.se, Dr@TakeshiTakama.com
+Pelin Alpkokin; palpkokin@ins.itu.edu.tr
+Charles Cheung; charles.cheung@sdgworld.net
+John Black; j.black@unsw.edu.au
+Yoshitsugu Hayashi; yhayashi@genv.nagoya-u.ac.jp
+Breno Ramos Sampaio; brenosampaio@hotmail.com
+Oswaldo Lima Neto; oswaldolimaneto@yahoo.com.br
+Yony Sampaio; sampyony@yahoo.com.br
+Søren Underlien Jensen; suj@trafitec.dk
+Christina Nikolova; hrnikolova@dir.bg
+Maged Dessouky; maged@rcf.usc.edu
+Chansung Kim; cskim@koti.re.kr
+Bradley W. Lane; bwlane@indiana.edu
+Nicolás Estupiñán; nestupinan@worldbank.org
+Hsin-Li Chang; hlchang@cc.nctu.edu.tw
+Shun-Cheng Wu; u8832804@cc.nctu.edu.tw
+Juan José Díaz-Hernández; jjodiaz@ull.es
+Eduardo Martínez-Budría; embudria@ull.es
+Alexandre G. de Barros; alex.debarros@arup.com
+Khandker M.N. Habib; khandker.nurulhabib@utoronto.ca
+Mark R. Greer; greerm@dowling.edu
+Michael F. Gorman; michael.gorman@udayton.edu
+Aoife A. Ahern; Aoife.Ahern@ucd.ie
+L. Mayhew; Lesmayhew@blueyonder.co.uk
+Eftihia Nathanail; enath@uth.gr
+Svein Bråthen; Svein.brathen@himolde.no
+Ryuichi Kitamura; rkitamura@term.kuciv.kyoto-u.ac.jp
+Kasem Choocharukul; kasem.c@eng.chula.ac.th
+Satoshi Fujii; fujii@plan.cv.titech.ac.jp
+Qureshi Intikhab Ahmed; intikhab_mce@yahoo.com
+Michael K. Lindell; mlindell@archmail.tamu.edu
+Barry Ubbels; bub@nea.nl
+Lu Sun; sunl@cua.edu
+Jun Yang; 02yang@cua.edu
+Josep-LLuis Raymond; josep.raymond@uab.es
+Thorsten Teichert; teichert@econ.uni-hamburg.de
+Edlira Shehu; shehu@econ.uni-hamburg.de
+Iwan von Wartburg; wartburg@econ.uni-hamburg.de
+Marı´a Manuela González; mmgonzalez@daea.ulpgc.es
+J.W.C. van Lint; j.w.c.vanlint@tudelft.nl
+Xavier Godard; godard@inrets.fr
+Stephan Krygsman; skrygsman@sun.ac.za
+Joyce Dargay; j.dargay@ucl.ac.uk
+Madhav G. Badami; madhav.badami@mcgill.ca
+Murtaza Haider; murtaza.haider@ryerson.ca
+Mark A. Delucchi; madelucchi@ucdavis.edu
+Johan Holmgren; johan.holmgren@liu.se
+Richard E. Allsop; rea@transport.ucl.ac.uk
+John Bates; 113300.3565@compuserve.com
+Charlene Rohr; crohr@rand.org
+Geoff Hyman; geoff.hyman@dft.gsi.gov.uk
+Mogens Fosgerau; mf@dtf.dk
+M. Vrtic; vrtic@ivt.baug.ethz.ch
+C. Schiller; christian.schiller@theoretische-verkehrsplanung.de
+Huub Vrenken; h.vrenken@hetnet.nl
+Anna-Maria Lekka; alekka@central.ntua.gr
+Elena Safirova; safirova@rff.org
+Kenneth Gillingham; kgilling@stanford.edu
+Sébastien Houde; houde@rff.org
+Benjamin A. Coifman; Coifman.1@OSU.edu
+Ramachandran Mallika; Mallika.1@OSU.edu
+Bekir Bartin; bbartin@rci.rutgers.edu
+Joseph Berechman; i9400@post.tau.ac.il
+Wafaa Saleh; w.saleh@napier.ac.uk
+Masao Kuwahara; kuwahara@iis.u-tokyo.ac.jp
+Kathryn Stewart; k.stewart@napier.ac.uk
+Agachai Sumalee; asumalee@gmail.com
+Peter Bonsall; p.w.bonsall@its.leeds.ac.uk
+Jeremy Shires; j.d.shires@its.leeds.ac.uk
+John Maule; a.j.maule@lubs.leeds.ac.uk
+Bryan Matthews; b.matthews@its.leeds.ac.uk
+Jo Beale; bealeJ@cardiff.ac.uk
+Takamasa Iryo; iryo@kobe-u.ac.jp
+Muanmas Wichiensin; muanmas.wichiensin@imperial.ac.uk
+Simon Kingham; simon.kingham@canterbury.ac.nz
+Sungyop Kim; kims@umkc.edu
+J. Todd Hennessy; thennessy@metrostlouis.org
+James H. Bookbinder; jbookbinder@engmail.uwaterloo.ca
+Holger Rosencrantz; hrz@infra.kth.se
+Yen-Chun Jim Wu; yenchun@ccms.nkfust.edu.tw
+Tsu-Hurng Yeh; barryyeh7@hotmail.com, yth@iot.gov.tw
+Junjie Hong; hongjunjie@alumni.nus.edu.sg
+Peter R. Stopher; peters@itls.usyd.edu.au
+Paul Waddell; pwaddell@u.washington.edu
+John Lobb; JLobb@rsginc.com
+Nina Karasmaa; nina.karasmaa@hut.fi
+Jianyu (Jack) Zhou; zhou@geog.ucsb.edu
+Reginald Golledge; golledge@geog.ucsb.edu
+William Davidson; Davidson@pbworld.com
+Robert Donnelly; Donnelly@pbworld.com
+Peter Vovsha; Vovsha@pbworld.com
+Joel Freedman; freedman@pbworld.com
+Steve Ruegg; Ruegg@pbworld.com
+Jim Hicks; Hicks@pbworld.com
+Joe Castiglione; Castiglione@pbworld.com
+Rosella Picado; Picado@pbworld.com
+Nebiyou Y. Tilahun; tila0006@umn.edu
+David M. Levinson; levin031@umn.edu
+Kevin J. Krizek; kjkrizek@umn.edu
+Birgitta Gatersleben; b.gatersleben@surrey.ac.uk
+Katherine M. Appleton; k.appleton@qub.ac.uk
+Shigeru Morichi; smorichi.pl@grips.ac.jp
+Matthew Page; M.Page@its.leeds.ac.uk
+Geoff Rose; geoff.rose@eng.monash.edu.au
+Gerard Whelan; gwhelan@its.leeds.ac.uk
+Jianhe Du; dujianhe@gmail.com
+J.W. Guiver; jwguiver@uclan.ac.uk
+Johanna Törnquist; Johanna.Tornquist@bth.se
+Sven Vlassenroot; sven.vlassenroot@ugent.be
+Steven Broekx; steven.broekx@vito.be
+Johan De Mol; johan.demol@ugent.be
+Luc Int Panis; luc.intpanis@vito.be
+Tom Brijs; tom.brijs@uhasselt.be
+Laetitia Dablanc; laetitia.dablanc@inrets.fr
+Mei-Po Kwan; kwan.8@osu.edu
+Sendy Farag; S.Farag@geo.uu.nl
+Piet Rietveld; prietveld@feweb.vu.nl
+Susan Kenyon; Susan.Kenyon@uwe.ac.uk
+Orit Rotem-Mindali; mindali@pob.huji.ac.il
+Ilan Salomon; msilans@mscc.huji.ac.il
+Claudia Nobis; Claudia.Nobis@dlr.de
+Thomas F. Golob; tgolob@uci.edu
+Jeffrey M. Casello; jcasello@fes.uwaterloo.ca
+J. Schade; jens.schade@gmail.com
+Murat Demir; mdemir@istanbul.edu.tr, muratdemir1973@yahoo.com
+Tracy E. McMillan; tmcmillan@mail.utexas.edu
+Füsun Ülengin; fulengin@dogus.edu.tr, ulengin@itu.edu.tr
+Stephen G. Stradling; s.stradling@napier.ac.uk
+Michael Carreno; m.carreno@napier.ac.uk
+Shuwen Xia; xias@rpi.edu
+Kajal Lahiri; klahiri@albany.edu
+Vincent Wenxiong Yao; wxyao@ualr.edu
+Kaethe V. Podgorski; kvpodgorski@pbsj.com
+Randolph W. Hall; rhall@minerva.usc.edu
+Yat-wah Wan; ywan@mail.ndhu.edu.tw
+Yaron Hollander; yholland@its.leeds.ac.uk
+Åsa Forsman; asa.forsman@vti.se
+Qian Wang; wangq4@rpi.edu
+Ning Xu; xun@rpi.edu
+John Polimeni; polimenj@acp.edu
+Victor Muchuruza; muchuruza@eng.fsu.edu
+Ioannis Minis; i.minis@fme.aegean.gr
+Eric Keys; keys_eric@bah.com
+Theodore Athanasopoulos; t.athanasopoulos@fme.aegean.gr
+Fernando Frei; ffrei@assis.unesp.br
+Jiming Hao; hjm-den@tsinghua.edu.cn
+Susanne Böhler; susanne.boehler@wupperinst.org
+Sylvie Grischkat; sylvie.grischkat@uni-lueneburg.de
+Sonja Haustein; sonja.haustein@rub.de
+Marcel Hunecke; marcel.hunecke@rub.de
+Pierre Lannoy; lannoy@anso.ucl.ac.be
+Céline Polain; polain@anso.ucl.ac.be
+Thérèse Steenberghen; therese.steenberghen@sadl.kuleuven.be
+Stefaan Van de Walle; stefaan.vandewalle@sadl.kuleuven.be
+Tom Petersen; tomp@infra.kth.se
+Pnina O. Plaut; pninapl@gmail.com
+Shangyao Yan; t320002@sparc20.ncu.edu.tw
+H.M. Jagtman; h.m.jagtman@tbm.tudelft.nl
+Abolfazl Mohammadian; kouros@uic.edu
+Jungyul Sohn; jsohn@memphis.edu
+Maria Vredin Johansson; maria.vredin-johansson@nek.uu.se
+Tobias Heldt; tobias.heldt@du.se
+Per Johansson; per.johansson@ifau.uu.se
+Ming-Chih Tsai; mctsai@dragon.nchu.edu.tw
+Young-Jin Park; y2park@engmail.uwaterloo.ca
+Frank F. Saccomanno; saccoman@uwaterloo.ca
+Rodrigo Fernandez; rodferna@ing.uchile.cl
+E. Kosmatopoulos; kosmatop@dssl.tuc.gr
+C. Bielefeldt; chr.bielefeldt@btopenworld.com
+V. Dinopoulou; dvaya@otenet.gr
+R. Morris; r.morris@southampton.gov.uk
+J. Mueck; juergen.mueck@siemens.com
+A. Richards; acr@soton.ac.uk
+F. Weichenmeier; Florian.Weichenmeier@gevas.de
+Alejandro Tudela; atudela@udec.cl
+Rong Zhang; rzhang@feweb.vu.nl
+C. Cirillo; ccir@math.fundp.ac.be
+Ricard Anguera; ricard.anguera@btopenworld.com
+Fritz Gassmann; gassmann@psi.ch
+Christopher M. Anderson; cma@uri.edu
+Teng-Fei Wang; tengfei.wang@plymouth.ac.uk
+Ping Ji; mfpji@inet.polyu.edu.hk
+E. Delhaye; eef.delhaye@econ.kuleuven.be
+Jonathan Houdmont; jonathan.houdmont@nottingham.ac.uk
+Jianguo Yang; yjg@mail.xjtu.edu.cn
+Belen Rey; breylegi@ccee.ucm.es
+Stefaan Vande Walle; stefaan.vandewalle@sadl.kuleuven.be
+Therese Steenberghen; therese.steenberghen@sadl.kuleuven.be
+Xiaojing Dong; xjdong@alum.mit.edu
+Moshe E. Ben-Akiva; mba@mit.edu
+John L. Bowman; john_l_bowman@alum.mit.edu
+Peter McLay; peter.mclay@ucd.ie
+Wei Yim Yap; wei_yim_yap@mpa.gov.sg
+Jasmine S.L. Lam; sllam@ntu.edu.sg
+Marloe B. Sundo; marloe.sundo@up.edu.ph
+Tschangho John Kim; tjohnkim@uiuc.edu
+Halim Ceylan; halimc@pamukkale.edu.tr
+Niron Hashai; nironH@huji.ac.il
+Abel Valenzuela; abel@ucla.edu
+P.T. Blythe; p.t.blythe@ncl.ac.uk
+André de Palma; andre.depalma@eco.u-cergy.fr
+Guido Gentile; guido.gentile@uniroma1.it
+Natale Papola; natale.papola@uniroma1.it
+Luca Persia; luca.persia@uniroma1.it
+Stephen Glaister; s.glaister@imperial.ac.uk
+Kiyoshi Kobayashi; kkoba@psa2.kuciv.kyoto-u.ac.jp
+Sukumar Kalmanje; sukumar@mail.utexas.edu
+Se-il Mun; mun@econ.kyoto-u.ac.jp
+S.C. Wong; hhecwsc@hkucc.hku.hk
+Asad J. Khattak; khattak@email.unc.edu
+Daniel Rodriguez; danrod@email.unc.edu
+Martin Wachs; mwachs@berkeley.edu
+Arild Vold; arild.vold@toi.no
+Louis de Grange C.; ldegrang@fdcconsult.com
+Jose Tongzon; ecsjt@nus.edu.sg
+Wu Heng; artp1504@nus.edu.sg
+Yoshinori Suzuki; ysuzuki@iastate.edu
+David Brownstone; dbrownst@uci.edu
+Guus Tamminga; guus.tamminga@grontmij.nl
+Gregory M. Coldren; g-coldren@northwestern.edu, gregorycoldren@yahoo.com
+Frank S. Koppelman; f-koppelman@northwestern.edu
+Enjian Yao; yaoej@trans.civil.nagoya-u.ac.jp
+P.L. Mokhtarian; plmokhtarian@ucdavis.edu
+H.J.P. Timmermans; h.j.p.timmermans@bwk.tue.nl
+Lisa Weston; lisa.weston@mail.utexas.edu
+Roger L. Mackett; rlm@transport.ucl.ac.uk
+Douglas M. Larson; larson@primal.ucdavis.edu
+Paul F. Hanley; paul-hanley@uiowa.edu
+Qingfeng Li; qfli78@yahoo.com.cn
+R. Gray; rgray@plymouth.ac.uk
+Kumares C. Sinha; sinha@ecn.purdue.edu
+Allison Lockwood; allison.lockwood@kimley-horn.com
+Kjartan Sælensminde; ks@toi.no
+D Walton; darren.walton@opus.co.nz
+Randolph Hall; rhall@mizar.usc.edu
+Edward K. Morlok; morlok@seas.upenn.edu
+Heloisa Márcia Pires Capobianco; heloisam@pep.ufrj.br
+Will Recker; wwrecker@uci.edu
+Joseph Sarkis; jsarkis@clarku.edu
+Srinivas Talluri; talluri@msu.edu
+Yanfeng Ouyang; yfouyang@uclink.berkeley.edu
+Samer Madanat; madanat@ce.berkeley.edu
+Winston T.H. Koh; winstonkoh@smu.edu.sg
+Carl A. Scheraga; cscheraga@mail.fairfield.edu
+James F Sallis; sallis@mail.sdsu.edu
+Peter Romilly; p.romilly@tay.ac.uk
+Gustavo Nombela; gnombela@daea.ulpgc.es
+Patricia L Mokhtarian; plmokhtarian@ucdavis.edu
+Michael Kuby; mikekuby@asu.edu
+Anna Sciomachen; sciomach@economia.unige.it
+Magnus Hjälmdahl; magnus.hjalmdahl@tft.lth.se
+Orit Mindali; mindali@pob.huji.ac.il
+Adi Raveh; msraveh@mscc.huji.ac.il
+Y.M Bontekoning; bontekoning@otb.tudelft.nl
+C Macharis; cjmachar@vub.ac.be
+J.J Trip; trip@otb.tudelft.nl
+Wilfred W. Recker; wwrecker@uci.edu
+Veronica M. Alvarez; valvarez@uci.edu
+Thomas F Golob; tgolob@uci.edu
+Wilfred W Recker; wwrecker@uci.edu
+Martin L. Hazelton; martin@maths.uwa.edu.au
+Ming S. Lee; mlee@tjkm.com
+Michael G. McNally; mmcnally@uci.edu
+Ali Modarres; amodarr@calstatela.edu
+Margaret O’Mahony; margaret.omahony@tcd.ie
+Rahaf Alsnih; rahafa@its.usyd.edu.au
+David A Hensher; davidh@its.usyd.edu.au
+Rongfang (Rachel) Liu; rliu@adm.njit.edu
+Iakov M. Golovitcher; iakov.golovitcher@parsons.com
+Zhichai Juan; jzc@mail.jlu.edu.cn
+William H.K Lam; cehklam@polyu.edu.hk
+A Bergström; anna.bergstrom@vti.se
+R Magnusson; rolf.magnusson@du.se
+R.R. Pacheco; rpacheco.cnrj@infraero.gov.br
+Hashim M.N. Al-Madani; madanihshm@eng.uob.bh
+Michael K. Fung; bumikef@polyu.edu.hk
+Sudhakar Yedla; sudhakar@igidr.ac.in
+Ram M Shrestha; ram@ait.ac.th
+Shomik Raj Mehndiratta; smehndiratta@worldbank.org
+Mark Kiefer; mkiefer@crai.com
+Thomas J. Cova; cova@geog.utah.edu
+Justin P. Johnson; justin.johnson@geog.utah.edu
+Cheng-Chang Lin; cclin@mail.ncku.edu.tw
+Mark Uncles; m.uncles@unsw.edu.au
+Peter Stopher; peters@its.usyd.edu.au
+Philip Bullock; philipb@its.usyd.edu.au
+James H. Banks; banks@mail.sdsu.edu
+Cenk Çalışkan; cenk_caliskan@hotmail.com
+David J Forkenbrock; david.forkenbrock@uiowa.edu
+D.C. Mattfeld; dirk@logistik.uni-bremen.de
+Goran Jovicic; gj@dtf.dk
+Malachy Carey; m.carey@ulst.ac.uk
+Sinead Carville; sineadc@nortel.ca
+Zvi Drezner; zdrezner@fullerton.edu
+Elba Urbina; eurbina@cpyi.com
+Brian Wolshon; brian@rsip.lsu.edu
+Ghassan Abu-Lebdeh; abulebde@egr.msu.edu
+Rahim F. Benekohal; rbenekoh@uiuc.edu
+Serhan Tanyel; serhan.tanyel@deu.edu.tr
+Lisa A Schweitzer; lschwei@ucla.edu
+Amelia C Regan; aregan@uci.edu
+Hesham Rakha; hrakha@vt.edu
+Brent Crowther; brent.crowther@kimley-horn.com
+Chellappan Sriram; sachellappan@softdent.com
+Ali Haghani; haghani@eng.umd.edu
+Eric Pels; apels@econ.vu.nl
+Jeremy Blum; jblum@seas.gwu.edu
+Marius M. Solomon; m.solomon@neu.edu
+Emanuel Melachrinoudis; emelas@coe.neu.edu
+George Kozanidis; gkozanid@coe.neu.edu
+S.C Wong; hhecwsc@hkucc.hku.hk
+Ronald H Ballou; rhb4@po.cwru.edu
+A. Benedetto; benedet@dsic.uniroma3.it
+Robert L Bertini; bertini@pdx.edu
+Michael J Cassidy; cassidy@ce.berkeley.edu
+Avishai Ceder; ceder@tx.technion.ac.il
+Ahmed F Al-Kaisy; alkaisy@bradley.edu
+Richard Gray; rgray@plymouth.ac.uk
+John Golias; igolias@central.ntua.gr
+Caroline J Rodier; cirodier@ucdavis.edu
+John Loizides; loiz@aueb.gr
+Jonathan L Gifford; jgifford@gmu.edu
+Carlos F Daganzo; daganzo@newton.berkeley.edu
+C.F. Jaarsma; rinus.jaarsma@users.rvp.wau.nl
+P.M Timms; ptimms@its.leeds.ac.uk
+Katsuhiko Nakamura; nak@v007.vaio.ne.jp
+Kara Maria Kockelman; kkockelm@mail.utexas.edu
+Jan-Eric Nilsson; jen@du.se
+Randi Johanne Hjorthol; randi.hjorthol@toi.no
+Liping Fu; lfu@uwaterloo.ca
+Mohamadreza Banihashemi; mohamadreza.banihashemi@fhwa.dot.gov
+Jiuh-Biing Sheu; jbsheu@ccms.nkfust.edu.tw
+Shimin Yang; yangx084@tc.umn.edu
+Gary A. Davis; drtrips@tc.umn.edu
+J.O. Fasakin; fasakin@stremco.net
+Joy Dahlgren; joy@uclink4.berkeley.edu
+W.G Wong; cewgwong@polyu.edu.hk
+David W. Eby; eby@umich.edu
+E.R. Petersen; petersen@qsilver.queensu.ca
+M.B El-Hifnawi; baher-christine@usa.net
+Edwin R Kraft; chipkraft@aol.com
+M.E.T Horn; mark.horn@act.cmis.csiro.au
+H.Y. Tong; 97980212r@polyu.edu.hk
+Becky P.Y Loo; bpyloo@hkucc.hku.hk
+Gregory L. Thompson; gthompson@coss.fsu.edu
+John R. Windover; john.windover@bain.com
+A Ceder; ceder@tx.technion.ac.il
+Vicente Pina; vpina@posta.unizar.es
+Lourdes Torres; ltorres@posta.unizar.es
+Joyce M Dargay; j.dargay@ucl.ac.uk
+Marlon Boarnet; mgboarne@uci.edu
+Randall Crane; crane@ucla.edu
+A.J. Taylor; tayloraj@post.queensu.ca
+Philip McCann; p.mccann@reading.ac.uk
+Peter G. Wiles; peter.wiles@nzdri.org.nz
+Jennaro B Odoki; j.b.odoki@bham.ac.uk
+Rahim F Benekohal; rbenekoh@uiuc.edu
+Yoassry M El-Zohairy; yoassry@coewl.cen.uiuc.edu
+Stephanie E Chang; sec@u.washington.edu
+Sanjay Melkote; melkote@dragon.princeton.edu
+P Rietveld; prietveld@econ.vu.nl
+J.A Stewart; stewart_j@rmc.ca
+David J. Lovell; lovell@eng.umd.edu
+Pedro Cantos; pedro.cantos@uv.es
+Douglas O.A. Osula; dansula@abu.edu.ng
+Benjamin G Thengvall; benji@mail.utexas.edu
+Gang Yu; yu@uts.cc.utexas.edu
+Jonathan F Bard; jbard@mail.utexas.edu
+R. Ramanathan; ramanathan@igidr.ac.in
+David J. Forkenbrock; david-forkenbrock@uiowa.edu
+W.W. Recker; recker@translab.its.uci.edu
+Jenny King; jennyk@its.usyd.edu.au
+Ting-Yu Chen; tychen@mail.cgu.edu.tw
+Angelica Lozano; lozano@pow2.sta.uniroma1.it
+Giovanni Storchi; storchi@pow2.sta.uniroma1.it
+Winston Harrington; harrington@rff.org
+M Hossain; moazzem@ce.buet.edu
+M.J Cassidy; cassidy@ce.berkeley.edu
+Francesco Filippi; ff@dits.ing.uniroma1.it
+J.L Bowman; John_L_Bowman@alum.mit.edu
+M.E Ben-Akiva; mba@mit.edu
+Mudit Kulshreshtha; mudit@igidr.ac.in
+Robert B Noland; r.noland@ic.ac.uk
+Debbie A Niemeier; dniemeier@ucdavis.edu
+Lidia P Kostyniuk; lidakost@umich.edu
+Mary Lynn Tischer; mtischer@dot.state.az.us
+Raymond W Novaco; rwnovaco@uci.edu
+Craig Poulenez Donovan; cpdonova@turbo.kean.edu
+Terry L Friesz; tfriesz@gmuvax.gmu.edu
+V.F. Hurdle; hurdle@civ.utoronto.ca
+Bongsoo Son; bsson@www.sdi.re.kr
+Said M. Easa; seasa@gale.lakeheadu.ca
+Yasser Hassan; yhassan@ccs.carleton.ca
+Stephen Marshall; s.marshall@ucl.ac.uk
+Agostino Nuzzolo; nuzzolo@ing.uniroma2.it
+Andreas Schafer; aschafer@mit.edu
+David G Victor; dgvictor@cfr.org
+Miles R. Tight; mtight@its.leeds.ac.uk
+Robert A Johnston; rajohnston@ucdavis.edu
+Wei-Hua Lin; whlin@vt.edu
+Jan C Fransoo; j.c.fransoo@tm.tue.nl

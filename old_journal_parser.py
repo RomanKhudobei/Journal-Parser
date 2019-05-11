@@ -110,6 +110,7 @@ def parse_journal(url):
     '''Parses all authors and their emails for given journal url'''
     domain = 'http://www.sciencedirect.com'
     soup = define_soup(url)
+    print(url)
 
     journal_name = get_journal_name(soup).replace(':', ' -')   # because you can't write ":" in file name
     print('Parsing {}'.format(journal_name), end='\n')

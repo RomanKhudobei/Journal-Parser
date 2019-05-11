@@ -1,19 +1,130 @@
+Vinh V. Thai; vvthai@Ntu.Edu.Sg
+Gavyn Mickleson; gavyn.mickleson@rmit.edu.au
+Zaheed Halim; zaheed.halim@rmit.edu.au
+Mohammad Khairuddin Othman; khairuddin_din44@yahoo.com
+Noorul Shaiful Fitri Abdul Rahman; nsfitri@umt.edu.my
+Alisha Ismail; alisha@uum.edu.my
+A.H. Saharuddin; sdin@umt.edu.my
+Enna Hirata; enna.hirata@gmail.com
+Schavana Phillips; Schavana.phillips@rmit.edu.au
+Young Il Park; nocker012@gmail.com
+Wen Lu; 13455539558@163.com
+Tae Hyun Nam; skathth@naver.com
+Gi Tae Yeo; ktyeo@incheon.ac.kr
+Yong An Park; yapark@kmi.re.kr
+Tsz Leung Yip; lgttly@polyu.edu.hk
+Hong Gyue Park; ny1525@cnu.ac.kr
+Hyunjae Jung; hjjung@ptu.ac.kr
+Jaewon Kim; jw.kim36@cj.net
+KwangSup Shin; ksshin@inu.ac.kr
+Rattaporn Teerawattana; rattabhorn@gmail.com
+Yi-Chih Yang; hgyang@mail.nkmu.edu.tw
+Changhee Kim; ckim@inu.ac.kr
+Won Sug Shin; wsshin@inu.ac.kr
+Prasanta K. Sahu; prasantsahu222@gmail.com
+Abhishek Padhi; abkppb@gmail.com
+Gopal R. Patil; gpatil@iitb.ac.in
+Gangadhar Mahesh; gangadhar.mahesh@gmail.com
+Ashoke K. Sarkar; aksarkar@pilani.bits-pilani.ac.in
+Nurhadi Siswanto; siswanto@ie.its.ac.id
+Kunio Miyashita; miyashita@dis.osaka-sandai.ac.jp
+Noor Apandi Osnin; apandi@umt.edu.my
+Sae Yeon Roh; SROH@ntu.edu.sg
+Young Ran Shin; syran@kmou.ac.kr
+Young Joon Seo; y.seo@knu.ac.kr
+Viet Linh Dang; linhdv@inu.ac.kr
+Son Nguyen; sonng.kt@vimaru.edu.vn, son.nguyen@utas.edu.au
+Chi-Chang Lin; r58981019@mail.ncku.edu.tw
+Chia-Hsun Chang; C.chang@ljmu.ac.uk
+Suntichai Kotcharin; suntichai@tbs.tu.ac.th
+Sakkakom Maneenop; sakkakom@tbs.tu.ac.th
+Myoung-Ju Park; pmj0684@khu.ac.kr
+Yun-Hong Min; yunhong.min@inu.ac.kr
+Byung-Cheon Choi; polytime@cnu.ac.kr
+Jian Li; mclijian@hotmail.com
+Bao Jiang; bjouc@yahoo.cn
+Hee Sung Bae; hsbae@tu.ac.kr
+Doo Jin Park; djpark@tu.ac.kr
+Arsalan Alehashemi; a.alehashemi@ut.ac.ir
+Siamak Hajiyakhchali; yakhchali@ut.ac.ir
+Chang Beom Kim; cbkim@jnu.ac.kr
+Taylor Tae Hwee Lee; portlee@pcu.ac.kr
+Jong Khil Han; ha025@sungkyul.ac.kr
+Hyuk Soo Cho; hscho@cnu.ac.kr
+Jung Sun Lee; sunnylee@gntech.ac.kr
+Hee Cheol Moon; hcmoon@cnu.ac.kr
+Sung Hoon Park; psh5512@gmail.com
+Thi Yen Pham; phamyen@inu.ac.kr
 Min Ho Ha; mhha@ntu.edu.sg
 Zaili Yang; Z.Yang@ljmu.ac.uk
+Syamantak Bhattacharya; syamantak.bhattacharya@solent.ac.uk
+Soner Esmer; soner.esmer@deu.edu.tr
+Okan Duru; duruokan@yahoo.com
+Taih-Cherng Lirn; tedlirn@mail.ntou.edu.tw
+Peik Bremer; peik.bremer@fhws.de
+Kuo-Chung Shang; gordon@mail.ntou.edu.tw
+Liu Chen Jiun; judy50625xxx@yahoo.com.tw
+Alexandre Lavissiere; alavissiere@em-normandie.fr
+Chathumi Ayanthi Kavirathna; chathumi.k.aa@m.titech.ac.jp
+Tomoya Kawasaki; kawasaki@ide.titech.ac.jp
+Shinya Hanaoka; hanaoka@ide.titech.ac.jp
+Chunxia Gong; jmjtwly_gcx@126.com
+Reenu Maskey; reenu.maskey@utas.edu.au
+Jiangang Fei; jiangang.fei@utas.edu.au
+Hong-Oanh Nguyen; onguyen@amc.edu
+Hee-Jung Yeo; hyeo@cnu.ac.kr
+Mohammad Vaferi; Mohammad.Vaferi@student.uantwerpen.be
+Mohammad Saied Fallah; fallah.pasco@gmail.com
+Amir Hossein Tayebi; amirhossein.tayebi@student.uantwerpen.be
+Chul-hwan Han; chhan16@dongseo.ac.kr
+S. Hemalatha; somu_hemalatha@yahoo.co.in
+Lingaraju Dumpala; dlraju@gmail.com
+B. Balakrishna; balakrishnajntu06@gmail.com
+Siwei Liu; 13455539558@163.com
+Nur Hazwani Karim; hazwanikarim26@yahoo.com
+Syed Faizal Shah Syed Johari Shah; syedfaizal0293@gmail.com
+Seungjin Shin; sjshin434@koti.re.kr
+Hong-Seung Roh; rohhs@koti.re.kr
+Sung-Ho Hur; shur@koti.re.kr
+Naoufal Rouky; naoufal.rouky@univ-lehavre.fr
+Jaouad Boukachour; jaouad.boukachour@univ-lehavre.fr
+Dalila Boudebous; dalila.boudebous@univ-lehavre.fr
+Ahmed El Hilali Alaoui; elhilali_fstf2002@yahoo.fr
+Indika Sigera; sigerai17@gmail.com
+Stephen Cahoon; scahoon@amc.edu.au
+Jae Gyuen Oh; dhworbs13@gmail.com
+Yinping Gao; gaoyinping123@126.com
+Daifang Chang; dfchang@shmtu.edu.cn
+Ting Fang; fangting_china@126.com
+Tian Luo; llluotian@126.com
+Aminuddin Md Arof; aminuddin@unikl.edu.my
+Han Wool Hong; honghanwool90@incheon.ac.kr
+Kwang Sup Shin; ksshin@inu.ac.kr
+Muhamad Nasir Rahmatdin; nmuhamadnasir@gmail.com
+Murati Somboon; muratisomboon@gmail.com
+Kannapha Amaruchkul; kamaruchkul@gmail.com
+Hye Min Ma; sksthgpa@inu.ac.kr
+Keun Sik Park; pksik0371@cau.ac.kr
+A Rom Kim; arkim@dlmu.edu.cn
+Kwesi Atuaful Quansah; kwesiatuaful@gwnu.ac.kr
+Woo Chul Ahn; logistics_gwnu@gwnu.ac.kr
+Tae Won Chung; logichung@sungkyul.ac.kr
+Yong Joo Lee; phg@sunchon.ac.kr
+Hyun Mi Jang; jangh@kmi.re.kr
+Je Hyun Lee; ljh69@hnu.ac.kr
+Taehee Lee; thlee@kmu.ac.kr
+Hyunjeong Nam; hjnam@jnu.ac.kr
+Taylor Tae-Hwee Lee; taylor@gntech.ac.kr
+Azmat Gani; azmat@squ.edu.om
 Man Wook Heo; hmw91@korea.kr
 Min Geun Song; haoweather@naver.com
-Gi Tae Yeo; ktyeo@incheon.ac.kr
 Adi Budipriyanto; adi.budipriyanto@bakrie.ac.id
 Budisantoso Wirjodirdjo; budisantosowirjodirdjo@gmail.com
 I Nyoman Pujawan; pujawan@ie.its.ac.id
 Saut Gurning; sautg@its.ac.id
 Kraisee Komchornrit; kraisee.k@gmail.com
-Young Joon Seo; y.seo@knu.ac.kr
 Feilong Chen; feilong.chen@student.plymouth.ac.uk
-Sae Yeon Roh; SROH@ntu.edu.sg
-Hee Sung Bae; hsbae@tu.ac.kr
 Ted T.C. Lirn; tedlirn@email.ntou.edu.tw
-Jong Khil Han; ha025@sungkyul.ac.kr
 Yeong Seok Ha; hysok@kmu.ac.kr
 Jung Soo Seo; jsseo07@kmu.ac.kr
 Hyun Jung Nam; hjnam@Donga.Ac.Kr
@@ -31,14 +142,10 @@ Harry Dharma Rafke; yuliani.dwi@sbm-itb.ac.id
 Yuliani Dwi Lestari; yuliani.dwi@sbm-itb.ac.id
 Hyuksoo Cho; hyuksoo@kmu.ac.kr
 Jungsun Lee; sunnylee@gntech.ac.kr
-Viet Linh Dang; linhdv@inu.ac.kr
-Enna Hirata; enna.hirata@gmail.com
 Vangelis Tsioumas; evangelos.tsioumas@gmail.com
 Stratos Papadimitriou; stratos@unipi.gr
 Yiannis Smirlis; smirlis@unipi.gr
 Shaher Zahran Zahran; szahran@kau.edu.sa
-Chang Beom Kim; cbkim@jnu.ac.kr
-A Rom Kim; arkim@dlmu.edu.cn
 Soo Yong Shin; shinsy@kmi.re.kr
 Myong Sop Pak; mspak@skku.edu
 Jafar Sayareh; hamed_rezaie_ehr@yahoo.com
@@ -50,37 +157,26 @@ Ying Wang; yingmickey@naver.com
 So Yeon Kim; ddofficial@kmou.ac.kr
 Yeong Seok Cheong; cheongys@kmou.ac.kr
 Heejung Yeo; heejungyeo@kmu.ac.kr
-Taehee Lee; thlee@kmu.ac.kr
-Hyunjeong Nam; hjnam@jnu.ac.kr
-Tae Won Chung; logichung@sungkyul.ac.kr
 Shu-Ling Chen; pchen@amc.edu.au
 Jagan Jeevan; jjeevan@amc.edu.au
-Stephen Cahoon; scahoon@amc.edu.au
 Emin Deniz Özkan; deniz.Ozkan@Deu.Edu.Tr
 Selçuk Nas; snas@deu.edu.tr
 Nil Güler; gulern@itu.edu.tr
 Hee Young Yoon; graceyoon@sewc.ac.kr
 Hee Seok Bang; hsbang@cau.ac.kr
 Su Han Woo; shwoo@cau.ac.kr
-Thi Yen Pham; phamyen@inu.ac.kr
 Young Doo Cha; cyyyyd@inu.ac.kr
-Taylor Tae Hwee Lee; portlee@pcu.ac.kr
 Manlu Liu; liumanlu@gwnu.ac.kr
 Seung Ho Kang; kang@gwnu.ac.kr
-Woo Chul Ahn; logistics_gwnu@gwnu.ac.kr
 Keun Jon Chung; chung@kmu.ac.kr
 Rawindaran Nair; nairr1@cardiff.ac.uk
-Tsz Leung Yip; lgttly@polyu.edu.hk
 Saeyeon Roh; rohsae@hotmail.com
-Vinh V. Thai; vvthai@Ntu.Edu.Sg
 Yiik Diew Wong; CYDWONG@ntu.edu.sg
 Sihyun Kim; bud1111@nate.com
 Dalwon Kang; kangdw@kmou.ac.kr
 John Dinwoodie; jdinwoodie@plymouth.ac.uk
 Michaël Dooms; Michael.Dooms@vub.ac.be
 Francesco Parola; parola@economia.unige.it
-Soner Esmer; soner.esmer@deu.edu.tr
-Hong-Oanh Nguyen; onguyen@amc.edu
 Yapa Mahinda Bandara; ybandara@amc.edu.au
 Kazim Yeni; kazimyeni76@gmail.com
 Cassia Bömer Galvao; cassiabgalvao@gmail.com
@@ -99,7 +195,6 @@ Kyung Tae Kim; ktkimm@kangwon.ac.kr
 Dong Hyun Park; dpark@adb.org
 Ji Yeong Pak; assambleuse@hanmail.net
 Hong Gyun Park; leeyj@cwu.edu
-Yong Joo Lee; phg@sunchon.ac.kr
 Ebrahim Sharaf Almawsheki; almawsheki.e.s@gmail.com
 Muhammad Zaly Shah; b-zaly@utm.my
 Hui Shan LOH; hsloh1@e.ntu.edu.sg
@@ -136,7 +231,6 @@ Vinh Van Thai; vvthai@ntu.edu.sg
 Vikram Garaniya; V.Garaniya@utas.edu.au
 Christopher Chin; c.chin@utas.edu.au
 Zhi Hui Leong; zhleong@postoffice.utas.edu.au
-Okan Duru; duruokan@yahoo.com
 Mary R. Brooks; m.brooks@dal.ca
 Wayne Talley; wktalle@odu.edu
 Geoffrey Aerts; Geoffrey.Aerts@vub.ac.be
@@ -198,9 +292,6 @@ Na Young Hwan Choi; chnayoung@hotmail.com
 Ceren Altuntaş; ceren.altuntas@yasar.edu.tr
 Kate Hughes; kate.hughes@hughes-scm.com
 Sae-yeon Roh; rohs1@cardiff.ac.uk
-Chul-hwan Han; chhan16@dongseo.ac.kr
-Bao Jiang; bjouc@yahoo.cn
-Jian Li; mclijian@hotmail.com
 Xiaoying Mao; Sigridm@163.com.cn
 Bong-min JUNG; bmjung@kmi.re.kr
 Sung-june KIM; s-junekim@daum.net
@@ -227,10 +318,8 @@ Dun-Ji Chen; djchen@mail.nkuht.edu.tw
 Shih-Wu Liang; wuu@cc.shu.edu.tw
 Hai Tran; Tranth@amc.edu.au
 Rong-Her Chiu; chiu12@mail.ntou.edu.tw
-Taih-Cherng Lirn; tedlirn@mail.ntou.edu.tw
 Chia-Yi Li; mcyli@mail.ntou.edu.tw
 Bing-Yan Lu; bylu@mail.ndhu.edu.tw
-Kuo-Chung Shang; gordon@mail.ntou.edu.tw
 Sang-cheol Suh; calebsuh@tu.ac.kr
 Veerachai Gosasang; veerag1968@hotmail.com
 Watcharavee Chandraprakaikul; watvee@gmail.com
@@ -273,17 +362,13 @@ Yeong-sok Ha; hysok@kmu.ac.kr
 Jia-bin Li; li_jiabin@126.com
 Yong-sik Oh; ysoh@hhu.ac.la
 Chin-Shan Lu; lucs@mail.ncku.edu.tw
-Chi-Chang Lin; r58981019@mail.ncku.edu.tw
 Katsuhiko Hayashi; ka-hayashi@rku.ac.jp
 Toshinori Nemoto; cc00330@srv.cc.hit-u.ac.jp
 Jim Mi Jimmy Ng; lgting@inet.polyu.edu.hk
 Wayne K. Talley; WKTalley@odu.edu
 Jong-Soon Koo; jskoo@cnu.ac.kr
 Ki-Soon Hwang; k.hwang@kingston.ac.uk
-Hee-Jung Yeo; hyeo@cnu.ac.kr
-Yi-Chih Yang; hgyang@mail.nkmu.edu.tw
 Yeongseok Ha; hysok@kmu.ac.kr
-Kunio Miyashita; miyashita@dis.osaka-sandai.ac.jp
 Sang-youl KIM; ksy@pusan.ac.kr
 Un-Soo Kim; luck@kmi.re.kr
 Sung-woo Lee; waterfront@kmi.re.kr

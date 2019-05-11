@@ -1,18 +1,74 @@
+Abdol Aziz Shahraki; sharaki@kth.se, aa.shahraki@yahoo.com
+Sangam Shrestha; sangamshrestha@gmail.com, sangam@ait.asia
+Sheelan M. Hama; drsheelan@yahoo.com
+Nahla N. Hilal; nahla_naji2007@yahoo.com
+Wole Morenikeji; oluwole@futminna.edu.ng
+Md. Abdul Hai; abdul.hai@helsinki.fi, hai_bsb@yahoo.com
+Md. Munjur E. Moula; munjur.sa@gmail.com, munjur.moula@helsinki.fi
+Ullamaija Seppälä; ullamaija.seppala@helsinki.fi
+Aliakbar Kamari; ak@eng.au.dk
+Rossella Corrao; rossella.corrao@unipa.it
+Poul Henning Kirkegaard; phk@eng.au.dk
+Sirisha Adamala; sirisha@agfe.iitkgp.ernet.in
+Mohamed M. Ouf; oufm@myumanitoba.ca
+Mohamed H. Issa; Mohamed.Issa@umanitoba.ca
+Ferdouz V. Cochran; ferdouz@gmail.com
+Elmira Jamei; ejamei@deakin.edu.au
+Faezehossadat Khademi; faezehossadat_khademi@yahoo.com
+Mahmoud Akbari; makbari@kashanu.ac.ir
+Mehdi Nikoo; Sazeh84@yahoo.com
+Arindam Datta; arindam.datta@teri.res.in
+M.V. Prasanna; geoprasanna@gmail.com
+Judit Nyári; judit.nyari@aalto.fi
+Angela Bartel; bartel.angela@aalto.fi
+Anil Kumar Misra; anilgeology@gmail.com
+Sajal Chowdhury; sajal_c@cuet.ac.bd, sajal_c@yahoo.com
+D.G. Leo Samuel; dglsam@gmail.com
+Yousef Al Horr; alhorr@gord.qa
+Mohammed Arif; m.arif@salford.ac.uk
+Amit Kaushik; a.k.kaushik1@salford.ac.uk
+Esam Elsarrag; e.lsarrag@gord.qa, elsarrag@hotmail.com
+Shashwat Mishra; sm2081@Cam.ac.uk
+Thomas Bilaliib Udimal; tbudimal2007@yahoo.com
+Annina Takala; annina.takala@tut.fi
+Pervez Ahmed; dr.parvez@uok.edu.in
+Sushant K. Singh; sushantorama@gmail.com
+Faiz Uddin Ahmed Shaikh; s.ahmed@curtin.edu.au
+S. Khettab; khettab_samira@yahoo.fr
+M. Alwetaishi; m.alwetaishi@tu.edu.sa
+İbrahim Türkmen; ibrahim.turkmen@inonu.edu.tr
+Alireza Salahi Moghadam; alireza.salahi@gmail.com
+Ali Soltani; ali.soltani@unisa.edu.au
+Bruno Parolin; b.parolin@unsw.edu.au
+M. Khelifa; mourad.khelifa@univ-lorraine.fr
+Moncef Krarti; krarti@colorado.edu
+Mustafa M. Al-Tayeb; mtayeb2005@yahoo.com
+Wasim Salama; was-s@najah.edu
+Brian O. Oyegbile; brian.oyegbile@fuoye.edu.ng, brian.oyegbile@gmail.com
+Benjamin A. Oyegbile; hollander196@yahoo.com
+S. Samad; hodcivil@cusit.edu.pk
+A. Shah; drshah965@gmail.com
+Christopher Fapohunda; christopher.fapohunda@fuoye.edu.ng
+Bolatito Akinbile; timboljekbuild@yahoo.com
+Ahmed Shittu; ahmed.shittu.0378@fuoye.edu.ng
+Rokhshad Hejazi; rokhshad47@yahoo.com
+Aman Randhawa; 2015par5211@mnit.ac.in
+Ashwani Kumar; ashwani.patiyal@gmail.com
+Moshood Olawale Fadeyi; fadeyi.moshood@singaporetech.edu.sg
+Tunbosun B. Oyedokun; tunbosun.oyedokun@glasgow.ac.uk
+Ammar Elhoweris; a.elhoweris@gord.qa
 Laura Estévez-Mauriz; laura.estevez@chalmers.se
 Nnaemeka Madumere; ab4484@coventry.ac.uk
 Aman A. Bolar; aman.bolar@alumni.ubc.ca
 Solomon Tesfamariam; solomon.tesfamariam@ubc.ca
 Rehan Sadiq; rehan.sadiq@ubc.ca
 Niragi Dave; niragi28@gmail.com
-Anil Kumar Misra; anilgeology@gmail.com
 G.M. Sadiqul Islam; gmsislam@yahoo.com
 M.H. Rahman; mhrahman@portcity.edu.bd
 Margarita Teutli León; teutli23@hotmail.com
 Efthimia Pantzartzis; e.pantzartzis@lboro.ac.uk
 Ritu Ahuja; rahuja@rics.org
 Anil Sawhney; asawhney@rics.org
-Mohammed Arif; m.arif@salford.ac.uk
-Sheelan M. Hama; drsheelan@yahoo.com
 Alaa M. Rashad; alaarashad@yahoo.com, a.rashad@hbrc.edu.eg
 Ali Cheshmehzangi; Ali.Cheshmehzangi@nottingham.edu.cn
 Ali Hosseini; a.hosseini@ut.ac.ir
@@ -31,7 +87,6 @@ Kazi P. Fattah; kfattah@aus.edu
 Adil K. Al-Tamimi; atamimi@aus.edu
 Waseem Hamweyah; w.hamweyah@gmail.com
 Nahla Naji Hilal; nahla_naji2007@yahoo.com
-Ashwani Kumar; ashwani.patiyal@gmail.com
 Akanbi Olusayo Oyebanji; oyebanjiolusayo@yahoo.co.uk
 Champika Liyanage; CLLiyanage@uclan.ac.uk
 Akintola Akintoye; AAkintoye@uclan.ac.uk
@@ -47,14 +102,12 @@ Krishna Kumar Lawania; krishna.lawania@curtin.edu.au
 Peter Waweru Wangai; peterwangai@gmail.com
 A. Mortensen; andrea_mortensen@hotmail.com
 R. Nagaraj; rnagaraj@igcar.gov.in
-Faiz Uddin Ahmed Shaikh; s.ahmed@curtin.edu.au
 Omprakash Sahu; ops0121@gmail.com
 Heekwan Lee; airgroup@incheon.ac.kr
 Jnyanendra Kumar Prusty; jkumar.prusty@gmail.com
 Sanjaya Kumar Patro; litusanjay@yahoo.com
 S.S. Basarkar; sunil.basarkar@itdcem.co.in
 Kareem Mohamed Aldali; kokoaldali2001@yahoo.com
-Faezehossadat Khademi; faezehossadat_khademi@yahoo.com
 S. Manu; manussit1982@gmail.com
 T.K. Chandrashekar; chandra_ssit@yahoo.co.in
 B.D. Madurapperuma; bdm280@humboldt.edu
@@ -91,8 +144,6 @@ M. Syal; syalm@msu.edu
 Yousef Al horr; alhorr@gord.qa
 Martha Katafygiotou; m.katafygiotou@gord.qa
 Ahmed Mazroei; amazroei@qataridiar.com
-Amit Kaushik; a.k.kaushik1@salford.ac.uk
-Esam Elsarrag; e.lsarrag@gord.qa, elsarrag@hotmail.com
 Emilia Conte; emilia.conte@poliba.it
 Scott H. Smith; scotths@uga.edu
 Stephan A. Durham; sdurham@uga.edu

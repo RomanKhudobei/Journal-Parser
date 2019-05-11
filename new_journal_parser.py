@@ -7,7 +7,6 @@ import time
 import re
 import multiprocessing as mp
 from multiprocessing import Pool
-from pprint import pprint
 
 import requests
 from bs4 import BeautifulSoup as BS
@@ -48,7 +47,7 @@ def get_all_volumes(json_string):
     json_string = json.loads(json_string)     # I don't know why, but loads() returns str...
     json_data = json.loads(json_string)       # so that's why I'm doing this again
 
-    path = json_data.get('journalBanner', {}).get('title')      # journal url path-name
+    path = json_data.get('titleMetadata', {}).get('title')      # journal url path-name
 
     data = json_data.get('issuesArchive', {}).get('data', {}).get('results', {})
 
@@ -57,6 +56,7 @@ def get_all_volumes(json_string):
         return results
 
     journal_id = data[0].get('firstIssue', {}).get('issn')
+
     for obj in data:
         year = str(obj.get('year', ''))
         request_link = '{}/journal/{}/year/{}/issues'.format(domain, journal_id, year)
@@ -68,7 +68,7 @@ def goto_all_issues(url):
     '''Returns url to all issues from main journal page'''
     domain = 'http://www.sciencedirect.com'
     soup = define_soup(url)
-    tag = soup.find('a', {'class': 'button-alternative js-latest-issues-link-text button-alternative-primary'})
+    tag = soup.find('a', {'class': 'js-latest-issues-link-text'})
     link = tag.get('href')
     link_to_all_volumes = '{}{}'.format(domain, link)
     return link_to_all_volumes
